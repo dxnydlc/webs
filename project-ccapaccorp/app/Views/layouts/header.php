@@ -1,12 +1,12 @@
 
 
 
-        <header class="main-header">
+        <header class=" <?= $this->renderSection('header-class') ?> " >
             <nav class="main-menu main-menu-with-bg">
                 <div class="container">
                     <div class="main-menu__logo">
                         <a href="/">
-                            <img src="<?= esc($APP_URL) ?>2024/logo-06.png" width="186"  alt="Eduact">
+                            <img src="<?= esc($APP_URL) ?>2024/logo-08.png" width="186"  alt="Eduact">
                         </a>
                     </div><!-- /.main-menu__logo -->
                     <div class="main-menu__nav">

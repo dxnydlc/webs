@@ -39,6 +39,10 @@
         var _URL_HOME = '<?= esc($APP_URL) ?>';
     </script>
 
+    <!-- LOS CSS -->
+    <?= $this->renderSection('los_css') ?>
+    <!-- ./LOS CSS -->
+
 </head>
 
 <body class="custom-cursor">
