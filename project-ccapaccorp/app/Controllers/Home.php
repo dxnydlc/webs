@@ -6,6 +6,7 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        return view('welcome_message');
+        $data['APP_URL']    = getenv('app.baseURL');
+        return view('welcome_message', $data);
     }
 }
