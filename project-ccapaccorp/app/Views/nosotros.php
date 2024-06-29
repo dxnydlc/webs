@@ -40,14 +40,11 @@ main-header-two
             <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
         </div><!-- /.stricky-header -->
         <section class="page-header @@extraClassName" data-jarallax data-speed="0.3" data-imgPosition="50% -100%">
-            <div class="page-header__bg jarallax-img"></div><!-- /.page-header-bg -->
-            <div class="page-header__overlay"></div><!-- /.page-header-overlay -->
+            <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-05.png);" ></div><!-- /.page-header-bg -->
+            <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.3)" ></div><!-- /.page-header-overlay -->
             <div class="container text-center">
-                <h2 class="page-header__title">NOSOTROS</h2><!-- /.page-title -->
-                <ul class="page-header__breadcrumb list-unstyled">
-                    <li><a href="/">Inicio</a></li>
-                    <li><span>Nostros</span></li>
-                </ul><!-- /.page-breadcrumb list-unstyled -->
+                <h2 class="page-header__title" style="text-transform: none;" >Nosotros</h2><!-- /.page-title -->
+                <!-- /.page-breadcrumb list-unstyled -->
             </div><!-- /.container -->
         </section><!-- /.page-header -->
 
@@ -62,21 +59,13 @@ main-header-two
                             </div><!-- /.about-thumb-one -->
                             <div class="about-two__thumb__two">
                                 <img src="assets/images/resources/about-2-1-about.jpg" alt="eduact">
-                                <div class="about-two__thumb__two-icon"><span class="icon-business"></span></div>
+                                
                             </div><!-- /.about-thumb-two -->
                             <!-- /.fact-item -->
-                            <div class="about-two__thumb__shape1 wow zoomIn" data-wow-delay="300ms">
-                                <img src="assets/images/shapes/about-2-shape-1.png" alt="eduact">
-                            </div><!-- /.about-shape-one -->
-                            <div class="about-two__thumb__shape2 wow zoomIn" data-wow-delay="400ms">
-                                <img src="assets/images/shapes/about-2-shape-2.png" alt="eduact">
-                            </div><!-- /.about-shape-two -->
-                            <div class="about-two__thumb__shape3 wow zoomIn" data-wow-delay="400ms">
-                                <img src="assets/images/shapes/about-2-shape-3.png" alt="eduact">
-                            </div><!-- /.about-shape-two -->
-                            <div class="about-two__thumb__shape4 wow zoomIn" data-wow-delay="400ms">
-                                <img src="assets/images/shapes/about-2-shape-4.png" alt="eduact">
-                            </div><!-- /.about-shape-two -->
+                            <!-- /.about-shape-one -->
+                            <!-- /.about-shape-two -->
+                            <!-- /.about-shape-two -->
+                            <!-- /.about-shape-two -->
                         </div><!-- about thumb end -->
                     </div>
                     <div class="col-xl-6 wow fadeInRight" data-wow-delay="100ms">

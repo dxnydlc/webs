@@ -15,7 +15,7 @@ $routes->get('/contacto', 'Home::contacto');
 
 $routes->get('/curso/01/(:any)', 'Home::curso_01/$1');
 
-
+$routes->get('/curso/02/(:any)', 'Home::curso_02/$1');
 // /etc/apache2/sites-available/
 // /var/www/html/repos/webs/project-ccapaccorp/public/
 // www.ccapaccorp.delacruz.pe

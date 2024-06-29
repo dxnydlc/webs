@@ -29,4 +29,11 @@ class Home extends BaseController
         $data['texto']  = $texto;
         return view( 'curso/curso_01' , $data );
     }
+
+    public function curso_02( $texto ): string
+    {
+        $data['APP_URL']    = getenv('app.baseURL');
+        $data['texto']  = $texto;
+        return view( 'curso/curso_02' , $data );
+    }
 }

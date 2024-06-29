@@ -4486,7 +4486,7 @@ h6 {
 
 .main-header-two .main-menu__list > li.current > a,
 .main-header-two .main-menu__list > li:hover > a {
-  color: var(--eduact-base);
+  /* color: var(--eduact-base); */
 }
 
 .main-header-two .main-menu .main-menu__list > li {
@@ -4563,7 +4563,7 @@ h6 {
 .main-menu-with-bg.main-menu .main-menu__list > li:hover > a,
 .main-menu-with-bg.stricky-header .main-menu__list > li.current > a,
 .main-menu-with-bg.stricky-header .main-menu__list > li:hover > a {
-  color: var(--eduact-base);
+  /* color: var(--eduact-base); */
 }
 
 .main-menu-with-bg .main-menu__login,

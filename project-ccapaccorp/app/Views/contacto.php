@@ -41,46 +41,41 @@ main-header-two
             <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
         </div><!-- /.stricky-header -->
         <section class="page-header page-header--bg-two" data-jarallax data-speed="0.3" data-imgPosition="50% -100%">
-            <div class="page-header__bg jarallax-img"></div><!-- /.page-header-bg -->
-            <div class="page-header__overlay"></div><!-- /.page-header-overlay -->
+            <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-07.png);" ></div><!-- /.page-header-bg -->
+            <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.3)" ></div><!-- /.page-header-overlay -->
             <div class="container text-center">
-                <h2 class="page-header__title">Contacto</h2><!-- /.page-title -->
-                <ul class="page-header__breadcrumb list-unstyled">
-                    <li><a href="/">Inicio</a></li>
-                    <li><span>Contacto</span></li>
-                </ul><!-- /.page-breadcrumb list-unstyled -->
+                <h2 class="page-header__title" style="text-transform: none;" >Contáctanos</h2><!-- /.page-title -->
+                <!-- /.page-breadcrumb list-unstyled -->
             </div><!-- /.container -->
         </section><!-- /.page-header -->
         <!-- Contact Start -->
         <section class="contact-one">
             <div class="container wow fadeInUp" data-wow-delay="300ms">
                 <div class="section-title  text-center">
-                    <h5 class="section-title__tagline">
-                        contacto
-                    </h5>
-                    <h2 class="section-title__title">Sientete libre de escribir en cualquier momento</h2>
+                    
+                    <h2 class="section-title__title">Escríbanos que lo atenderemos con la mayor brevedad posible.</h2>
                 </div><!-- section-title -->
                 <div class="contact-one__form-box  text-center">
                     <form action="assets/inc/sendemail.php" class="contact-one__form contact-form-validated" novalidate="novalidate">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="contact-one__input-box">
-                                    <input type="text" placeholder="Your Name" name="Nombre">
+                                    <input type="text" placeholder="Nombre" name="Nombre">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="contact-one__input-box">
-                                    <input type="email" placeholder="Email Address" name="Correo">
+                                    <input type="email" placeholder="Correo" name="Correo">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="contact-one__input-box">
-                                    <input type="text" placeholder="Phone" name="Telefono">
+                                    <input type="text" placeholder="Teléfono" name="Telefono">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="contact-one__input-box">
-                                    <input type="text" placeholder="Subject" name="Asunto">
+                                    <input type="text" placeholder="Asunto" name="Asunto">
                                 </div>
                             </div>
                             <div class="col-md-12">
@@ -104,19 +99,14 @@ main-header-two
                 <ul class="contact-info__wrapper">
                     <li>
                         <div class="contact-info__icon"><span class="icon-Call"></span></div>
-                        <p class="contact-info__title">Have any question?</p>
-                        <h4 class="contact-info__text">Free <a href="tel:230008050">+ 23 (000)-8050</a></h4>
+    
+                        <h4 class="contact-info__text"><a href="tel:+51941280252">941 280 252</a>
                     </li>
-                    <li class="active">
+                    <li class="active22">
                         <div class="contact-info__icon"><span class="icon-Email"></span></div>
-                        <p class="contact-info__title">Send Email</p>
-                        <h4 class="contact-info__text"><a href="mailto:Demo@gmail.com">Demo@gmail.com</a></h4>
+                        <h4 class="contact-info__text"><a href="mailto:capacitaciones@ccapaccorp.com.pe" >capacitaciones@ccapaccorp.com.pe</a></h4>
                     </li>
-                    <li>
-                        <div class="contact-info__icon"><span class="icon-Location"></span></div>
-                        <p class="contact-info__title">Visit Anytime</p>
-                        <h4 class="contact-info__text">6391 Elgin St. Delaware 10299</h4>
-                    </li>
+                    
                 </ul>
             </div>
         </section>

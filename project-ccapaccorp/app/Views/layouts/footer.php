@@ -7,14 +7,14 @@
             <div class="col-xl-4 col-md-5 wow fadeInUp" data-wow-delay="100ms">
                 <div class="main-footer-two__about">
                     <a href="index.html" class="main-footer-two__logo">
-                        <img src="/2024/logo-05.png" alt="eduact" width="220" >
+                        <img src="/2024/logo-10.jpeg" alt="eduact" width="430" >
                     </a><!-- /.footer-logo -->
                     <ul class="main-footer-two__info-list">
                         <!--<li><span class="icon-Location"></span>6391 Elgin St. Celina, Delaware 10299</li>-->
-                        <li style="color: #666" >
+                        <li style="color: #666;font-size:22px;" >
                             <span class="icon-Telephone"></span><a href="tel:+51941280252">941 280 252</a>
                         </li>
-                        <li style="color: #666" >
+                        <li style="color: #666;font-size:22px;" >
                             <span class="icon-Email"></span><a href="mailto:capacitaciones@ccapaccorp.com.pe">capacitaciones@ccapaccorp.com.pe</a>
                         </li>
                     </ul>
@@ -27,15 +27,16 @@
                     <!-- /.footer-social -->
                 </div><!-- footer-top -->
             </div>
+            <div class=" col-md-2 wow fadeInUp" data-wow-delay="200ms"></div>
             <div class="col-xl-3 col-md-4 wow fadeInUp" data-wow-delay="200ms">
                 <div class="main-footer-two__navmenu main-footer-two__widget01">
                     <h3 class="main-footer-two__title" style="color: #666" >Enlaces</h3>
                     <ul>
-                        <li style="color: #666" >
+                        <li style="color: #666;font-size:22px;" >
                             <a href="/">Inicio</a></li>
-                        <li style="color: #666" >
+                        <li style="color: #666;font-size:22px;" >
                             <a href="/nosotros">Nosotros</a></li>
-                        <li style="color: #666" >
+                        <li style="color: #666;font-size:22px;" >
                             <a href="/contacto" >Contacto</a></li>
                     </ul><!-- /.list-unstyled -->
                 </div><!-- /.footer-menu -->

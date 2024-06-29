@@ -70,7 +70,7 @@
 
         <section class="copyright text-center">
             <div class="container wow fadeInUp" data-wow-delay="400ms">
-                <p class="copyright__text">Copyright <span class="dynamic-year"></span><!-- /.dynamic-year --> | Eduact HTML Template. All Rights Reserved</p>
+                <p class="copyright__text">Copyright &#169; <span class="dynamic-year"></span><!-- /.dynamic-year --> | CcapaCcorp - Centro de Capacitación & Competencias Corporativas.</p>
             </div><!-- /.container -->
         </section><!-- /.copyright -->
 
@@ -91,11 +91,11 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fas fa-envelope"></i>
-                    <a href="mailto:needhelp@company.com">needhelp@company.com</a>
+                    <a href="mailto:capacitaciones@ccapaccorp.com.pe">capacitaciones@ccapaccorp.com.pe</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:+9236809850">+92 (3680) - 9850</a>
+                    <a href="tel:+51941280252">941 280 252</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__social">
