@@ -7,7 +7,7 @@
             <div class="col-xl-4 col-md-5 wow fadeInUp" data-wow-delay="100ms">
                 <div class="main-footer-two__about">
                     <a href="index.html" class="main-footer-two__logo">
-                        <img src="/2024/logo-10.jpeg" alt="eduact" width="430" >
+                        <img src="/2024/logo-10.jpeg" alt="eduact" class=" img-fluid " >
                     </a><!-- /.footer-logo -->
                     <ul class="main-footer-two__info-list">
                         <!--<li><span class="icon-Location"></span>6391 Elgin St. Celina, Delaware 10299</li>-->
@@ -34,8 +34,8 @@
                     <ul>
                         <li style="color: #666;font-size:22px;" >
                             <a href="/">Inicio</a></li>
-                        <li style="color: #666;font-size:22px;" >
-                            <a href="/nosotros">Nosotros</a></li>
+                        <!-- <li style="color: #666;font-size:22px;" >
+                            <a href="/nosotros">Nosotros</a></li> -->
                         <li style="color: #666;font-size:22px;" >
                             <a href="/contacto" >Contacto</a></li>
                     </ul><!-- /.list-unstyled -->
