@@ -67,7 +67,7 @@ main-header-two
                             </div>
                             <div class="col-md-6">
                                 <div class="contact-one__input-box">
-                                    <input type="email" placeholder="Correo electŕonico*" name="Correo">
+                                    <input type="email" placeholder="Correo electrónico*" name="Correo">
                                 </div>
                             </div>
                             <div class="col-md-6">
