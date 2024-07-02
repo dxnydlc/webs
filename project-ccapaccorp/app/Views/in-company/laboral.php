@@ -45,7 +45,7 @@ main-header-two
     <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-09.png);" ></div><!-- /.page-header-bg -->
     <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.5)" ></div><!-- /.page-header-overlay -->
     <div class="container text-center">
-        <h2 class="page-header__title" style="text-transform: none;" >laboral</h2>
+        <h2 class="page-header__title" style="text-transform: none;" >Laboral</h2>
         <!-- /.page-title -->
         <!-- /.page-breadcrumb list-unstyled -->
     </div><!-- /.container -->
