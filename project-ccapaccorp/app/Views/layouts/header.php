@@ -28,13 +28,13 @@
                                 <a href="#" style="text-transform: none;" >Seminarios</a>
                                 <ul style="top: 55%" >
                                     <li>
-                                        <a href="about.html">Tributario</a>
+                                        <a href="/seminario/laboral" >Laboral</a>
                                     </li>
                                     <li>
-                                        <a href="about.html">Laboral</a>
+                                        <a href="/seminario/tributario" >Tributario</a>
                                     </li>
                                     <li>
-                                        <a href="about.html">Contable</a>
+                                        <a href="/seminario/contable" >Contable</a>
                                     </li>
                                 </ul>
                             </li>
@@ -43,10 +43,10 @@
                                 <a href="#">Capacitación In Company</a>
                                 <ul style="top: 55%" >
                                     <li>
-                                        <a href="/capacitacion-in-company/tributario" >Tributario</a>
+                                        <a href="/capacitacion-in-company/laboral">Laboral</a>
                                     </li>
                                     <li>
-                                        <a href="/capacitacion-in-company/laboral">Laboral</a>
+                                        <a href="/capacitacion-in-company/tributario" >Tributario</a>
                                     </li>
                                     <li>
                                         <a href="/capacitacion-in-company/contable">Contable</a>

@@ -26,6 +26,21 @@ CcapaCcorp
 
 
 
+
+
+<?= $this->section('los_css') ?>
+
+<style>
+    .owl-dots{
+        bottom: 180px !important;
+    }
+</style>
+
+<?= $this->endSection() ?>
+<!-- ************************************************** -->
+
+
+
 <!-- ************************************************** -->
 <?= $this->section('content') ?>
 
@@ -101,7 +116,7 @@ CcapaCcorp
                         <!-- slider-shape-2 -->
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-6">
+                                <div class="col-lg-8">
                                     <div class="main-slider__content">
                                         <h2 class="main-slider__title" style="text-transform: none;" >¿Sabes cómo afrontar exitosamente una inspección de SUNAFIL?</h2><!-- slider-title -->
                                         <p class="main-slider__text">Expositor: César Puntriano Rosas<br/>Martes 16 de julio.</p><!-- slider-text -->
@@ -112,10 +127,10 @@ CcapaCcorp
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-6">
+                                <div class="col-lg-4" style="position:relative;" >
                                     <div class="main-slider__layer">
                                         <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
-                                            <img src="/2024/Expositor-01-549x825.png" alt="eduact">
+                                            <img src="/2024/Expositor-01.jpeg" alt="eduact" class=" img-fluid img-resposive " />
                                         </div>
                                         
                                     </div>
@@ -158,7 +173,7 @@ CcapaCcorp
                     <div class="col-lg-6">
                         <div class="section-title wow fadeInLeft" data-wow-delay="100ms">
                             <br/>
-                            <h5 class="section-title__tagline" style="font-size: 46px;color: #3176c1;" >
+                            <h5 class="section-title__tagline" style="font-size: 56px;color: #3176c1;margin-bottom: 30px;" >
                                 CcapaCcorp
                             </h5>
                             
@@ -169,7 +184,7 @@ CcapaCcorp
                         </div><!-- section-title -->
                     </div>
                     <div class="col-lg-6 wow fadeInRight" data-wow-delay="100ms">
-                        <p class="service-three__section-text" style="text-align: justify;" >
+                        <p class="service-three__section-text" style="text-align: justify;font-size: 20px;" >
                         Tiene como objetivo ampliar y fortalecer los conocimientos, aptitudes y habilidades de los profesionales que se desenvuelven diariamente en las empresas, brindándoles herramientas acordes a sus necesidades, para que logren un desempeño laboral exitoso y logren los objetivos institucionales.
                         <br/>
                         En ese sentido, los lineamientos para desarrollar nuestras capacitaciones están sostenidos en temas coyunturales, promulgación y/o modificaciones normativas, necesidades corporativas, expositores con amplios conocimientos y experiencia, entre otros elementos esenciales.
@@ -187,7 +202,8 @@ CcapaCcorp
         
         <!-- Counter End -->
         <!-- Course Start -->
-        <section class="course-three" style="background-image: url(assets/images/shapes/course-bg-3.png);padding: 44px 0 85px;" >
+<!-- background-image: url(assets/images/shapes/course-bg-3.png);padding: 44px 0 85px; -->
+        <section class="course-three" style="" >
             <div class="container">
                 <div class="section-title wow fadeInUp text-center" data-wow-delay="100ms">
                     
@@ -247,7 +263,7 @@ CcapaCcorp
         
         <!-- Testimonial End -->
         <!-- Team Start -->
-        <section class="team-three" style="" >
+        <section class="team-three" style="padding: 50px 0 85px;" >
             <div class="container">
                 <div class="section-title text-center wow fadeInUp" data-wow-delay="100ms">
                     
