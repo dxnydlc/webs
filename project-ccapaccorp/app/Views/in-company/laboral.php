@@ -45,14 +45,14 @@ main-header-two
     <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-09.png);" ></div><!-- /.page-header-bg -->
     <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.5)" ></div><!-- /.page-header-overlay -->
     <div class="container text-center">
-        <h2 class="page-header__title" style="text-transform: none;" >laboral</h2>
+        <h2 class="page-header__title" style="text-transform: none;" >Laboral</h2>
         <!-- /.page-title -->
         <!-- /.page-breadcrumb list-unstyled -->
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
 <!-- course-details-start -->
-<section class="course-details">
+<section class="course-details" style="padding: 60px 0;" >
     <div class="container">
         <div class="row">
             <div class="col-xl-12 ">
@@ -67,7 +67,7 @@ main-header-two
                     <!-- tab-title -->
                     <!-- tab-content -->
                     <div class="course-details__overview">
-                        <p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
+                        <p class="course-details__overview__text" style="font-size:22px;margin-bottom: 3px;" >
                         La capacitación In Company se desarrolla en base a las necesidades de cada empresa. 
                         En tal sentido, escuchamos las necesidades de nuestros clientes, definimos el objetivo y 
                         brindamos la capacitación en materia laboral a la medida de la 

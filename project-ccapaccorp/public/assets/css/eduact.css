@@ -13517,7 +13517,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 .contact-one__input-box input[type="text"],
 .contact-one__input-box input[type="email"] {
-  height: 60px;
+  height: 68px;
   width: 100%;
   border: none;
   background-color: var(--eduact-soft5);

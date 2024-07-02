@@ -52,7 +52,7 @@ main-header-two
 </section><!-- /.page-header -->
 
 <!-- course-details-start -->
-<section class="course-details">
+<section class="course-details" style="padding: 60px 0;" >
     <div class="container">
         <div class="row">
             <div class="col-xl-12 ">
@@ -67,7 +67,7 @@ main-header-two
                     <!-- tab-title -->
                     <!-- tab-content -->
                     <div class="course-details__overview">
-                        <p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
+                        <p class="course-details__overview__text" style="font-size:22px;margin-bottom: 3px;" >
                         La capacitación In Company se desarrolla en base a las necesidades de 
                         cada empresa. En tal sentido, escuchamos las necesidades de nuestros 
                         clientes, definimos el objetivo y brindamos la capacitación en materia 

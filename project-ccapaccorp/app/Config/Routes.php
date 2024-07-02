@@ -21,6 +21,11 @@ $routes->get('/capacitacion-in-company/tributario', 'Home::tributario');
 $routes->get('/capacitacion-in-company/laboral', 'Home::laboral');
 $routes->get('/capacitacion-in-company/contable', 'Home::contable');
 
+
+$routes->get('/seminario/tributario', 'Home::seminario_tributario');
+$routes->get('/seminario/laboral', 'Home::seminario_laboral');
+$routes->get('/seminario/contable', 'Home::seminario_contable');
+
 // /etc/apache2/sites-available/
 // /var/www/html/repos/webs/project-ccapaccorp/public/
 // www.ccapaccorp.delacruz.pe
