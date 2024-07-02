@@ -202,7 +202,8 @@ CcapaCcorp
         
         <!-- Counter End -->
         <!-- Course Start -->
-        <section class="course-three" style="background-image: url(assets/images/shapes/course-bg-3.png);padding: 44px 0 85px;" >
+<!-- background-image: url(assets/images/shapes/course-bg-3.png);padding: 44px 0 85px; -->
+        <section class="course-three" style="" >
             <div class="container">
                 <div class="section-title wow fadeInUp text-center" data-wow-delay="100ms">
                     
