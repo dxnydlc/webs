@@ -32,7 +32,7 @@ CcapaCcorp
 
 <style>
     .owl-dots{
-        /* bottom: 300px !important; */
+        bottom: 180px !important;
     }
 </style>
 
