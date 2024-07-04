@@ -33,7 +33,7 @@
     <link rel="stylesheet" href="<?= esc($APP_URL) ?>assets/vendors/owl-carousel/assets/owl.theme.default.min.css" />
 
     <!-- template styles -->
-    <link rel="stylesheet" href="<?= esc($APP_URL) ?>assets/css/eduact.css" />
+    <link rel="stylesheet" href="<?= esc($APP_URL) ?>assets/css/eduact.css?v=<?= esc(VERSION) ?>" />
 
     <script>
         var _URL_HOME = '<?= esc($APP_URL) ?>';

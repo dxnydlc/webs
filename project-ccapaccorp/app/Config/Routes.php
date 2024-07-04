@@ -2,6 +2,17 @@
 
 use CodeIgniter\Router\RouteCollection;
 
+
+# Random index para las versiones JS
+$characters         = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+$charactersLength   = strlen($characters);
+$randomString       = '';
+for ($i = 0; $i < 2; $i++) {// 2 digitos
+    $randomString .= $characters[rand(0, $charactersLength - 1)];
+}
+define( 'VERSION' , $randomString );
+
+
 /**
  * @var RouteCollection $routes
  */
