@@ -83,7 +83,9 @@
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="<?= esc($APP_URL) ?>assets/images/logo-light.png" width="183" height="48" alt="eduact" /></a>
+                <a href="/" aria-label="logo image">
+                    <img src="<?= esc($APP_URL) ?>2024/logo-08.png" width="183" height="48" alt="eduact" />
+                </a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -99,10 +101,10 @@
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__social">
-                <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+                <!-- <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
                 <a href="https://www.facebook.com/"><i class="fab fa-facebook"></i></a>
                 <a href="https://www.pinterest.com/"><i class="fab fa-pinterest-p"></i></a>
-                <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a> -->
             </div><!-- /.mobile-nav__social -->
         </div>
         <!-- /.mobile-nav__content -->
