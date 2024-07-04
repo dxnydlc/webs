@@ -34,6 +34,11 @@ CcapaCcorp
     .owl-dots{
         bottom: 180px !important;
     }
+    @media (max-width: 575px) {
+        .main-menu__logo{
+            max-width : 100% !important;
+        }
+    }
 </style>
 
 <?= $this->endSection() ?>
