@@ -34,6 +34,11 @@ CcapaCcorp
     .owl-dots{
         bottom: 180px !important;
     }
+    @media (max-width: 575px) {
+        .main-menu__logo{
+            max-width : 100% !important;
+        }
+    }
 </style>
 
 <?= $this->endSection() ?>
@@ -58,14 +63,15 @@ CcapaCcorp
 		"animateIn": "fadeIn",
 		"items": 1,
 		"smartSpeed": 1000, 
-        "autoplay": false, 
+        "autoplay": true, 
         "autoplayTimeout": 7000, 
-		"autoplayHoverPause": true,
+		"autoplayHoverPause": false,
 		"nav": false,
 		"dots": true,
 		"margin": 0
 	    }'>
-                <div class="item"><!-- slider-item-start -->
+                <!-- slider-item-start -->
+                <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div><!-- slider-image-->
                         
@@ -107,9 +113,12 @@ CcapaCcorp
                             </div>
                         </div>
                     </div>
-                </div><!-- slider-item-end -->
+                </div>
                 <!-- slider-item-end -->
-                <div class="item"><!-- slider-item-start -->
+                <!-- slider-item-end -->
+
+                <!-- slider-item-start -->
+                <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div><!-- slider-image-->
                         <!-- slider-shape-1 -->
@@ -132,34 +141,57 @@ CcapaCcorp
                                         <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
                                             <img src="/2024/Expositor-01.jpeg" alt="eduact" class=" img-fluid img-resposive " />
                                         </div>
-                                        
                                     </div>
-                                    <div class="main-slider__shape-three">
-                                        
-                                    </div>
+                                    <div class="main-slider__shape-three"></div>
                                     <!-- slider-shape-3 -->
-                                    <div class="main-slider__shape-four">
-                                        
-                                    
-                                    </div><!-- slider-shape-4 -->
-                                    <!-- <div class="main-slider__shape-five">
-                                        <svg viewBox="0 0 124 101" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M118.712 10.0661C118.712 10.0661 48.8261 -23.0444 10.0927 36.3064C3.19101 46.8818 -5.89196 76.3137 5.86651 93.2798C17.625 110.246 31.9191 95.0447 39.4615 82.9168C47.0161 70.7815 63.3887 39.7207 103.51 21.3862C112.963 17.063 132.273 16.0369 118.712 10.0661Z" />
-                                        </svg>
-                                    </div> -->
-                                    <!-- slider-shape-5 -->
-                                    <!-- <div class="main-slider__shape-six">
-                                        <img src="assets/images/shapes/slider-shape-6.png" alt="eduact" />
-                                    </div> -->
-                                    <!-- slider-shape-6 -->
-                                    <!-- slider-shape-6 -->
-                                    <!-- slider-shape-6 -->
-                                    <!-- slider-shape-6 -->
+                                    <div class="main-slider__shape-four"></div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div><!-- slider-item-end -->
+                </div>
+                <!-- slider-item-end -->
+
+
+
+                <!-- slider-item-start -->
+                <div class="item">
+                    <div class="main-slider__item">
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div><!-- slider-image-->
+                        <!-- slider-shape-1 -->
+                        <!-- slider-shape-2 -->
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 ">
+                                    <div class="main-slider__content">
+                                        <h2 class="main-slider__title" style="text-transform: none;" >Última información sobre pago de gratificaciones de julio 2024</h2><!-- slider-title -->
+                                        <!-- <p class="main-slider__text">Expositor: César Puntriano Rosas<br/>Martes 16 de julio.</p> -->
+                                        <!-- slider-text -->
+                                        <div class="main-slider__btn" >
+                                            <a href="<?= esc($APP_URL) ?>capatips/01/ultima-informacion-sobre-gratificaciones-de-julio-2024" class="eduact-btn eduact-btn-second" >
+                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i>
+                                            </a><!-- /.btn -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-5 " style="position:relative111;" >
+                                    <div class="main-slider__layer">
+                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
+                                            <img src="/2024/logo-grati-01.png" alt="eduact" class=" img-fluid img-resposive " style="max-width: 500px;" />
+                                        </div>
+                                    </div>
+                                    <div class="main-slider__shape-three"></div>
+                                    <!-- slider-shape-3 -->
+                                    <div class="main-slider__shape-four"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- slider-item-end -->
+
+
+
             </div>
         </section>
         <!--Main Slider End-->
@@ -185,9 +217,9 @@ CcapaCcorp
                     </div>
                     <div class="col-lg-6 wow fadeInRight" data-wow-delay="100ms">
                         <p class="service-three__section-text" style="text-align: justify;font-size: 20px;" >
-                        Tiene como objetivo ampliar y fortalecer los conocimientos, aptitudes y habilidades de los profesionales que se desenvuelven diariamente en las empresas, brindándoles herramientas acordes a sus necesidades, para que logren un desempeño laboral exitoso y logren los objetivos institucionales.
+                        Tiene como objetivo ampliar y fortalecer los conocimientos, aptitudes y habilidades de los profesionales que se desenvuelven diariamente en las empresas, brindándoles herramientas acorde a sus necesidades, para que logren un desempeño laboral exitoso y logren los objetivos institucionales.
                         <br/>
-                        En ese sentido, los lineamientos para desarrollar nuestras capacitaciones están sostenidos en temas coyunturales, promulgación y/o modificaciones normativas, necesidades corporativas, expositores con amplios conocimientos y experiencia, entre otros elementos esenciales.
+                        En ese sentido, los lineamientos para desarrollar nuestras capacitaciones están sostenidos en nuestro compromiso y seriedad de brindarle a nuestros clientes alternativas de solución prácticas acorde con el marco legal y por supuesto, respaldados por los amplios conocimientos y experiencia de nuestros expositores.
                         </p>
                     </div>
                 </div>
@@ -273,59 +305,45 @@ CcapaCcorp
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-three__item">
                             <div class="team-three__image">
-                                <img src="/2024/Expositor-01.jpeg" alt="eduact">
+                                <img src="/2024/Expositor-01-416-551.png" alt="eduact">
                             </div><!-- /.team-image -->
                             
                             <div class="team-three__content" style="bottom: 75px;" >
                                 <h3 class="team-three__title">
-                                    <a href="team-details.html">César Puntriano Rosas</a>
+                                    <a href="<?= esc($APP_URL) ?>expositor/01/cesar-puntriano-rosas">César Puntriano Rosas</a>
                                 </h3><!-- /.team-name -->
                                 <!-- /.team-designation -->
                                 <!-- /.team-social -->
                             </div><!-- /.team-content -->
                         </div><!-- /.team-three -->
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-three__item">
                             <div class="team-three__image">
-                                <img src="assets/images/team/team-3-2.jpg" alt="eduact">
+                                <img src="/2024/no-user-02.png" alt="eduact">
                             </div><!-- /.team-image -->
-                            <svg viewBox="0 0 314 318" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M0 128.442C0 127.672 0.466088 126.978 1.17922 126.687L309.669 0.767858C311.736 -0.076079 314 1.44482 314 3.67798V161C314 247.709 243.709 318 157 318C70.2913 318 0 247.709 0 161V128.442Z" />
-                            </svg>
-                            <div class="team-three__content">
-                                <a class="team-three__rm" href="team-details.html"><span class="icon-arrow"></span></a><!-- /.read-more-btn -->
+                            
+                            <div class="team-three__content" style="bottom: 75px;" >
                                 <h3 class="team-three__title">
-                                    <a href="team-details.html">Devon Lane</a>
+                                    <a href="<?= esc($APP_URL) ?>expositor/03/rina-rimachi-castaneda">Rina Rimachi Castañeda</a>
                                 </h3><!-- /.team-name -->
-                                <span class="team-three__designation">UI/UX Designer</span><!-- /.team-designation -->
-                                <div class="team-three__social">
-                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
-                                </div><!-- /.team-social -->
+                                <!-- /.team-designation -->
+                                <!-- /.team-social -->
                             </div><!-- /.team-content -->
                         </div><!-- /.team-three -->
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-three__item">
                             <div class="team-three__image">
-                                <img src="assets/images/team/team-3-3.jpg" alt="eduact">
+                                <img src="/2024/Jonathan-Criollo-Rodriguez-01.png" alt="eduact">
                             </div><!-- /.team-image -->
-                            <svg viewBox="0 0 314 318" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M0 128.442C0 127.672 0.466088 126.978 1.17922 126.687L309.669 0.767858C311.736 -0.076079 314 1.44482 314 3.67798V161C314 247.709 243.709 318 157 318C70.2913 318 0 247.709 0 161V128.442Z" />
-                            </svg>
-                            <div class="team-three__content">
-                                <a class="team-three__rm" href="team-details.html"><span class="icon-arrow"></span></a><!-- /.read-more-btn -->
+                            
+                            <div class="team-three__content" style="bottom: 75px;" >
                                 <h3 class="team-three__title">
-                                    <a href="team-details.html">Mike Hardson</a>
+                                    <a href="<?= esc($APP_URL) ?>expositor/02/jonathan-criollo-rodriguez">Jonathan Criollo Rodríguez</a>
                                 </h3><!-- /.team-name -->
-                                <span class="team-three__designation">Designer</span><!-- /.team-designation -->
-                                <div class="team-three__social">
-                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
-                                </div><!-- /.team-social -->
+                                <!-- /.team-designation -->
+                                <!-- /.team-social -->
                             </div><!-- /.team-content -->
                         </div><!-- /.team-three -->
                     </div>

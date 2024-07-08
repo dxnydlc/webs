@@ -58,7 +58,7 @@ main-header-two
 </section><!-- /.page-header -->
 
         <!-- course-details-start -->
-        <section class="course-details">
+        <section class="course-details" style="padding: 40px 0;" >
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12 ">
@@ -189,9 +189,9 @@ main-header-two
                                     <div class="course-details__curriculum">
                                         <h4 class="course-details__curriculum__title">Inversión</h4>
                                         <p class="course-details__curriculum__text">
-                                        S/ 190.00 + IGV 
+                                        S/ 150.00 incluido IGV
                                         <br/>
-                                        10% de descuento sobre el total cuando se registren 3 participantes (tarifa corporativa).
+                                        <!-- 10% de descuento sobre el total cuando se registren 3 participantes (tarifa corporativa). -->
                                         </p>
                                         
                                     </div>
@@ -200,7 +200,7 @@ main-header-two
                                 <div class="tab fadeInUp animated" id="instructor">
                                     <div class="course-details__instructor">
                                         <figure class="course-details__instructor__thumb">
-                                            <img src="/2024/no-user.jpg" alt="eduact" style="height:118%" >
+                                            <img src="/2024/no-user-02.png" alt="eduact" style="height:118%" >
                                         </figure><!-- instructor-image -->
                                         <h4 class="course-details__instructor__name">Rina Rimachi Castañeda</h4><!-- instructor-name -->
                                         <!-- instructor-designation -->

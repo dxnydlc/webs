@@ -3487,7 +3487,7 @@ h6 {
 
 @media (max-width: 575px) {
   p br {
-    display: none;
+    /* display: none; */
   }
 }
 
