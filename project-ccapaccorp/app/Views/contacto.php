@@ -62,12 +62,12 @@ main-header-two
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="contact-one__input-box">
-                                    <input type="text" placeholder="Nombre y apellido *" name="Nombre">
+                                    <input type="text" placeholder="Nombres y apellidos *" name="Nombre">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="contact-one__input-box">
-                                    <input type="email" placeholder="Correo electrónico*" name="Correo">
+                                    <input type="email" placeholder="Correo electrónico *" name="Correo">
                                 </div>
                             </div>
                             <div class="col-md-6">
