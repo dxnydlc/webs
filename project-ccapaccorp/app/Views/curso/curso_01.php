@@ -53,7 +53,7 @@ main-header-two
 </section><!-- /.page-header -->
 
         <!-- course-details-start -->
-        <section class="course-details">
+        <section class="course-details" style="padding: 40px 0;" >
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12 ">
@@ -132,9 +132,9 @@ main-header-two
                                     <div class="course-details__curriculum">
                                         <h4 class="course-details__curriculum__title">Inversión</h4>
                                         <p class="course-details__curriculum__text">
-                                        S/ 200.00 + IGV 
+                                        S/ 170.00 incluido IGV
                                         <br/>
-                                        S/ 190.00 + IGV si te inscribes hasta el 9 de julio 2024.
+                                        <!-- S/ 190.00 + IGV si te inscribes hasta el 9 de julio 2024. -->
                                         </p>
                                         
                                     </div>
