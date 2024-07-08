@@ -67,7 +67,7 @@ main-header-two
                         <div class="team-details__content">
                             <h3 class="team-details__title">Rina Rimachi Castañeda</h3>
                             <!-- /.team-name -->
-                            <span class="team-details__designation" >Expositor</span>
+                            <span class="team-details__designation" >Expositora</span>
                             <!-- /.team-designation -->
                             <p class="team-details__text" style="text-align:justify" >
                             Abogada por la Universidad de San Martín de Porres. Egresada de la Maestría de Derecho Tributario y Fiscalidad Internacional por la misma casa de estudios.
