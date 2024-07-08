@@ -63,9 +63,9 @@ CcapaCcorp
 		"animateIn": "fadeIn",
 		"items": 1,
 		"smartSpeed": 1000, 
-        "autoplay": false, 
-        "autoplayTimeout": 7000, 
-		"autoplayHoverPause": true,
+        "autoplay": true, 
+        "autoplayTimeout": 5000, 
+		"autoplayHoverPause": false,
 		"nav": false,
 		"dots": true,
 		"margin": 0
@@ -113,7 +113,8 @@ CcapaCcorp
                             </div>
                         </div>
                     </div>
-                </div><!-- slider-item-end -->
+                </div>
+                <!-- slider-item-end -->
                 <!-- slider-item-end -->
 
                 <!-- slider-item-start -->
