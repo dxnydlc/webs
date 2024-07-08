@@ -219,7 +219,7 @@ CcapaCcorp
                         <p class="service-three__section-text" style="text-align: justify;font-size: 20px;" >
                         Tiene como objetivo ampliar y fortalecer los conocimientos, aptitudes y habilidades de los profesionales que se desenvuelven diariamente en las empresas, brindándoles herramientas acorde a sus necesidades, para que logren un desempeño laboral exitoso y logren los objetivos institucionales.
                         <br/>
-                        En ese sentido, los lineamientos para desarrollar nuestras capacitaciones están sostenidos en nuestro compromiso, responsabilidad y seriedad  de brindarle a nuestros clientes temas de coyuntura acorde al marco legal y por supuesto, respaldados por los amplios conocimientos y experiencia de nuestros expositores.
+                        En ese sentido, los lineamientos para desarrollar nuestras capacitaciones están sostenidos en nuestro compromiso, responsabilidad y seriedad  de brindarle a nuestros clientes temas de coyuntura conforme al marco legal y por supuesto, respaldados por los amplios conocimientos y experiencia de nuestros expositores.
                         </p>
                     </div>
                 </div>
