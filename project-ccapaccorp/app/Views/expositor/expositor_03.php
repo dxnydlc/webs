@@ -44,9 +44,9 @@ main-header-two
         <section class="team-details">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-5 wow fadeInUp animated" data-wow-delay="300ms">
+                    <div class="col-lg-3 wow fadeInUp animated" data-wow-delay="300ms">
                         <div class="team-details__image">
-                            <img src="/2024/no-user-02.png" alt="eduact">
+                            <img src="/2024/Expositor-565x767.png" alt="eduact">
                             <div class="team-details__image__bg-shape">
                                 <!-- <img src="assets/images/shapes/team-details-shape-bg.png" alt="eduact"> -->
                             </div>

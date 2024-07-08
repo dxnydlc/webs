@@ -161,9 +161,9 @@ CcapaCcorp
                         <!-- slider-shape-2 -->
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-8">
+                                <div class="col-lg-7 ">
                                     <div class="main-slider__content">
-                                        <h2 class="main-slider__title" style="text-transform: none;" >Última información sobre gratificaciones de julio 2024</h2><!-- slider-title -->
+                                        <h2 class="main-slider__title" style="text-transform: none;" >Última información sobre pago de gratificaciones de julio 2024</h2><!-- slider-title -->
                                         <!-- <p class="main-slider__text">Expositor: César Puntriano Rosas<br/>Martes 16 de julio.</p> -->
                                         <!-- slider-text -->
                                         <div class="main-slider__btn" >
@@ -173,10 +173,10 @@ CcapaCcorp
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-4" style="position:relative;" >
+                                <div class="col-lg-5 " style="position:relative111;" >
                                     <div class="main-slider__layer">
                                         <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
-                                            <img src="/2024/curso-banner-05.jpeg" alt="eduact" class=" img-fluid img-resposive " />
+                                            <img src="/2024/logo-grati-01.png" alt="eduact" class=" img-fluid img-resposive " style="max-width: 500px;" />
                                         </div>
                                     </div>
                                     <div class="main-slider__shape-three"></div>
@@ -218,7 +218,7 @@ CcapaCcorp
                         <p class="service-three__section-text" style="text-align: justify;font-size: 20px;" >
                         Tiene como objetivo ampliar y fortalecer los conocimientos, aptitudes y habilidades de los profesionales que se desenvuelven diariamente en las empresas, brindándoles herramientas acordes a sus necesidades, para que logren un desempeño laboral exitoso y logren los objetivos institucionales.
                         <br/>
-                        En ese sentido, los lineamientos para desarrollar nuestras capacitaciones están sostenidos en temas coyunturales, promulgación y/o modificaciones normativas, necesidades corporativas, expositores con amplios conocimientos y experiencia, entre otros elementos esenciales.
+                        En ese sentido, los lineamientos para desarrollar nuestras capacitaciones están sostenidos en nuestro compromiso y seriedad de brindarle a nuestros clientes alternativas de solución prácticas acorde con el marco legal y por supuesto, respaldados por los amplios conocimientos y experiencia de nuestros expositores.
                         </p>
                     </div>
                 </div>
