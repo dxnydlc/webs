@@ -48,3 +48,5 @@ $routes->get('/expositor/03/(:any)', 'Home::expositor_03/$1');
 // www.ccapaccorp.delacruz.pe
 
 // /var/www/html/webs/project-ccapaccorp/public
+// /ssl/ccapaccorp.com.pe.key
+// /ssl/ccapaccorp.com.pe.crt
