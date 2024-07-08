@@ -64,7 +64,7 @@ CcapaCcorp
 		"items": 1,
 		"smartSpeed": 1000, 
         "autoplay": true, 
-        "autoplayTimeout": 5000, 
+        "autoplayTimeout": 7000, 
 		"autoplayHoverPause": false,
 		"nav": false,
 		"dots": true,
