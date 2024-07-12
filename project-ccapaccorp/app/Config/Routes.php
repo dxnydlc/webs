@@ -28,6 +28,12 @@ $routes->get('/curso/01/(:any)', 'Home::curso_01/$1');
 
 $routes->get('/curso/02/(:any)', 'Home::curso_02/$1');
 
+// Obligaciones del empleador frente al hostigamiento sexual laboral
+$routes->get('/curso/03/(:any)', 'Home::curso_03/$1');
+
+// ¿Cómo se desarrolla el procedimiento inspectivo sancionador de la Sunafil?
+$routes->get('/curso/04/(:any)', 'Home::curso_04/$1');
+
 $routes->get('/capacitacion-in-company/tributario', 'Home::tributario');
 $routes->get('/capacitacion-in-company/laboral', 'Home::laboral');
 $routes->get('/capacitacion-in-company/contable', 'Home::contable');

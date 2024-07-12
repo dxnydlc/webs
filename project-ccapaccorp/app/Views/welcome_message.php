@@ -64,32 +64,27 @@ CcapaCcorp
 		"items": 1,
 		"smartSpeed": 1000, 
         "autoplay": true, 
-        "autoplayTimeout": 7000, 
+        "autoplayTimeout": 17000, 
 		"autoplayHoverPause": false,
 		"nav": false,
 		"dots": true,
 		"margin": 0
 	    }'>
                 <!-- slider-item-start -->
-                <div class="item">
+                <!-- Guías de Remisión electrónicas --> 
+                <!-- <div class="item">
                     <div class="main-slider__item">
-                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div><!-- slider-image-->
-                        
-                            
-                        <!-- slider-shape-1 -->
-                        
-                        <!-- slider-shape-2 -->
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="main-slider__content">
-                                        <h2 class="main-slider__title" style="text-transform: none;" >Guías de Remisión electrónicas </h2><!-- slider-title -->
-                                        <p class="main-slider__text">Expositora: Rina Rimachi Castañeda<br/>Martes 9 de julio.</p><!-- slider-text -->
-                                        <!-- slider-text -->
+                                        <h2 class="main-slider__title" style="text-transform: none;" >Guías de Remisión electrónicas</h2>
+                                        <p class="main-slider__text">Expositora: Rina Rimachi Castañeda<br/>Martes 9 de julio.</p>
                                         <div class="main-slider__btn">
                                             <a href="<?= esc($APP_URL) ?>curso/02/Guias-de-Remision-electronicas" class="eduact-btn eduact-btn-second">
                                                 <span class="eduact-btn__curve"></span>Ver seminario<i class="icon-arrow"></i>
-                                            </a><!-- /.btn -->
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -98,41 +93,65 @@ CcapaCcorp
                                         <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
                                             <img src="/2024/curso-banner-04.jpeg" alt="eduact">
                                         </div>
-                                        
                                     </div>
-                                    <!-- slider-shape-3 -->
-                                    <!-- slider-shape-4 -->
-                                    <!-- slider-shape-5 -->
-                                    <!-- slider-shape-6 -->
-                                    <!-- slider-shape-6 -->
-                                    <!-- slider-shape-6 -->
                                     <div class="main-slider__shape-nine">
                                         <img src="assets/images/shapes/slider-shape-9.png" alt="eduact" />
-                                    </div><!-- slider-shape-6 -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <!-- slider-item-end -->
+
+                <!-- slider-item-start -->
+                <div class="item">
+                    <div class="main-slider__item">
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7">
+                                    <div class="main-slider__content">
+                                        <h2 class="main-slider__title" style="text-transform: none;" >Obligaciones del empleador frente al hostigamiento sexual laboral</h2>
+                                        <p class="main-slider__text">Expositor: Jonathan Criollo González<br/>Jueves 8 de agosto.</p>
+                                        <div class="main-slider__btn">
+                                            <a href="<?= esc($APP_URL) ?>curso/03/Obligaciones-del-empleador-frente-al-hostigamiento-sexual-laboral" class="eduact-btn eduact-btn-second">
+                                                <span class="eduact-btn__curve"></span>Ver seminario<i class="icon-arrow"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-5" style="position:relative;" >
+                                    <div class="main-slider__layer">
+                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
+                                            <img src="/2024/banner-27-agosto-01.jpeg" alt="eduact" class=" img-responsive img-fluid " />
+                                        </div>
+                                    </div>
+                                    <div class="main-slider__shape-nine">
+                                        <img src="assets/images/shapes/slider-shape-9.png" alt="eduact" />
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- slider-item-end -->
-                <!-- slider-item-end -->
+
 
                 <!-- slider-item-start -->
                 <div class="item">
                     <div class="main-slider__item">
-                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div><!-- slider-image-->
-                        <!-- slider-shape-1 -->
-                        <!-- slider-shape-2 -->
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-8">
                                     <div class="main-slider__content">
-                                        <h2 class="main-slider__title" style="text-transform: none;" >¿Sabes cómo afrontar exitosamente una inspección de SUNAFIL?</h2><!-- slider-title -->
-                                        <p class="main-slider__text">Expositor: César Puntriano Rosas<br/>Martes 16 de julio.</p><!-- slider-text -->
+                                        <h2 class="main-slider__title" style="text-transform: none;" >¿Sabes cómo afrontar exitosamente una inspección de SUNAFIL?</h2>
+                                        <p class="main-slider__text">Expositor: César Puntriano Rosas<br/>Martes 16 de julio.</p>
                                         <div class="main-slider__btn" >
                                             <a href="<?= esc($APP_URL) ?>curso/01/Sabes-como-afrontar-exitosamente-una-inspeccion-de-SUNAFIL" class="eduact-btn eduact-btn-second" >
                                                 <span class="eduact-btn__curve"></span>Ver seminario<i class="icon-arrow"></i>
-                                            </a><!-- /.btn -->
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -143,7 +162,6 @@ CcapaCcorp
                                         </div>
                                     </div>
                                     <div class="main-slider__shape-three"></div>
-                                    <!-- slider-shape-3 -->
                                     <div class="main-slider__shape-four"></div>
                                 </div>
                             </div>
@@ -155,22 +173,19 @@ CcapaCcorp
 
 
                 <!-- slider-item-start -->
-                <div class="item">
+                <!-- Última información sobre pago de gratificaciones de julio 2024 -->
+                <!-- <div class="item">
                     <div class="main-slider__item">
-                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div><!-- slider-image-->
-                        <!-- slider-shape-1 -->
-                        <!-- slider-shape-2 -->
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-7 ">
                                     <div class="main-slider__content">
-                                        <h2 class="main-slider__title" style="text-transform: none;" >Última información sobre pago de gratificaciones de julio 2024</h2><!-- slider-title -->
-                                        <!-- <p class="main-slider__text">Expositor: César Puntriano Rosas<br/>Martes 16 de julio.</p> -->
-                                        <!-- slider-text -->
+                                        <h2 class="main-slider__title" style="text-transform: none;" >Última información sobre pago de gratificaciones de julio 2024</h2>
                                         <div class="main-slider__btn" >
                                             <a href="<?= esc($APP_URL) ?>capatips/01/ultima-informacion-sobre-gratificaciones-de-julio-2024" class="eduact-btn eduact-btn-second" >
                                                 <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i>
-                                            </a><!-- /.btn -->
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -181,7 +196,40 @@ CcapaCcorp
                                         </div>
                                     </div>
                                     <div class="main-slider__shape-three"></div>
-                                    <!-- slider-shape-3 -->
+                                    <div class="main-slider__shape-four"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <!-- slider-item-end -->
+
+
+
+                <!-- slider-item-start -->
+                <!-- ¿Cómo se desarrolla el procedimiento inspectivo sancionador de la Sunafil? -->
+                <div class="item">
+                    <div class="main-slider__item">
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 ">
+                                    <div class="main-slider__content">
+                                        <h2 class="main-slider__title" style="text-transform: none;" >¿Cómo se desarrolla el procedimiento inspectivo sancionador de la Sunafil?</h2>
+                                        <div class="main-slider__btn" >
+                                            <a href="<?= esc($APP_URL) ?>curso/04/Como-se-desarrolla-el-procedimiento-inspectivo-sancionador-de-la-Sunafil" class="eduact-btn eduact-btn-second" >
+                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 " style="position:relative;" >
+                                    <div class="main-slider__layer">
+                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
+                                            <img src="/2024/banner-08-agosto-01.jpeg" alt="eduact" class=" img-fluid img-resposive " style="" />
+                                        </div>
+                                    </div>
+                                    <div class="main-slider__shape-three"></div>
                                     <div class="main-slider__shape-four"></div>
                                 </div>
                             </div>

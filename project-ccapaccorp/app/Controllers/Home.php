@@ -42,6 +42,24 @@ class Home extends BaseController
         return view( 'curso/curso_02' , $data );
     }
     // ........................................................
+    public function curso_03( $texto ): string
+    {
+        // Obligaciones del empleador frente al hostigamiento sexual laboral
+        $data['APP_URL']    = getenv('app.baseURL');
+        $data['VERSION']  = VERSION;
+        $data['texto']  = $texto;
+        return view( 'curso/curso_03' , $data );
+    }
+    // ........................................................
+    public function curso_04( $texto ): string
+    {
+        // ¿Cómo se desarrolla el procedimiento inspectivo sancionador de la Sunafil?
+        $data['APP_URL']    = getenv('app.baseURL');
+        $data['VERSION']  = VERSION;
+        $data['texto']  = $texto;
+        return view( 'curso/curso_04' , $data );
+    }
+    // ........................................................
     public function tributario(): string
     {
         $data['APP_URL']    = getenv('app.baseURL');
