@@ -55,7 +55,7 @@
                         </li>
                     </ul>
                     <!-- /.list-unstyled -->
-                    <p style="color: #666;font-size:22px;font-weight: 400px;font-weight: bold;" >Seminarios</p>
+                    <p style="color: #666;font-size:22px;font-weight: 400px;font-weight: bold;margin-top: 1rem;" >Seminarios</p>
                     <ul>
                         <li style="color: #666;font-size:22px;" >
                         <a href="/seminario/laboral" >Laboral</a>

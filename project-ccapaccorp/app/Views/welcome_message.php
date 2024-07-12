@@ -104,6 +104,49 @@ CcapaCcorp
                 </div> -->
                 <!-- slider-item-end -->
 
+
+
+
+
+
+                <!-- slider-item-start -->
+                <div class="item">
+                    <div class="main-slider__item">
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-8">
+                                    <div class="main-slider__content">
+                                        <h2 class="main-slider__title" style="text-transform: none;" >¿Sabes cómo afrontar exitosamente una inspección de SUNAFIL?</h2>
+                                        <p class="main-slider__text">Expositor: César Puntriano Rosas<br/>Martes 16 de julio.</p>
+                                        <div class="main-slider__btn" >
+                                            <a href="<?= esc($APP_URL) ?>curso/01/Sabes-como-afrontar-exitosamente-una-inspeccion-de-SUNAFIL" class="eduact-btn eduact-btn-second" >
+                                                <span class="eduact-btn__curve"></span>Ver seminario<i class="icon-arrow"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4" style="position:relative;" >
+                                    <div class="main-slider__layer">
+                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
+                                            <img src="/2024/Expositor-01.jpeg" alt="eduact" class=" img-fluid img-resposive " />
+                                        </div>
+                                    </div>
+                                    <div class="main-slider__shape-three"></div>
+                                    <div class="main-slider__shape-four"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- slider-item-end -->
+
+
+
+
+
+                
+
                 <!-- slider-item-start -->
                 <div class="item">
                     <div class="main-slider__item">
@@ -138,37 +181,7 @@ CcapaCcorp
                 <!-- slider-item-end -->
 
 
-                <!-- slider-item-start -->
-                <div class="item">
-                    <div class="main-slider__item">
-                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-8">
-                                    <div class="main-slider__content">
-                                        <h2 class="main-slider__title" style="text-transform: none;" >¿Sabes cómo afrontar exitosamente una inspección de SUNAFIL?</h2>
-                                        <p class="main-slider__text">Expositor: César Puntriano Rosas<br/>Martes 16 de julio.</p>
-                                        <div class="main-slider__btn" >
-                                            <a href="<?= esc($APP_URL) ?>curso/01/Sabes-como-afrontar-exitosamente-una-inspeccion-de-SUNAFIL" class="eduact-btn eduact-btn-second" >
-                                                <span class="eduact-btn__curve"></span>Ver seminario<i class="icon-arrow"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4" style="position:relative;" >
-                                    <div class="main-slider__layer">
-                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
-                                            <img src="/2024/Expositor-01.jpeg" alt="eduact" class=" img-fluid img-resposive " />
-                                        </div>
-                                    </div>
-                                    <div class="main-slider__shape-three"></div>
-                                    <div class="main-slider__shape-four"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- slider-item-end -->
+                
 
 
 
