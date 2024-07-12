@@ -102,7 +102,7 @@ main-header-two
                         <br/><br>
                         S/ 1,800 + 6.75% EsSalud =S/ 1,921.50
                         <br/><br/>
-
+                        Teniendo en cuenta que la gratificación se paga por mes calendario completo laborado, a este trabajador le corresponde 2/6 de gratificación. En tal sentido, se le tiene que pagar S/ 640.50
                         </p>
 
                         <p class="course-details__overview__text" style="font-size:22px;margin-bottom: 3px;text-align: justify;" ></p>
