@@ -49,8 +49,8 @@ main-header-two
 </div><!-- /.stricky-header -->
 
 <section class="page-header page-header--bg-two"  >
-    <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-06.png);" ></div><!-- /.page-header-bg -->
-    <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.5)" ></div><!-- /.page-header-overlay -->
+    <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-13.png);" ></div><!-- /.page-header-bg -->
+    <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.4)" ></div><!-- /.page-header-overlay -->
     <div class="container text-center">
         <h2 class="page-header__title" style="text-transform: none;" >Obligaciones del empleador frente al hostigamiento sexual laboral</h2><!-- /.page-title -->
         <!-- /.page-breadcrumb list-unstyled -->
@@ -91,11 +91,13 @@ main-header-two
                                 <div class="tab active-tab fadeInUp animated" id="overview">
                                     <div class="course-details__overview">
 
-                                        <p class="course-details__overview__text" style="font-size:20px;" >
+                                        <!-- <p class="course-details__overview__text" style="font-size:20px;" >
                                            <strong>Objetivo:</strong>
-                                        </p>
+                                        </p> -->
                                         <p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
-                                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque, laudantium quidem veniam doloremque nihil, aut fuga similique vel error, ab magnam! Ducimus cum vel blanditiis exercitationem! Dignissimos deleniti fugiat labore!
+                                        Actualmente la Sunafil se encuentra fiscalizando el cumplimiento de las obligaciones laborales en materia de hostigamiento sexual en el trabajo. Sin embargo, muchas empresas desconocen los requerimientos que exige la Ley de Prevención de Hostigamiento Sexual.
+                                        <br/>
+                                        En tal sentido, a través de este seminario le brindaremos los alcances legales para implementar el procedimiento de prevención, investigación y sanción del hostigamiento sexual y evitar contingencias laborales.
                                         </p>
 
                                     </div>
@@ -104,7 +106,7 @@ main-header-two
                                     <div class="course-details__curriculum">
                                         <h4 class="course-details__curriculum__title">Inversión</h4>
                                         <p class="course-details__curriculum__text">
-                                        S/ 150.00 incluido IGV
+                                        S/ 130.00 incluido IGV
                                         <br/>
                                         <!-- 10% de descuento sobre el total cuando se registren 3 participantes (tarifa corporativa). -->
                                         </p>
@@ -120,8 +122,11 @@ main-header-two
                                         <h4 class="course-details__instructor__name" >Jonathan Criollo González</h4><!-- instructor-name -->
                                         <!-- instructor-designation -->
                                         <p class="course-details__instructor__text">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus adipisci officiis architecto illo laudantium cum, reiciendis dolor dicta et, eos nisi delectus vitae amet quibusdam quidem nesciunt distinctio error.
-                                        </p><!-- instructor-text -->
+                                        Especialista en Derecho Laboral Individual, Colectivo, Seguridad Social y Procedimientos Administrativos.
+                                        <br/>
+                                        Cuenta con experiencia en consultoría laboral en el sector privado y asesoría en procedimientos administrativos como asesor laboral en la revista Soluciones Laborales de Gaceta Jurídica, y actualmente forma parte del equipo de consultoría laboral del Estudio Jurídico Rodríguez Angobaldo.
+                                        </p>
+                                        <!-- instructor-text -->
                                     </div>
                                 </div><!-- tab-content-instructor -->
                             </div><!-- tab-content -->

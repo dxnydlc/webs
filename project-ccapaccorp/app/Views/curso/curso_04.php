@@ -49,8 +49,8 @@ main-header-two
 </div><!-- /.stricky-header -->
 
 <section class="page-header page-header--bg-two"  >
-    <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-06.png);" ></div><!-- /.page-header-bg -->
-    <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.5)" ></div><!-- /.page-header-overlay -->
+    <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-12.png);" ></div><!-- /.page-header-bg -->
+    <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.3)" ></div><!-- /.page-header-overlay -->
     <div class="container text-center">
         <h2 class="page-header__title" style="text-transform: none;" >¿Cómo se desarrolla el procedimiento inspectivo sancionador de la Sunafil?</h2><!-- /.page-title -->
         <!-- /.page-breadcrumb list-unstyled -->
@@ -92,11 +92,44 @@ main-header-two
                                     <div class="course-details__overview">
 
                                         <p class="course-details__overview__text" style="font-size:20px;" >
-                                           <strong>Objetivo:</strong>
+                                           <strong>PRINCIPALES CONSIDERACIONES Y RECOMENDACIONES:</strong>
                                         </p>
                                         <p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
-                                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque, laudantium quidem veniam doloremque nihil, aut fuga similique vel error, ab magnam! Ducimus cum vel blanditiis exercitationem! Dignissimos deleniti fugiat labore!
+                                        OBJETIVO: El objetivo de este seminario consiste en establecer un esquema de desarrollo de las diferentes etapas que componen al procedimiento de la Sunafil. Abordaremos las principales consideraciones sobre la etapa de investigación y la etapa sancionadora de dicho proceso, identificando los órganos que intervienen, los plazos, las principales figuras en la actuación inspectiva, así como algunos de los principales criterios adoptados por el Tribunal de Fiscalización Laboral (TFL).
+                                        <br/><br/>
+                                        <strong>TEMARIO:</strong>
                                         </p>
+                                        <ul class="list-unstyled course-details__overview__lists">
+                                            <li>
+                                                <span class="icon-check"></span>
+                                                ¿Qué función cumple la Sunafil? 
+                                            </li>
+                                            <li>
+                                                <span class="icon-check"></span>
+                                                Inicio del proceso inspectivo
+                                            <li>
+                                            <li>
+                                                <span class="icon-check"></span>
+                                                Etapas del procedimiento inspectivo sancionador
+                                            <li>
+                                            <li>
+                                                <span class="icon-check"></span>
+                                                Etapas del procedimiento inspectivo sancionador
+                                                <br/>
+                                                . El requerimiento y la medida inspectiva de requerimiento
+                                                <br/>
+                                                . Fase recursiva
+                                            <li>
+                                            <li>
+                                                <span class="icon-check"></span>
+                                                Sistema de multas y reducción
+                                            <li>
+                                            <li>
+                                                <span class="icon-check"></span>
+                                                Principales criterios del TFL
+                                            <li>
+                                        </ul>
+                                        
 
                                     </div>
                                 </div><!-- tab-content-overview -->
@@ -104,7 +137,7 @@ main-header-two
                                     <div class="course-details__curriculum">
                                         <h4 class="course-details__curriculum__title">Inversión</h4>
                                         <p class="course-details__curriculum__text">
-                                        S/ 150.00 incluido IGV
+                                        S/ 130.00 incluido IGV
                                         <br/>
                                         <!-- 10% de descuento sobre el total cuando se registren 3 participantes (tarifa corporativa). -->
                                         </p>
@@ -120,8 +153,11 @@ main-header-two
                                         <h4 class="course-details__instructor__name" >Jonathan Criollo González</h4><!-- instructor-name -->
                                         <!-- instructor-designation -->
                                         <p class="course-details__instructor__text">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus adipisci officiis architecto illo laudantium cum, reiciendis dolor dicta et, eos nisi delectus vitae amet quibusdam quidem nesciunt distinctio error.
-                                        </p><!-- instructor-text -->
+                                        Especialista en Derecho Laboral Individual, Colectivo, Seguridad Social y Procedimientos Administrativos.
+                                        <br/>
+                                        Cuenta con experiencia en consultoría laboral en el sector privado y asesoría en procedimientos administrativos como asesor laboral en la revista Soluciones Laborales de Gaceta Jurídica, y actualmente forma parte del equipo de consultoría laboral del Estudio Jurídico Rodríguez Angobaldo.
+                                        </p>
+                                        <!-- instructor-text -->
                                     </div>
                                 </div><!-- tab-content-instructor -->
                             </div><!-- tab-content -->
