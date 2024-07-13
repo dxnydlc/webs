@@ -34,6 +34,9 @@ $routes->get('/curso/03/(:any)', 'Home::curso_03/$1');
 // ¿Cómo se desarrolla el procedimiento inspectivo sancionador de la Sunafil?
 $routes->get('/curso/04/(:any)', 'Home::curso_04/$1');
 
+// Sujetos sin capacidad operativa y operaciones no reales
+$routes->get('/curso/05/(:any)', 'Home::curso_05/$1');
+
 $routes->get('/capacitacion-in-company/tributario', 'Home::tributario');
 $routes->get('/capacitacion-in-company/laboral', 'Home::laboral');
 $routes->get('/capacitacion-in-company/contable', 'Home::contable');

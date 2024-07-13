@@ -129,6 +129,28 @@ main-header-two
                                                 Principales criterios del TFL
                                             <li>
                                         </ul>
+
+                                        <br/>
+                                        <p class="course-details__overview__text" style="font-size:20px;" >
+                                           <strong>Beneficios que te deja este seminario:</strong>
+                                        </p>
+                                        <ul class="list-unstyled course-details__overview__lists">
+                                            <li><span class="icon-check"></span>Incrementa y/o fortalece tus conocimientos</li>
+                                            <li><span class="icon-check"></span>Te brinda herramientas para lograr los objetivos institucionales.</li>
+                                            <li><span class="icon-check"></span>Potencia tu perfil profesional.</li>
+                                            <li><span class="icon-check"></span>Certificado virtual.</li>
+                                        </ul>
+
+                                        <br/>
+                                        <p class="course-details__overview__text" style="font-size:20px;" >
+                                           <strong>Incluye:</strong>
+                                        </p>
+                                        <ul class="list-unstyled course-details__overview__lists">
+                                            <li><span class="icon-check"></span>Material digital.</li>
+                                            <li><span class="icon-check"></span>Acceso a la grabación del seminario.</li>
+                                            <li><span class="icon-check"></span>Durante el seminario podrás realizar todas las preguntas directamente al expositor.</li>
+                                            
+                                        </ul>
                                         
 
                                     </div>

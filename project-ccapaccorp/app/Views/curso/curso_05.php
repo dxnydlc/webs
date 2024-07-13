@@ -49,10 +49,10 @@ main-header-two
 </div><!-- /.stricky-header -->
 
 <section class="page-header page-header--bg-two"  >
-    <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-13.png);" ></div><!-- /.page-header-bg -->
-    <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.4)" ></div><!-- /.page-header-overlay -->
+    <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-06.png);" ></div><!-- /.page-header-bg -->
+    <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.5)" ></div><!-- /.page-header-overlay -->
     <div class="container text-center">
-        <h2 class="page-header__title" style="text-transform: none;" >Obligaciones del empleador frente al hostigamiento sexual laboral</h2><!-- /.page-title -->
+        <h2 class="page-header__title" style="text-transform: none;" >Sujetos sin capacidad operativa y operaciones no reales</h2><!-- /.page-title -->
         <!-- /.page-breadcrumb list-unstyled -->
     </div><!-- /.container -->
 </section><!-- /.page-header -->
@@ -63,18 +63,18 @@ main-header-two
                 <div class="row">
                     <div class="col-xl-12 ">
                         <div class="course-details__thumb">
-                            <img src="/2024/banner-27-agosto-01.jpeg" alt="eduact" style="max-width: 500px;" />
+                            <img src="/2024/banner-curso-15.png" alt="eduact" style="max-width: 400px;" />
                         </div><!-- details-thumb -->
                         <div class="course-details__meta">
                             <div class="course-details__meta__author">
-                                <img src="/2024/Jonathan-Criollo-Rodriguez-01.png" alt="eduact">
-                                <h5 class="course-details__meta__name">Jonathan Criollo González</h5>
-                                <p class="course-details__meta__designation">Expositor</p>
+                                <img src="/2024/no-user.jpg" alt="eduact">
+                                <h5 class="course-details__meta__name">Rina Rimachi Castañeda</h5>
+                                <p class="course-details__meta__designation">Expositora</p>
                             </div>
-                            <div class="course-details__meta__cats"><a href="#" style="font-size: 22px;" >Seminario on-line</a></div>
+                            <div class="course-details__meta__cats"><a href="course.html" style="font-size: 22px;" >Seminario on-line</a></div>
                             
                         </div><!-- details-meta -->
-                        <h3 class="course-details__title">Obligaciones del empleador frente al hostigamiento sexual laboral</h3><!-- details-title -->
+                        <h3 class="course-details__title">Sujetos sin capacidad operativa y operaciones no reales</h3><!-- details-title -->
                         <div class="course-details__tabs tabs-box">
                             <ul class="course-details__tabs__lists tab-buttons list-unstyled">
                                 <li data-tab="#overview" class="tab-btn active-btn"><span>Descripción</span></li>
@@ -83,7 +83,7 @@ main-header-two
                                 <li data-tab="#instructor" class="tab-btn"><span>Expositor</span></li>
                                 <li class="tab-btn1">
                                     <span>
-                                        <a href="https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20Obligaciones%20del%20empleador%20frente%20al%20hostigamiento%20sexual%20laboral" target="_blank" >Quiero inscribirme</a>
+                                        <a href="https://wa.me/51941280252?text=Hola%2C%20estoy%20interesado%20en%20el%20seminario%3A%20Sujetos%20sin%20capacidad%20operativa%20y%20operaciones%20no%20reales" target="_blank" >Quiero inscribirme</a>
                                     </span>
                                 </li>
                             </ul><!-- tab-title -->
@@ -91,14 +91,17 @@ main-header-two
                                 <div class="tab active-tab fadeInUp animated" id="overview">
                                     <div class="course-details__overview">
 
-                                        <!-- <p class="course-details__overview__text" style="font-size:20px;" >
-                                           <strong>Objetivo:</strong>
-                                        </p> -->
+                                        
                                         <p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
-                                        Actualmente la Sunafil se encuentra fiscalizando el cumplimiento de las obligaciones laborales en materia de hostigamiento sexual en el trabajo. Sin embargo, muchas empresas desconocen los requerimientos que exige la Ley de Prevención de Hostigamiento Sexual.
+                                        La SUNAT considera como “Sujetos Sin Capacidad Operativa - SSCO” a los contribuyentes que no cuentan con recursos económicos, logísticos, humanos y otros para realizar operaciones por las que emiten comprobantes de pagos.
                                         <br/>
-                                        En tal sentido, a través de este seminario le brindaremos los alcances legales para implementar el procedimiento de prevención, investigación y sanción del hostigamiento sexual y evitar contingencias laborales.
+                                        Del mismo modo, ha detectado que muchas empresas incurren en evasión tributaria al declarar facturas de operaciones no reales con el propósito de justificar gastos, costos o crédito fiscal.
+                                        <br/>
+                                        En tal sentido, a través de este seminario le brindaremos los alcances legales para prevenir contingencias con el ente fiscalizador.
                                         </p>
+
+                                        
+
 
                                         <br/>
                                         <p class="course-details__overview__text" style="font-size:20px;" >
@@ -122,13 +125,19 @@ main-header-two
                                             
                                         </ul>
 
+
+
+
+                                        
+
+
                                     </div>
                                 </div><!-- tab-content-overview -->
                                 <div class="tab fadeInUp animated" id="curriculum">
                                     <div class="course-details__curriculum">
                                         <h4 class="course-details__curriculum__title">Inversión</h4>
                                         <p class="course-details__curriculum__text">
-                                        S/ 130.00 incluido IGV
+                                        S/ 150.00 incluido IGV
                                         <br/>
                                         <!-- 10% de descuento sobre el total cuando se registren 3 participantes (tarifa corporativa). -->
                                         </p>
@@ -139,16 +148,13 @@ main-header-two
                                 <div class="tab fadeInUp animated" id="instructor">
                                     <div class="course-details__instructor">
                                         <figure class="course-details__instructor__thumb">
-                                            <img src="/2024/Jonathan-Criollo-Rodriguez-01.png" alt="eduact" style="height:118%" >
+                                            <img src="/2024/no-user-02.png" alt="eduact" style="height:118%" >
                                         </figure><!-- instructor-image -->
-                                        <h4 class="course-details__instructor__name" >Jonathan Criollo González</h4><!-- instructor-name -->
+                                        <h4 class="course-details__instructor__name">Rina Rimachi Castañeda</h4><!-- instructor-name -->
                                         <!-- instructor-designation -->
                                         <p class="course-details__instructor__text">
-                                        Especialista en Derecho Laboral Individual, Colectivo, Seguridad Social y Procedimientos Administrativos.
-                                        <br/>
-                                        Cuenta con experiencia en consultoría laboral en el sector privado y asesoría en procedimientos administrativos como asesor laboral en la revista Soluciones Laborales de Gaceta Jurídica, y actualmente forma parte del equipo de consultoría laboral del Estudio Jurídico Rodríguez Angobaldo.
-                                        </p>
-                                        <!-- instructor-text -->
+                                        Abogada por la Universidad de San Martín de Porres. Egresada de la Maestría de Derecho Tributario y Fiscalidad Internacional por la misma casa de estudios. Ex gestor de servicios en la Central de Consultas de SUNAT. Asesor legal en temas tributarios para empresas privadas y públicas.
+                                        </p><!-- instructor-text -->
                                     </div>
                                 </div><!-- tab-content-instructor -->
                             </div><!-- tab-content -->

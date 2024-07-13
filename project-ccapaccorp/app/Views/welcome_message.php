@@ -229,9 +229,10 @@ CcapaCcorp
                                 <div class="col-lg-7 ">
                                     <div class="main-slider__content">
                                         <h2 class="main-slider__title" style="text-transform: none;" >¿Cómo se desarrolla el procedimiento inspectivo sancionador de la Sunafil?</h2>
+                                        <p class="main-slider__text">Expositor: Jonathan Criollo González<br/>Martes 27 de agosto.</p>
                                         <div class="main-slider__btn" >
                                             <a href="<?= esc($APP_URL) ?>curso/04/Como-se-desarrolla-el-procedimiento-inspectivo-sancionador-de-la-Sunafil" class="eduact-btn eduact-btn-second" >
-                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i>
+                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i> 
                                             </a>
                                         </div>
                                     </div>
@@ -299,8 +300,7 @@ CcapaCcorp
         <section class="course-three" style="" >
             <div class="container">
                 <div class="section-title wow fadeInUp text-center" data-wow-delay="100ms">
-                    
-                    <h2 class="section-title__title">Seminarios del mes de julio</h2>
+                    <h2 class="section-title__title">Próximos seminarios</h2>
                 </div><!-- section-title -->
                 <div class="row">
                     <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
@@ -328,23 +328,78 @@ CcapaCcorp
                     <div class="col-xl-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="course-three__item">
                             <div class="course-three__thumb">
-                                <img src="/2024/curso-banner-04.jpeg" alt="eduact">
+                                <img src="/2024/banner-mini-08-agosto-01.png" alt="eduact" class=" img-responsive " >
                             </div><!-- /.course-thumb -->
                             <div class="course-three__content">
                                 <div class="course-three__time">Seminario on-line</div>
                                 
                                 <h3 class="course-three__title">
-                                    <a href="<?= esc($APP_URL) ?>curso/02/Guias-de-Remision-electronicas" >Guías de Remisión Electrónicas</a>
+                                    <a href="<?= esc($APP_URL) ?>curso/03/Obligaciones-del-empleador-frente-al-hostigamiento-sexual-laboral" >Obligaciones del empleador frente al hostigamiento sexual laboral</a>
                                 </h3>
                                 <div class="course-three__bottom">
                                     <div class="course-three__author">
-                                        <h5 class="course-three__author__name">Martes 09 de julio</h5>
+                                        <h5 class="course-three__author__name" >Jueves 8 de agosto</h5>
                                         <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
                                     </div>
                                 </div>
                             </div><!-- /.course-content -->
                         </div><!-- /.course-card-two -->
                     </div>
+
+
+
+                    <div class="col-xl-6 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="course-three__item">
+                            <div class="course-three__thumb">
+                                <img src="/2024/baner-mini-27-agosto-01.png" alt="eduact" class=" img-responsive " >
+                            </div><!-- /.course-thumb -->
+                            <div class="course-three__content">
+                                <div class="course-three__time">Seminario on-line</div>
+                                
+                                <h3 class="course-three__title">
+                                    <a href="<?= esc($APP_URL) ?>curso/04/como-se-desarrolla-el-procedimiento-inspectivo-sancionador-de-la-Sunafil" >¿Cómo se desarrolla el procedimiento inspectivo sancionador de la Sunafil?</a>
+                                </h3>
+                                <div class="course-three__bottom">
+                                    <div class="course-three__author">
+                                        <h5 class="course-three__author__name" >Martes 27 de agosto</h5>
+                                        <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
+                                    </div>
+                                </div>
+                            </div><!-- /.course-content -->
+                        </div><!-- /.course-card-two -->
+                    </div>
+
+
+
+
+                    <div class="col-xl-6 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="course-three__item">
+                            <div class="course-three__thumb">
+                                <img src="/2024/banner-mini-curso-15.png" alt="eduact" class=" img-responsive " >
+                            </div><!-- /.course-thumb -->
+                            <div class="course-three__content">
+                                <div class="course-three__time">Seminario on-line</div>
+                                
+                                <h3 class="course-three__title">
+                                    <a href="<?= esc($APP_URL) ?>curso/05/sujetos-sin-capacidad-operativa-y-operaciones-no-reales" >
+                                    Sujetos sin capacidad operativa y operaciones no reales
+                                    </a>
+                                </h3>
+                                <div class="course-three__bottom">
+                                    <!-- <div class="course-three__author">
+                                        <h5 class="course-three__author__name" >Martes 27 de agosto</h5>
+                                        <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
+                                    </div> -->
+                                </div>
+                            </div><!-- /.course-content -->
+                        </div><!-- /.course-card-two -->
+                    </div>
+
+
+
+
+                    
+
                 </div>
             </div>
         </section>
