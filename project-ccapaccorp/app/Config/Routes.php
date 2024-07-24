@@ -37,6 +37,21 @@ $routes->get('/curso/04/(:any)', 'Home::curso_04/$1');
 // Sujetos sin capacidad operativa y operaciones no reales
 $routes->get('/curso/05/(:any)', 'Home::curso_05/$1');
 
+// Introd y temario SST | /curso/06/seguridad-y-salud-en-el-trabajo
+$routes->get('/curso/06/(:any)', 'Home::curso_06/$1');
+
+// xxxxxxxxx
+$routes->get('/curso/07/(:any)', 'Home::curso_07/$1');
+
+// xxxxxxxxx
+$routes->get('/curso/08/(:any)', 'Home::curso_08/$1');
+
+
+
+
+
+
+
 $routes->get('/capacitacion-in-company/tributario', 'Home::tributario');
 $routes->get('/capacitacion-in-company/laboral', 'Home::laboral');
 $routes->get('/capacitacion-in-company/contable', 'Home::contable');

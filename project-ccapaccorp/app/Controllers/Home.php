@@ -48,7 +48,7 @@ class Home extends BaseController
         $data['APP_URL']    = getenv('app.baseURL');
         $data['VERSION']  = VERSION;
         $data['texto']  = $texto;
-        return view( 'curso/curso_03' , $data );
+        return view( 'curso/curso_03_hostigamiento_sexual' , $data );
     }
     // ........................................................
     public function curso_04( $texto ): string
@@ -66,9 +66,17 @@ class Home extends BaseController
         $data['APP_URL']    = getenv('app.baseURL');
         $data['VERSION']  = VERSION;
         $data['texto']  = $texto;
-        return view( 'curso/curso_05' , $data );
+        return view( 'curso/curso_05_sin_capa_operativa' , $data );
     }
     // ........................................................
+    public function curso_06( $texto ): string
+    {
+        // Introd y temario SST
+        $data['APP_URL']    = getenv('app.baseURL');
+        $data['VERSION']  = VERSION;
+        $data['texto']  = $texto;
+        return view( 'curso/curso_06_seminario_sst' , $data );
+    }
     // ........................................................
     // ........................................................
     // ........................................................

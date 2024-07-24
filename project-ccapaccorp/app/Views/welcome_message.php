@@ -110,7 +110,7 @@ CcapaCcorp
 
 
                 <!-- slider-item-start -->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
@@ -138,7 +138,7 @@ CcapaCcorp
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- slider-item-end -->
 
 
@@ -156,7 +156,7 @@ CcapaCcorp
                                 <div class="col-lg-7">
                                     <div class="main-slider__content">
                                         <h2 class="main-slider__title" style="text-transform: none;" >Obligaciones del empleador frente al hostigamiento sexual laboral</h2>
-                                        <p class="main-slider__text">Expositor: Jonathan Criollo González<br/>Jueves 8 de agosto.</p>
+                                        <p class="main-slider__text">Expositor: Jonathan Criollo González<br/>Jueves 8 de agosto de 7:00 - 10:00 pm</p>
                                         <div class="main-slider__btn">
                                             <a href="<?= esc($APP_URL) ?>curso/03/Obligaciones-del-empleador-frente-al-hostigamiento-sexual-laboral" class="eduact-btn eduact-btn-second">
                                                 <span class="eduact-btn__curve"></span>Ver seminario<i class="icon-arrow"></i>
@@ -254,6 +254,79 @@ CcapaCcorp
 
 
 
+
+                <!-- slider-item-start -->
+                <!-- Seguridad y Salud en el Trabajo: jueves 15 de agosto, de 7:00 - 10 pm  -->
+                <div class="item">
+                    <div class="main-slider__item">
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 ">
+                                    <div class="main-slider__content">
+                                        <h2 class="main-slider__title" style="text-transform: none;" >Seguridad y Salud en el Trabajo</h2>
+                                        <p class="main-slider__text">Jueves 15 de agosto, de 7:00 - 10 pm</p>
+                                        <div class="main-slider__btn" >
+                                            <a href="<?= esc($APP_URL) ?>curso/06/seguridad-y-salud-en-el-trabajo" class="eduact-btn eduact-btn-second" >
+                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i> 
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 " style="position:relative;" >
+                                    <div class="main-slider__layer">
+                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
+                                            <img src="/2024/banner-home-seguridad-salud-trabajo-01.png" alt="eduact" class=" img-fluid img-resposive " style="" />
+                                        </div>
+                                    </div>
+                                    <div class="main-slider__shape-three"></div>
+                                    <div class="main-slider__shape-four"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- slider-item-end -->
+
+
+
+
+                <!-- slider-item-start -->
+                <!-- Sujetos Sin Capacidad Operativa: jueves 22 de agosto, de 7:00 10:00 pm -->
+                <div class="item">
+                    <div class="main-slider__item">
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 ">
+                                    <div class="main-slider__content">
+                                        <h2 class="main-slider__title" style="text-transform: none;" >Sujetos Sin Capacidad Operativa</h2>
+                                        <p class="main-slider__text">Jueves 22 de agosto, de 7:00 10:00 pm</p>
+                                        <div class="main-slider__btn" >
+                                            <a href="<?= esc($APP_URL) ?>curso/05/sujetos-sin-capacidad-operativa" class="eduact-btn eduact-btn-second" >
+                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i> 
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 " style="position:relative;" >
+                                    <div class="main-slider__layer">
+                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
+                                            <img src="/2024/banner-principal-sujetos-sin-capacidad-operativa-01.png" alt="eduact" class=" img-fluid img-resposive " style="" />
+                                        </div>
+                                    </div>
+                                    <div class="main-slider__shape-three"></div>
+                                    <div class="main-slider__shape-four"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- slider-item-end -->
+
+
+
+
             </div>
         </section>
         <!--Main Slider End-->
@@ -301,13 +374,15 @@ CcapaCcorp
             <div class="container">
                 <div class="section-title wow fadeInUp text-center" data-wow-delay="100ms">
                     <h2 class="section-title__title">Próximos seminarios</h2>
-                </div><!-- section-title -->
+                </div>
                 <div class="row">
+
+
                     <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="course-three__item">
                             <div class="course-three__thumb">
                                 <img src="2024/curso-banner-02.jpeg" alt="eduact">
-                            </div><!-- /.course-thumb -->
+                            </div>
                             <div class="course-three__content">
                                 <div class="course-three__time">Seminario on-line</div>
                                 
@@ -325,6 +400,8 @@ CcapaCcorp
                             </div><!-- /.course-content -->
                         </div><!-- /.course-card-two -->
                     </div>
+
+
                     <div class="col-xl-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="course-three__item">
                             <div class="course-three__thumb">
