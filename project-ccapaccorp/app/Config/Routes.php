@@ -46,6 +46,15 @@ $routes->get('/curso/07/(:any)', 'Home::curso_07/$1');
 // xxxxxxxxx
 $routes->get('/curso/08/(:any)', 'Home::curso_08/$1');
 
+// ¿Sabes cómo elaborar e implementar la Igualdad Salarial en tu Empresa?
+$routes->get('/curso/09/(:any)', 'Home::curso_09/$1');
+
+// ¿Sabes cómo elaborar e implementar la Igualdad Salarial en tu Empresa?
+$routes->get('/curso/10/(:any)', 'Home::curso_10/$1');
+
+
+
+
 
 
 

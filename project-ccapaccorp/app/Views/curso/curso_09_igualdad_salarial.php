@@ -42,34 +42,34 @@ main-header-two
 
 
 
-$Banner_interno = '2024/SSCO_549x825.png';
+$Banner_interno = '/2024/IS_549x825.png';
 
-$Banner_superior = '/2024/SST-1920x800-01.png';
+$Banner_superior = '/2024/banner-igualdad-salarial-02.jpeg';
 
-$Titulo_curso_inferior = 'Obligaciones laborales en Seguridad y Salud en el Trabajo<br/>Evita multas de la Sunafil';
-$Titulo_curso_superior = 'Obligaciones laborales en Seguridad y Salud en el Trabajo';
+$Titulo_curso_inferior = '¿Sabes cómo elaborar e implementar la Igualdad Salarial en tu Empresa?';
+$Titulo_curso_superior = '¿Sabes cómo elaborar e implementar la Igualdad Salarial en tu Empresa?';
 
 
 # Expositor
-$Expositor_alias = 'Expositora';// Expositor | Expositora
-$Expositor = 'Rina Rimachi Castañeda';
-$Exposito_Thumb = 'https://dummyimage.com/44x44/fff/aaa';
-$imagen_expositor_interno = 'https://dummyimage.com/165x165/fff/aaa';
+$Expositor_alias = 'Expositor';// Expositor | Expositora
+$Expositor = 'César Puntriano Rosas';
+$Exposito_Thumb = '/2024/thumb-01.png';
+$imagen_expositor_interno = '/2024/thumb-01.png';
 $acerca_instrucctor = '
-Abogada por la Universidad de San Martín de Porres. Egresada de la Maestría de Derecho Tributario y Fiscalidad Internacional por la misma casa de estudios. Ex gestor de servicios en la Central de Consultas de SUNAT. Asesor legal en temas tributarios para empresas privadas y públicas.
+Abogado y magister en derecho del trabajo y seguridad social por la Pontificia Universidad Católica del Perú. Docente en pregrado y posgrado en ESAN, docente en la maestría en derecho del trabajo en la Universidad de San Martín de Porres y en la Maestría en Derecho Empresarial en la Universidad de Lima. Socio principal en el Estudio Muñiz.
 ';
 
 # Texto de WhatsApp
 # https://www.urlencoder.org/
 # Hola quiero inscribirme al seminario: ccccc
-$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20Obligaciones%20laborales%20en%20Seguridad%20y%20Salud%20en%20el%20Trabajo';
+$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20%C2%BFC%C3%B3mo%20se%20desarrolla%20el%20procedimiento%20inspectivo%20sancionador%20de%20la%20Sunafil%3F';
 
 
 # Inversión
 $inversion_texto = '
 <h4 class="course-details__curriculum__title">Inversión</h4>
 <p class="course-details__curriculum__text">
-S/ 150.00 más IGV
+S/ 170.00 más IGV
 <br/>
 <!-- 10% de descuento sobre el total cuando se registren 3 participantes (tarifa corporativa). -->
 </p>
@@ -80,17 +80,17 @@ S/ 150.00 más IGV
 $texto_interno = '
 <p class="course-details__overview__text" style="font-size:20px;" >
 
-La SUNAT considera como “Sujetos Sin Capacidad Operativa - SSCO” a los contribuyentes que no cuentan con recursos económicos, logísticos, humanos y otros para realizar operaciones por las que emiten comprobantes de pagos. 
+Actualmente la Sunafil se encuentra enviando cartas inductivas a todas las empresas con el propósito que cumplan con la elaboración e implementación de la política salarial, cuadro de categorías y funciones de los trabajadores, planes de capacitación y la banda salarial. 
 <br/>
-Del mismo modo, ha detectado que muchas empresas incurren en evasión tributaria al declarar facturas de operaciones no reales con el propósito de justificar gastos, costos o crédito fiscal.  
-<br/>
-En tal sentido, a través de este seminario le brindaremos los alcances legales para prevenir contingencias con el ente fiscalizador.
+En tal sentido, a través de este seminario le brindaremos los alcances legales para elaborar e implementar el sistema de equidad salarial y evitar multas laborales. 
 
 </p>
 
-<p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
-<br/><br/>
 
+
+
+
+<br/>
 <p class="course-details__overview__text" style="font-size:20px;" >
     <strong>Beneficios que te deja este seminario:</strong>
 </p>
@@ -108,7 +108,7 @@ En tal sentido, a través de este seminario le brindaremos los alcances legales 
 <ul class="list-unstyled course-details__overview__lists">
     <li><span class="icon-check"></span>Material digital.</li>
     <li><span class="icon-check"></span>Acceso a la grabación del seminario.</li>
-    <li><span class="icon-check"></span>Durante el seminario tendrás la oportunidad de interactuar con uno de los mejores laboralistas del Perú.</li>
+    <li><span class="icon-check"></span>Durante el seminario tendrás la oportunidad de interactuar con uno de los mejores laboralistas del Perú. </li>
     
 </ul>
 ';
@@ -142,7 +142,7 @@ En tal sentido, a través de este seminario le brindaremos los alcances legales 
                     <div class=" col-xl-12 " >
                         <div class="course-details__thumb">
                             <!-- IMAGEN BANNER -->
-                            <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width11: 11400px;border: 1px silver solid;" class=" img-fluid " />
+                            <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width: 400px" class=" img-fluid " />
                         </div>
                         <!-- details-thumb -->
                         <div class="course-details__meta">

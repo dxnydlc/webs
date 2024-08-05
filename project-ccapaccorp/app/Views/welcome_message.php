@@ -77,7 +77,7 @@ CcapaCcorp
 
 
                 <!-- slider-item-start -->
-                <!-- Seguridad y Salud en el Trabajo: jueves 15 de agosto, de 7:00 - 10 pm  -->
+                <!-- 1  -->
                 <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
@@ -145,6 +145,44 @@ CcapaCcorp
                     </div>
                 </div>
                 <!-- slider-item-end -->
+
+
+
+
+
+                <!-- slider-item-start -->
+                <!-- 3 -->
+                <div class="item">
+                    <div class="main-slider__item">
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7 ">
+                                    <div class="main-slider__content">
+                                        <h2 class="main-slider__title" style="text-transform: none;" >¿Sabes cómo elaborar e implementar la Igualdad Salarial en tu Empresa?</h2>
+                                        <p class="main-slider__text">Expositor: Dr. César Puntriano Rosas<br/>Jueves 22 de agosto de 7:00 - 10:00 p.m.</p>
+                                        <div class="main-slider__btn" >
+                                            <a href="<?= esc($APP_URL) ?>curso/09/sabes-como-elaborar-e-implementar-la-igualdad-salarial-en-tu-empresa" class="eduact-btn eduact-btn-second" >
+                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i> 
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 " style="position:relative;" >
+                                    <div class="main-slider__layer">
+                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
+                                            <img src="/2024/IS_549x825.png" alt="eduact" class=" img-fluid img-resposive " style="" />
+                                        </div>
+                                    </div>
+                                    <div class="main-slider__shape-three"></div>
+                                    <div class="main-slider__shape-four"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- slider-item-end -->
+
 
 
 
