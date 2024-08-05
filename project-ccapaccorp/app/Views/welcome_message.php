@@ -70,109 +70,38 @@ CcapaCcorp
 		"dots": true,
 		"margin": 0
 	    }'>
-                <!-- slider-item-start -->
-                <!-- Guías de Remisión electrónicas --> 
-                <!-- <div class="item">
-                    <div class="main-slider__item">
-                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="main-slider__content">
-                                        <h2 class="main-slider__title" style="text-transform: none;" >Guías de Remisión electrónicas</h2>
-                                        <p class="main-slider__text">Expositora: Rina Rimachi Castañeda<br/>Martes 9 de julio.</p>
-                                        <div class="main-slider__btn">
-                                            <a href="<?= esc($APP_URL) ?>curso/02/Guias-de-Remision-electronicas" class="eduact-btn eduact-btn-second">
-                                                <span class="eduact-btn__curve"></span>Ver seminario<i class="icon-arrow"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="main-slider__layer">
-                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
-                                            <img src="/2024/curso-banner-04.jpeg" alt="eduact">
-                                        </div>
-                                    </div>
-                                    <div class="main-slider__shape-nine">
-                                        <img src="assets/images/shapes/slider-shape-9.png" alt="eduact" />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-                <!-- slider-item-end -->
-
-
-
-
-
-
-                <!-- slider-item-start -->
-                <!-- <div class="item">
-                    <div class="main-slider__item">
-                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-8">
-                                    <div class="main-slider__content">
-                                        <h2 class="main-slider__title" style="text-transform: none;" >¿Sabes cómo afrontar exitosamente una inspección de SUNAFIL?</h2>
-                                        <p class="main-slider__text">Expositor: César Puntriano Rosas<br/>Martes 16 de julio.</p>
-                                        <div class="main-slider__btn" >
-                                            <a href="<?= esc($APP_URL) ?>curso/01/Sabes-como-afrontar-exitosamente-una-inspeccion-de-SUNAFIL" class="eduact-btn eduact-btn-second" >
-                                                <span class="eduact-btn__curve"></span>Ver seminario<i class="icon-arrow"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4" style="position:relative;" >
-                                    <div class="main-slider__layer">
-                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
-                                            <img src="/2024/Expositor-01.jpeg" alt="eduact" class=" img-fluid img-resposive " />
-                                        </div>
-                                    </div>
-                                    <div class="main-slider__shape-three"></div>
-                                    <div class="main-slider__shape-four"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-                <!-- slider-item-end -->
-
-
-
-
-
                 
 
+
+
+
+
                 <!-- slider-item-start -->
+                <!-- Seguridad y Salud en el Trabajo: jueves 15 de agosto, de 7:00 - 10 pm  -->
                 <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-7">
+                                <div class="col-lg-7 ">
                                     <div class="main-slider__content">
-                                        <h2 class="main-slider__title" style="text-transform: none;" >Obligaciones del empleador frente al hostigamiento sexual laboral</h2>
-                                        <p class="main-slider__text">Expositor: Jonathan Criollo González<br/>Jueves 8 de agosto de 7:00 - 10:00 pm</p>
-                                        <div class="main-slider__btn">
-                                            <a href="<?= esc($APP_URL) ?>curso/03/Obligaciones-del-empleador-frente-al-hostigamiento-sexual-laboral" class="eduact-btn eduact-btn-second">
-                                                <span class="eduact-btn__curve"></span>Ver seminario<i class="icon-arrow"></i>
+                                        <h2 class="main-slider__title" style="text-transform: none;" >Seguridad y Salud en el Trabajo</h2>
+                                        <p class="main-slider__text">Expositor: Jonathan Criollo González<br/>Jueves 15 de agosto, de 7:00 - 10 pm</p>
+                                        <div class="main-slider__btn" >
+                                            <a href="<?= esc($APP_URL) ?>curso/06/seguridad-y-salud-en-el-trabajo" class="eduact-btn eduact-btn-second" >
+                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i> 
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-5" style="position:relative;" >
+                                <div class="col-lg-4 " style="position:relative;" >
                                     <div class="main-slider__layer">
                                         <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
-                                            <img src="/2024/banner-27-agosto-01.jpeg" alt="eduact" class=" img-responsive img-fluid " />
+                                            <img src="/2024/banner-home-seguridad-salud-trabajo-01.png" alt="eduact" class=" img-fluid img-resposive " style="" />
                                         </div>
                                     </div>
-                                    <div class="main-slider__shape-nine">
-                                        <img src="assets/images/shapes/slider-shape-9.png" alt="eduact" />
-                                    </div>
+                                    <div class="main-slider__shape-three"></div>
+                                    <div class="main-slider__shape-four"></div>
                                 </div>
                             </div>
                         </div>
@@ -181,31 +110,31 @@ CcapaCcorp
                 <!-- slider-item-end -->
 
 
-                
 
 
 
                 <!-- slider-item-start -->
-                <!-- Última información sobre pago de gratificaciones de julio 2024 -->
-                <!-- <div class="item">
+                <!-- 2 -->
+                <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-7 ">
                                     <div class="main-slider__content">
-                                        <h2 class="main-slider__title" style="text-transform: none;" >Última información sobre pago de gratificaciones de julio 2024</h2>
+                                        <h2 class="main-slider__title" style="text-transform: none;" >Obligaciones laborales en Seguridad y Salud en el Trabajo</h2>
+                                        <p class="main-slider__text">Expositor: Rina Rimachi Castañeda<br/>Martes 20 de agosto de 7:00 - 10:00 p.m.</p>
                                         <div class="main-slider__btn" >
-                                            <a href="<?= esc($APP_URL) ?>capatips/01/ultima-informacion-sobre-gratificaciones-de-julio-2024" class="eduact-btn eduact-btn-second" >
-                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i>
+                                            <a href="<?= esc($APP_URL) ?>curso/08/obligaciones-laborales-en-seguridad-y-salud-en-el-trabajo" class="eduact-btn eduact-btn-second" >
+                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i> 
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-5 " style="position:relative111;" >
+                                <div class="col-lg-4 " style="position:relative;" >
                                     <div class="main-slider__layer">
                                         <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
-                                            <img src="/2024/logo-grati-01.png" alt="eduact" class=" img-fluid img-resposive " style="max-width: 500px;" />
+                                            <img src="/2024/SSCO_549x825.png" alt="eduact" class=" img-fluid img-resposive " style="" />
                                         </div>
                                     </div>
                                     <div class="main-slider__shape-three"></div>
@@ -214,7 +143,7 @@ CcapaCcorp
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
                 <!-- slider-item-end -->
 
 
@@ -255,38 +184,7 @@ CcapaCcorp
 
 
 
-                <!-- slider-item-start -->
-                <!-- Seguridad y Salud en el Trabajo: jueves 15 de agosto, de 7:00 - 10 pm  -->
-                <div class="item">
-                    <div class="main-slider__item">
-                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-7 ">
-                                    <div class="main-slider__content">
-                                        <h2 class="main-slider__title" style="text-transform: none;" >Seguridad y Salud en el Trabajo</h2>
-                                        <p class="main-slider__text">Jueves 15 de agosto, de 7:00 - 10 pm</p>
-                                        <div class="main-slider__btn" >
-                                            <a href="<?= esc($APP_URL) ?>curso/06/seguridad-y-salud-en-el-trabajo" class="eduact-btn eduact-btn-second" >
-                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i> 
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 " style="position:relative;" >
-                                    <div class="main-slider__layer">
-                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
-                                            <img src="/2024/banner-home-seguridad-salud-trabajo-01.png" alt="eduact" class=" img-fluid img-resposive " style="" />
-                                        </div>
-                                    </div>
-                                    <div class="main-slider__shape-three"></div>
-                                    <div class="main-slider__shape-four"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- slider-item-end -->
+                
 
 
 
@@ -317,6 +215,44 @@ CcapaCcorp
                                     </div>
                                     <div class="main-slider__shape-three"></div>
                                     <div class="main-slider__shape-four"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- slider-item-end -->
+
+
+
+
+
+
+                <!-- slider-item-start -->
+                <div class="item">
+                    <div class="main-slider__item">
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7">
+                                    <div class="main-slider__content">
+                                        <h2 class="main-slider__title" style="text-transform: none;" >Obligaciones del empleador frente al hostigamiento sexual laboral</h2>
+                                        <p class="main-slider__text">Expositor: Jonathan Criollo González<br/>Jueves 8 de agosto de 7:00 - 10:00 pm</p>
+                                        <div class="main-slider__btn">
+                                            <a href="<?= esc($APP_URL) ?>curso/03/Obligaciones-del-empleador-frente-al-hostigamiento-sexual-laboral" class="eduact-btn eduact-btn-second">
+                                                <span class="eduact-btn__curve"></span>Ver seminario<i class="icon-arrow"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-5" style="position:relative;" >
+                                    <div class="main-slider__layer">
+                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
+                                            <img src="/2024/banner-27-agosto-01.jpeg" alt="eduact" class=" img-responsive img-fluid " />
+                                        </div>
+                                    </div>
+                                    <div class="main-slider__shape-nine">
+                                        <img src="assets/images/shapes/slider-shape-9.png" alt="eduact" />
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -415,7 +351,7 @@ CcapaCcorp
                                 </h3>
                                 <div class="course-three__bottom">
                                     <div class="course-three__author">
-                                        <h5 class="course-three__author__name" >Jueves 8 de agosto</h5>
+                                        <h5 class="course-three__author__name" >Jueves 27 de agosto</h5>
                                         <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
                                     </div>
                                 </div>

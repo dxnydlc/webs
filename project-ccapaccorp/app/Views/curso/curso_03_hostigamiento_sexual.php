@@ -46,7 +46,7 @@ $Banner_interno = '/2024/banner-27-agosto-01.jpeg';
 
 $Banner_superior = '/2024/banner-13.png';
 
-$Titulo_curso_inferior = 'Titulo curso inferior';
+$Titulo_curso_inferior = 'Obligaciones del Empleador frente al Hostigamiento Sexual Laboral';
 $Titulo_curso_superior = 'Obligaciones del empleador frente al hostigamiento sexual laboral';
 
 
@@ -71,7 +71,7 @@ $texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20
 $inversion_texto = '
 <h4 class="course-details__curriculum__title">Inversión</h4>
 <p class="course-details__curriculum__text">
-S/ 130.00 incluido IGV
+S/ 150.00 más IGV
 <br/>
 <!-- 10% de descuento sobre el total cuando se registren 3 participantes (tarifa corporativa). -->
 </p>
@@ -81,13 +81,32 @@ S/ 130.00 incluido IGV
 # Descripción
 $texto_interno = '
 <p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
+<br/>
 Actualmente la Sunafil se encuentra fiscalizando el cumplimiento de las obligaciones laborales en materia de hostigamiento sexual en el trabajo. Sin embargo, muchas empresas desconocen los requerimientos que exige la Ley de Prevención de Hostigamiento Sexual.
 <br/>
 En tal sentido, a través de este seminario le brindaremos los alcances legales para implementar el procedimiento de prevención, investigación y sanción del hostigamiento sexual y evitar contingencias laborales.
+
 </p>
 
 <br/>
 
+<br/>
+<p class="course-details__overview__text" style="font-size:20px;" >
+    <strong>Temario:</strong>
+</p>
+
+<ul class="list-unstyled course-details__overview__lists">
+    <li><span class="icon-check"></span>¿Qué es el hostigamiento sexual laboral?</li>
+    <li><span class="icon-check"></span>¿Cuáles son las manifestaciones del hostigamiento sexual laboral?</li>
+    <li><span class="icon-check"></span>Documentos en materia de prevención y sanción del hostigamiento sexual laboral.</li>
+    <li><span class="icon-check"></span>Elección del comité y delegado de intervención para el hostigamiento sexual laboral.</li>
+    <li><span class="icon-check"></span>Procedimiento de investigación y sanción del hostigamiento sexual laboral.</li>
+    <li><span class="icon-check"></span>Situaciones especiales de hostigamiento sexual laboral.</li>
+    <li><span class="icon-check"></span>Infracciones y multas laborales.</li>
+</ul>
+
+
+<br/>
 <br/>
 <p class="course-details__overview__text" style="font-size:20px;" >
     <strong>Beneficios que te deja este seminario:</strong>

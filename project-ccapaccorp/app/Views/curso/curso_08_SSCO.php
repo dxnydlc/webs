@@ -42,92 +42,79 @@ main-header-two
 
 
 
-$Banner_interno = '/2024/banner-interno-06-sst-760x690.jpeg';
+$Banner_interno = '2024/SSCO_549x825.png';
 
 $Banner_superior = '/2024/SST-1920x800-01.png';
 
 $Titulo_curso_inferior = 'Obligaciones laborales en Seguridad y Salud en el Trabajo<br/>Evita multas de la Sunafil';
-$Titulo_curso_superior = 'Seguridad y Salud en el Trabajo';
+$Titulo_curso_superior = 'Obligaciones laborales en Seguridad y Salud en el Trabajo';
 
 
 # Expositor
-$Expositor_alias = 'Expositor';// Expositor | Expositora
-$Expositor = 'Jonathan Criollo González';
-$Exposito_Thumb = '/2024/Jonathan-Criollo-Rodriguez-01.png';
-$imagen_expositor_interno = '/2024/Jonathan-Criollo-Rodriguez-01.png';
+$Expositor_alias = 'Expositora';// Expositor | Expositora
+$Expositor = 'Rina Rimachi Castañeda';
+$Exposito_Thumb = 'https://dummyimage.com/44x44/fff/aaa';
+$imagen_expositor_interno = 'https://dummyimage.com/165x165/fff/aaa';
 $acerca_instrucctor = '
-Especialista en Derecho Laboral Individual, Colectivo, Seguridad Social y Procedimientos Administrativos.
-<br/>
-Cuenta con experiencia en consultoría laboral en el sector privado y asesoría en procedimientos administrativos como asesor laboral en la revista Soluciones Laborales de Gaceta Jurídica, y actualmente forma parte del equipo de consultoría laboral del Estudio Jurídico Rodríguez Angobaldo.
+Abogada por la Universidad de San Martín de Porres. Egresada de la Maestría de Derecho Tributario y Fiscalidad Internacional por la misma casa de estudios. Ex gestor de servicios en la Central de Consultas de SUNAT. Asesor legal en temas tributarios para empresas privadas y públicas.
 ';
 
 # Texto de WhatsApp
-# Hola quiero inscribirme al seminario: Seguridad y Salud en el Trabajo
-$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20Seguridad%20y%20Salud%20en%20el%20Trabajo';
+# https://www.urlencoder.org/
+# Hola quiero inscribirme al seminario: ccccc
+$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20%C2%BFC%C3%B3mo%20se%20desarrolla%20el%20procedimiento%20inspectivo%20sancionador%20de%20la%20Sunafil%3F';
 
 
 # Inversión
 $inversion_texto = '
 <h4 class="course-details__curriculum__title">Inversión</h4>
 <p class="course-details__curriculum__text">
-S/ 150.00 más IGV
+S/ 130.00 incluido IGV
 <br/>
 <!-- 10% de descuento sobre el total cuando se registren 3 participantes (tarifa corporativa). -->
 </p>
 ';
 
 
-
 # Descripción
 $texto_interno = '
+<p class="course-details__overview__text" style="font-size:20px;" >
+    <strong>PRINCIPALES CONSIDERACIONES Y RECOMENDACIONES:</strong>
+</p>
 <p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
-
-Sabes que uno de los siguientes temas en la agenda de fiscalización de Sunafil es el cumplimiento de las obligaciones del empleador en materia de Seguridad y Salud en el Trabajo.
-<br/>
-En ese sentido, te proponemos participar de nuestro próximo seminario en el que, abordaremos las principales obligaciones del empleador en materia de Seguridad y Salud en el Trabajo, te indicaremos cuáles son los documentos de carácter obligatorio con los que debes contar y entregarles a los trabajadores. Asimismo, te especificaremos hasta dónde alcanzan las funciones del Supervisor y del Comité de Seguridad y Salud en el Trabajo y revisaremos las últimas jurisprudencias del Tribunal de Fiscalización de la Sunafil en esta materia.
-
-
-
-
+OBJETIVO: El objetivo de este seminario consiste en establecer un esquema de desarrollo de las diferentes etapas que componen al procedimiento de la Sunafil. Abordaremos las principales consideraciones sobre la etapa de investigación y la etapa sancionadora de dicho proceso, identificando los órganos que intervienen, los plazos, las principales figuras en la actuación inspectiva, así como algunos de los principales criterios adoptados por el Tribunal de Fiscalización Laboral (TFL).
+<br/><br/>
 <strong>TEMARIO:</strong>
 </p>
 <ul class="list-unstyled course-details__overview__lists">
     <li>
         <span class="icon-check"></span>
-        ¿Qué es la Seguridad y Salud en el Trabajo?
+        ¿Qué función cumple la Sunafil? 
     </li>
     <li>
         <span class="icon-check"></span>
-        ¿Qué es el Sistema de Seguridad y Salud en el Trabajo?
-    </li>
+        Inicio del proceso inspectivo
+    <li>
     <li>
         <span class="icon-check"></span>
-        Principales documentos en materia de SST: Registros, el Reglamento de SST, entre otros documentos relevantes.
-    </li>
+        Etapas del procedimiento inspectivo sancionador
+    <li>
     <li>
         <span class="icon-check"></span>
-        Obligaciones de prevención: EMOs y capacitaciones.
-    </li>
+        Etapas del procedimiento inspectivo sancionador
+        <br/>
+        . El requerimiento y la medida inspectiva de requerimiento
+        <br/>
+        . Fase recursiva
+    <li>
     <li>
         <span class="icon-check"></span>
-        Proceso de elección del Comité o Supervisor de Seguridad y Salud en el Trabajo.
-    </li>
+        Sistema de multas y reducción
+    <li>
     <li>
         <span class="icon-check"></span>
-        Obligación del Comité o Supervisor de Seguridad y Salud en el Trabajo.
-    </li>
+        Principales criterios del TFL
     <li>
-        <span class="icon-check"></span>
-        ¿El gerente general es el responsable absoluto de cualquier accidente de trabajo?
-    </li>
-    <li>
-        <span class="icon-check"></span>
-        Alcance de últimas jurisprudencias del Tribunal de Fiscalización Laboral sobre SST.
-    </li>
-    <li>
-        <span class="icon-check"></span>
-        Infracciones y multas laborales
-    </li>
 </ul>
 
 <br/>
@@ -135,18 +122,10 @@ En ese sentido, te proponemos participar de nuestro próximo seminario en el que
     <strong>Beneficios que te deja este seminario:</strong>
 </p>
 <ul class="list-unstyled course-details__overview__lists">
-    <li>
-        <span class="icon-check"></span>Incrementa y/o fortalece tus conocimientos.
-    </li>
-    <li>
-        <span class="icon-check"></span>Te brinda herramientas para lograr los objetivos institucionales.
-    </li>
-    <li>
-        <span class="icon-check"></span>Potencia tu perfil profesional.
-    </li>
-    <li>
-        <span class="icon-check"></span>Certificado virtual.
-    </li>
+    <li><span class="icon-check"></span>Incrementa y/o fortalece tus conocimientos</li>
+    <li><span class="icon-check"></span>Te brinda herramientas para lograr los objetivos institucionales.</li>
+    <li><span class="icon-check"></span>Potencia tu perfil profesional.</li>
+    <li><span class="icon-check"></span>Certificado virtual.</li>
 </ul>
 
 <br/>
@@ -154,15 +133,10 @@ En ese sentido, te proponemos participar de nuestro próximo seminario en el que
     <strong>Incluye:</strong>
 </p>
 <ul class="list-unstyled course-details__overview__lists">
-    <li>
-        <span class="icon-check"></span>Material de trabajo digital.
-    </li>
-    <li>
-        <span class="icon-check"></span>Acceso a la grabación del seminario.
-    </li>
-    <li>
-        <span class="icon-check"></span>Durante el seminario tendrás la oportunidad de interactuar con uno de los mejores laboralistas del Perú.
-    </li>
+    <li><span class="icon-check"></span>Material digital.</li>
+    <li><span class="icon-check"></span>Acceso a la grabación del seminario.</li>
+    <li><span class="icon-check"></span>Durante el seminario podrás realizar todas las preguntas directamente al expositor.</li>
+    
 </ul>
 ';
 ?>
@@ -195,7 +169,7 @@ En ese sentido, te proponemos participar de nuestro próximo seminario en el que
                     <div class=" col-xl-12 " >
                         <div class="course-details__thumb">
                             <!-- IMAGEN BANNER -->
-                            <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width: 460px;" class=" img-fluid " />
+                            <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width11: 11400px;border: 1px silver solid;" class=" img-fluid " />
                         </div>
                         <!-- details-thumb -->
                         <div class="course-details__meta">
