@@ -45,11 +45,15 @@ main-header-two
 
 
 <div class="stricky-header stricked-menu main-menu main-header-two">
-        <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
-</div><!-- /.stricky-header -->
+    <div class="sticky-header__content"></div>
+    <!-- /.sticky-header__content -->
+</div>
+<!-- /.stricky-header -->
+
+
 
 <section class="page-header page-header--bg-two"  >
-    <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-06.png);" ></div><!-- /.page-header-bg -->
+    <div class="page-header__bg jarallax-img" style="background-image: url(/2024/29-09/banner-interno-01.jpg);" ></div><!-- /.page-header-bg -->
     <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.5)" ></div><!-- /.page-header-overlay -->
     <div class="container text-center">
         <h2 class="page-header__title" style="text-transform: none;" >Guías de Remisión Electrónicas</h2><!-- /.page-title -->
@@ -63,7 +67,7 @@ main-header-two
                 <div class="row">
                     <div class="col-xl-12 ">
                         <div class="course-details__thumb">
-                            <img src="/2024/curso-banner-03.jpeg" alt="eduact" style="max-width: 600px;" />
+                            <!-- <img src="/2024/curso-banner-03.jpeg" alt="eduact" style="max-width: 600px;" /> -->
                         </div><!-- details-thumb -->
                         <div class="course-details__meta">
                             <div class="course-details__meta__author">
@@ -71,7 +75,8 @@ main-header-two
                                 <h5 class="course-details__meta__name">Rina Rimachi Castañeda</h5>
                                 <p class="course-details__meta__designation">Expositora</p>
                             </div>
-                            <div class="course-details__meta__cats"><a href="course.html" style="font-size: 22px;" >Seminario on-line</a></div>
+                            <div class="course-details__meta__cats">
+                                <a href="#" style="font-size: 22px;" >Seminario on-line</a></div>
                             
                         </div><!-- details-meta -->
                         <h3 class="course-details__title">Guías de Remisión Electrónicas</h3><!-- details-title -->

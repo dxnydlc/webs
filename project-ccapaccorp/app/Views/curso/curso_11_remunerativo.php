@@ -42,9 +42,9 @@ main-header-two
 
 
 
-$Banner_interno = 'https://dummyimage.com/500x500/fff/aaa';
+$Banner_interno = '/2024/29-09/seminario-laboral-01.jpg';
 
-$Banner_superior = 'https://dummyimage.com/1920x800/fff/aaa';
+$Banner_superior = '/2024/29-09/banner-interno-01.jpg';
 
 $Titulo_curso_inferior = 'Conceptos remunerativos y no remunerativos';
 $Titulo_curso_superior = 'Conceptos remunerativos y no remunerativos';
@@ -228,7 +228,7 @@ En este seminario planteamos el mejor uso de las formas legales para la determin
                     <div class=" col-xl-12 " >
                         <div class="course-details__thumb">
                             <!-- IMAGEN BANNER -->
-                            <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width11: 11400px;border: 1px silver solid;" class=" img-fluid " />
+                            <!-- <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width: 500px;border: 1px silver solid;" class=" img-fluid " /> -->
                         </div>
                         <!-- details-thumb -->
                         <div class="course-details__meta">

@@ -65,6 +65,23 @@ $routes->get('/curso/12/(:any)', 'Home::curso_12/$1');
 $routes->get('/curso/13/(:any)', 'Home::curso_13/$1');
 
 
+// Últimos precedentes vinculantes del tribunal de fiscalización laboral de sunafil y su repercusión en los empleadores.
+$routes->get('/curso/14/(:any)', 'Home::curso_14/$1');
+
+
+// Evita multas en materia de seguridad y salud en el trabajo
+$routes->get('/curso/15/(:any)', 'Home::curso_15/$1');
+
+
+// Elabora e implementa la igualdad salarial en tu empresa
+$routes->get('/curso/16/(:any)', 'Home::curso_16/$1');
+
+
+// Sujetos sin capacidad operativa y operaciones no reales 
+$routes->get('/curso/17/(:any)', 'Home::curso_17/$1');
+
+
+
 
 
 

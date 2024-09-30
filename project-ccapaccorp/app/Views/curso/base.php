@@ -44,7 +44,7 @@ main-header-two
 
 $Banner_interno = 'https://dummyimage.com/868x449/fff/aaa';
 
-$Banner_superior = 'https://dummyimage.com/1920x800/fff/aaa';
+$Banner_superior = '/2024/29-09/banner-interno-01.jpg';
 
 $Titulo_curso_inferior = 'Titulo curso inferior';
 $Titulo_curso_superior = 'Titulo curso inferior';
@@ -119,15 +119,40 @@ OBJETIVO: El objetivo de este seminario consiste en establecer un esquema de des
     <li>
 </ul>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br/>
 <p class="course-details__overview__text" style="font-size:20px;" >
     <strong>Beneficios que te deja este seminario:</strong>
 </p>
 <ul class="list-unstyled course-details__overview__lists">
-    <li><span class="icon-check"></span>Incrementa y/o fortalece tus conocimientos</li>
-    <li><span class="icon-check"></span>Te brinda herramientas para lograr los objetivos institucionales.</li>
-    <li><span class="icon-check"></span>Potencia tu perfil profesional.</li>
-    <li><span class="icon-check"></span>Certificado virtual.</li>
+    <li><span class="icon-check"></span>
+        Capacitación garantizada.
+    </li>
+    <li><span class="icon-check"></span>
+        Te brinda herramientas para lograr los objetivos institucionales.
+    </li>
+    <li><span class="icon-check"></span>
+        Te mantienes actualizado con las disposiciones legales.
+    </li>
+    <li><span class="icon-check"></span>
+        Potencia tus conocimientos y perfil profesional.
+    </li>
+    <li><span class="icon-check"></span>
+        Certificado virtual
+    </li>
 </ul>
 
 <br/>
@@ -135,11 +160,18 @@ OBJETIVO: El objetivo de este seminario consiste en establecer un esquema de des
     <strong>Incluye:</strong>
 </p>
 <ul class="list-unstyled course-details__overview__lists">
-    <li><span class="icon-check"></span>Material digital.</li>
-    <li><span class="icon-check"></span>Acceso a la grabación del seminario.</li>
-    <li><span class="icon-check"></span>Durante el seminario podrás realizar todas las preguntas directamente al expositor.</li>
+    <li><span class="icon-check"></span>
+        Material de trabajo digital.
+    </li>
+    <li><span class="icon-check"></span>
+        Acceso a la grabación del seminario.
+    </li>
+    <li><span class="icon-check"></span>
+    Durante el seminario tendrás la oportunidad de interactuar con uno de los mejores abogados laboralistas del Perú.
+    </li>
     
 </ul>
+
 ';
 ?>
 

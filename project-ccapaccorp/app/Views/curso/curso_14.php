@@ -42,12 +42,12 @@ main-header-two
 
 
 
-$Banner_interno = '/2024/29-09/seminario-laboral-02.jpg';
+$Banner_interno = '/2024/29-09/ultimos-precedentes-01.jpg';
 
 $Banner_superior = '/2024/29-09/banner-interno-01.jpg';
 
-$Titulo_curso_inferior = 'Evita contingecias legales ante un despido';
-$Titulo_curso_superior = 'Evita contingecias legales ante un despido';
+$Titulo_curso_inferior = 'Últimos precedentes vinculantes del tribunal de fiscalización laboral de sunafil y su repercusión en los empleadores.';
+$Titulo_curso_superior = 'Últimos precedentes vinculantes del tribunal de fiscalización laboral de sunafil y su repercusión en los empleadores.';
 
 
 # Expositor
@@ -64,10 +64,11 @@ Abogado y magister en derecho del trabajo y seguridad social por la Pontificia U
 ';
 
 
+
 # Texto de WhatsApp
 # https://www.urlencoder.org/
-# Hola quiero inscribirme al seminario: Evita contingecias legales ante un despido
-$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20Evita%20contingecias%20legales%20ante%20un%20despido';
+# Hola quiero inscribirme al seminario: Últimos precedentes vinculantes del tribunal de fiscalización laboral de sunafil y su repercusión en los empleadores
+$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20%C3%9Altimos%20precedentes%20vinculantes%20del%20tribunal%20de%20fiscalizaci%C3%B3n%20laboral%20de%20sunafil%20y%20su%20repercusi%C3%B3n%20en%20los%20empleadores';
 
 
 # Inversión
@@ -83,43 +84,55 @@ S/ 170.00 incluido IGV
 
 # Descripción
 $texto_interno = '
+
 <p class="course-details__overview__text" style="font-size:20px;" >
 
-Muchas compañías piensan dos veces antes de despedir a un trabajador, así se trate de un despido con causa justa. En este curso abordaremos los distintos tipos de despido, daremos pautas de cómo aplicar adecuadamente la legislación al momento de despedir y así evitar riesgos legales, desarrollando los principales criterios de la jurisprudencia laboral.
+El Tribunal de Fiscalización Laboral de la SUNAFIL ha establecido en lo que va de este año 2024, nuevos precedentes administrativos de observancia obligatoria. Dichos criterios tendrán gran impacto en materia laboral dentro de las empresas. 
+<br/><br/>
+En tal sentido, a través de este seminario te brindaremos los nuevos criterios de Sunafil de gran relevancia laboral, y así evitarás contingencias laborales con la Autoridad Inspectiva de Trabajo.
 
 </p>
 
-<br/>
-<p class="course-details__overview__text" style="font-size:20px;" >
-    <strong>Temas a tratar</strong>
+<p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
+
+<strong>Temas a tratar</strong>
 </p>
 
-<br/>
-<p class="course-details__overview__text" style="font-size:20px;" >
-    <strong>Los ingresos laborales </strong>
-</p>
 <ul class="list-unstyled course-details__overview__lists">
     <li>
         <span class="icon-check"></span>
-        Tipos de despido
+        Contratación laboral con recibos por honorarios.
     </li>
     <li>
         <span class="icon-check"></span>
-        Pautas de cómo aplicar adecuadamente la legislación al momento de despedir
+        Aspectos sobre descanso vacacional.
     </li>
     <li>
         <span class="icon-check"></span>
-        Cómo evitar riesgos legales ante un despido
+        Incumplimiento de medidas preventivas sobre Seguridad y Salud en el Trabajo.
     </li>
     <li>
         <span class="icon-check"></span>
-        Análisis de los principales criterios jurisprudenciales laboral
+        Acciones frente a los accidentes de trabajo.
     </li>
     <li>
         <span class="icon-check"></span>
-        Entre otros temas relevantes.
+        Nuevos criterios frente a las fiscalizaciones e imposición de multas laborales.
+    </li>
+    <li>
+        <span class="icon-check"></span>
+        Entre otros temas de carácter obligatorio.
     </li>
 </ul>
+
+
+
+
+
+
+
+
+
 
 
 

@@ -44,7 +44,7 @@ main-header-two
 
 $Banner_interno = '/2024/29-09/seminario-tributario-01.jpg';
 
-$Banner_superior = 'https://dummyimage.com/1920x800/fff/aaa';
+$Banner_superior = '/2024/29-09/banner-interno-01.jpg';
 
 $Titulo_curso_inferior = 'Incremento patrimonial no justificado';
 $Titulo_curso_superior = 'Incremento patrimonial no justificado';
@@ -217,7 +217,7 @@ En este seminario te indicaremos ¿hasta dónde puede llegar la SUNAT? ¿cómo s
                     <div class=" col-xl-12 " >
                         <div class="course-details__thumb">
                             <!-- IMAGEN BANNER -->
-                            <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width: 500px;border: 1px silver solid;" class=" img-fluid " />
+                            <!-- <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width: 500px;border: 1px silver solid;" class=" img-fluid " /> -->
                         </div>
                         <!-- details-thumb -->
                         <div class="course-details__meta">

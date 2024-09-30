@@ -67,7 +67,7 @@ main-header-two
                     <div class="course-three__content">
                         <div class="course-three__time" >Seminario on-line</div>
                         <h4 class="course-three__title">
-                            <a href="<?= esc($APP_URL) ?>" >
+                            <a href="<?= esc($APP_URL) ?>curso/11/conceptos-remunerativos-y-no-remunerativos" >
                                 Conceptos remunerativos y No remunerativos
                             </a>
                         </h4>
@@ -90,7 +90,7 @@ main-header-two
                         <div class="course-three__time" >Laboral</div>
                         
                         <h3 class="course-three__title">
-                            <a href="<?= esc($APP_URL) ?>" >
+                            <a href="<?= esc($APP_URL) ?>curso/13/evita-contingecias-legales-ante-un-despido" >
                                 Evita contingecias legales ante un despido
                             </a>
                         </h3>
@@ -113,13 +113,13 @@ main-header-two
             <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
                 <div class="course-three__item">
                     <div class="course-three__thumb">
-                        <img src="https://via.placeholder.com/500x500" alt="eduact">
+                        <img src="/2024/29-09/ultimos-precedentes-01.jpg" alt="eduact">
                     </div>
                     <div class="course-three__content">
                         <div class="course-three__time" >Laboral</div>
                         
                         <h3 class="course-three__title">
-                            <a href="<?= esc($APP_URL) ?>" >
+                            <a href="<?= esc($APP_URL) ?>curso/14/ultimos-precedentes-vinculantes-del-tribunal-de-fiscalizacion-laboral-de-sunafil-y-su-repercusion-en-los-empleadores" >
                             Últimos precedentes vinculantes del tribunal de fiscalización laboral de sunafil y su repercusión en los empleadores.
                             </a>
                         </h3>
@@ -137,14 +137,15 @@ main-header-two
             <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
                 <div class="course-three__item">
                     <div class="course-three__thumb">
-                        <img src="https://via.placeholder.com/500x500" alt="eduact">
+                        <img src="/2024/29-09/soma-01.jpg" alt="eduact">
                     </div>
                     <div class="course-three__content">
                         <div class="course-three__time" >Laboral</div>
                         
                         <h3 class="course-three__title">
-                            <a href="<?= esc($APP_URL) ?>" >
-                            Evita multas en materia de seguridad y salud en el trabajo                             </a>
+                            <a href="<?= esc($APP_URL) ?>curso/15/Evita-multas-en-materia-de-seguridad-y-salud-en-el-trabajo" >
+                            Evita multas en materia de seguridad y salud en el trabajo
+                            </a>
                         </h3>
 
                         <div class="course-three__bottom">
@@ -170,8 +171,9 @@ main-header-two
                         <div class="course-three__time" >Laboral</div>
                         
                         <h3 class="course-three__title">
-                            <a href="<?= esc($APP_URL) ?>" >
-                            Elabora e implementa la igualdad salarial en tu empresa                          </a>
+                            <a href="<?= esc($APP_URL) ?>curso/16/elabora-e-implementa-la-igualdad-salarial-en-tu-empresa" >
+                                Elabora e implementa la igualdad salarial en tu empresa
+                            </a>
                         </h3>
 
                         <div class="course-three__bottom">
@@ -223,9 +225,37 @@ main-header-two
             <!-- ./col -->
         </div>
         <!-- ./row -->
+
+        <div class="row">
+            <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms"></div>
+            <!-- ./col -->
+            <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms"></div>
+            <!-- ./col -->
+        </div>
         <!-- ./row -->
+
+        <div class="row">
+            <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms"></div>
+            <!-- ./col -->
+            <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms"></div>
+            <!-- ./col -->
+        </div>
         <!-- ./row -->
+
+        <div class="row">
+            <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms"></div>
+            <!-- ./col -->
+            <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms"></div>
+            <!-- ./col -->
+        </div>
         <!-- ./row -->
+
+        <div class="row">
+            <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms"></div>
+            <!-- ./col -->
+            <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms"></div>
+            <!-- ./col -->
+        </div>
         <!-- ./row -->
 
     </div>

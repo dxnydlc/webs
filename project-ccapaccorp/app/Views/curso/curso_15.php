@@ -42,39 +42,37 @@ main-header-two
 
 
 
-$Banner_interno = '/2024/29-09/seminario-laboral-02.jpg';
+$Banner_interno = '/2024/29-09/soma-01.jpg';
 
 $Banner_superior = '/2024/29-09/banner-interno-01.jpg';
 
-$Titulo_curso_inferior = 'Evita contingecias legales ante un despido';
-$Titulo_curso_superior = 'Evita contingecias legales ante un despido';
+$Titulo_curso_inferior = 'Evita multas en materia de seguridad y salud en el trabajo';
+$Titulo_curso_superior = 'Evita multas en materia de seguridad y salud en el trabajo';
 
 
 # Expositor
 $Expositor_alias = 'Expositor';// Expositor | Expositora
-$Expositor = 'César Puntriano Rosas';
-$Exposito_Thumb = '/2024/29-09/dr-Puntriano-01.jpeg';
-$imagen_expositor_interno = '/2024/29-09/dr-Puntriano-01.jpeg';
+$Expositor = 'Jonathan Criollo Rodríguez';
+$Exposito_Thumb = '/2024/29-09/dr-Jhonatan-Criollo.jpeg';
+$imagen_expositor_interno = '/2024/29-09/dr-Jhonatan-Criollo.jpeg';
 $acerca_instrucctor = '
-
-Socio principal en el Estudio Muñiz, Olaya, Meléndez, Castro, Ono & Herrera Abogados.
+Experto consultor laboral del Estudio Jurídico Rodríguez Angobaldo.
 <br/>
-Abogado y magister en derecho del trabajo y seguridad social por la Pontificia Universidad Católica del Perú. Docente en pregrado y posgrado en ESAN, docente en la maestría en derecho del trabajo en la Universidad de San Martín de Porres y en la Maestría en Derecho Empresarial en la Universidad de Lima. 
+Especialista en Derecho Laboral Individual, Colectivo, Seguridad Social. Cuenta con amplia experiencia en consultoría laboral en el sector privado y asesoría en procedimientos administrativos inspectivos como asesor laboral en la revista Soluciones Laborales de Gaceta Jurídica. 
 
 ';
 
-
 # Texto de WhatsApp
 # https://www.urlencoder.org/
-# Hola quiero inscribirme al seminario: Evita contingecias legales ante un despido
-$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20Evita%20contingecias%20legales%20ante%20un%20despido';
+# Hola quiero inscribirme al seminario: Evita multas en materia de seguridad y salud en el trabajo
+$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20Evita%20multas%20en%20materia%20de%20seguridad%20y%20salud%20en%20el%20trabajo';
 
 
 # Inversión
 $inversion_texto = '
 <h4 class="course-details__curriculum__title">Inversión</h4>
 <p class="course-details__curriculum__text">
-S/ 170.00 incluido IGV
+S/ 150.00 incluido IGV
 <br/>
 <!-- 10% de descuento sobre el total cuando se registren 3 participantes (tarifa corporativa). -->
 </p>
@@ -84,42 +82,71 @@ S/ 170.00 incluido IGV
 # Descripción
 $texto_interno = '
 <p class="course-details__overview__text" style="font-size:20px;" >
+Sabes que uno de los siguientes temas en la agenda de fiscalización de Sunafil es el cumplimiento de las obligaciones del empleador en materia de Seguridad y Salud en el Trabajo.
 
-Muchas compañías piensan dos veces antes de despedir a un trabajador, así se trate de un despido con causa justa. En este curso abordaremos los distintos tipos de despido, daremos pautas de cómo aplicar adecuadamente la legislación al momento de despedir y así evitar riesgos legales, desarrollando los principales criterios de la jurisprudencia laboral.
+<br/>
+En ese sentido, te proponemos participar de nuestro próximo seminario en el que, abordaremos las principales obligaciones del empleador en materia de Seguridad y Salud en el Trabajo, te indicaremos cuáles son los documentos de carácter obligatorio con los que debes contar y entregarles a los trabajadores. Asimismo, te especificaremos hasta dónde alcanzan las funciones del Supervisor y del Comité de Seguridad y Salud en el Trabajo y revisaremos las últimas jurisprudencias del Tribunal de Fiscalización de la Sunafil en esta materia.
 
 </p>
 
-<br/>
-<p class="course-details__overview__text" style="font-size:20px;" >
-    <strong>Temas a tratar</strong>
-</p>
 
-<br/>
-<p class="course-details__overview__text" style="font-size:20px;" >
-    <strong>Los ingresos laborales </strong>
+<p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
+<strong>Temas a tratar::</strong>
 </p>
 <ul class="list-unstyled course-details__overview__lists">
     <li>
         <span class="icon-check"></span>
-        Tipos de despido
+        Marco legal.
     </li>
     <li>
         <span class="icon-check"></span>
-        Pautas de cómo aplicar adecuadamente la legislación al momento de despedir
+        Sistema de Seguridad y Salud en el Trabajo.
     </li>
     <li>
         <span class="icon-check"></span>
-        Cómo evitar riesgos legales ante un despido
+        Principales documentos en materia de SST: Registros, el Reglamento de SST, entre otros documentos relevantes.
     </li>
     <li>
         <span class="icon-check"></span>
-        Análisis de los principales criterios jurisprudenciales laboral
+        Obligaciones de prevención: EMOs y capacitaciones.
     </li>
     <li>
         <span class="icon-check"></span>
-        Entre otros temas relevantes.
+        Proceso de elección del Comité o Supervisor de Seguridad y Salud en el Trabajo.
+    </li>
+    <li>
+        <span class="icon-check"></span>
+        Obligación del Comité o Supervisor de Seguridad y Salud en el Trabajo.
+    </li>
+    <li>
+        <span class="icon-check"></span>
+        ¿Hasta dónde alcanza la responsabilidad del gerente general frente a un accidente de trabajo?
+    </li>
+    <li>
+        <span class="icon-check"></span>
+        Alcance de últimas jurisprudencias del Tribunal de Fiscalización Laboral sobre SST.
+    </li>
+    <li>
+        <span class="icon-check"></span>
+        Infracciones y multas laborales.
     </li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -170,6 +197,7 @@ Muchas compañías piensan dos veces antes de despedir a un trabajador, así se 
     </li>
     
 </ul>
+
 ';
 ?>
 
@@ -201,7 +229,7 @@ Muchas compañías piensan dos veces antes de despedir a un trabajador, así se 
                     <div class=" col-xl-12 " >
                         <div class="course-details__thumb">
                             <!-- IMAGEN BANNER -->
-                            <!-- <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width: 500px;border: 1px silver solid;" class=" img-fluid " /> -->
+                            <!-- <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width : 500px;border: 1px silver solid;" class=" img-fluid " /> -->
                         </div>
                         <!-- details-thumb -->
                         <div class="course-details__meta">

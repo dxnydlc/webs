@@ -42,32 +42,31 @@ main-header-two
 
 
 
-$Banner_interno = '/2024/29-09/seminario-laboral-02.jpg';
+$Banner_interno = '/2024/29-09/capacidad-operativa-01.jpg';
 
 $Banner_superior = '/2024/29-09/banner-interno-01.jpg';
 
-$Titulo_curso_inferior = 'Evita contingecias legales ante un despido';
-$Titulo_curso_superior = 'Evita contingecias legales ante un despido';
+$Titulo_curso_inferior = 'Sujetos sin capacidad operativa y operaciones no reales ';
+$Titulo_curso_superior = 'Sujetos sin capacidad operativa y operaciones no reales ';
 
 
 # Expositor
 $Expositor_alias = 'Expositor';// Expositor | Expositora
-$Expositor = 'César Puntriano Rosas';
-$Exposito_Thumb = '/2024/29-09/dr-Puntriano-01.jpeg';
-$imagen_expositor_interno = '/2024/29-09/dr-Puntriano-01.jpeg';
+$Expositor = 'Luis García Romero';
+$Exposito_Thumb = '/2024/29-09/dr-luis-garcia-01.jpg';
+$imagen_expositor_interno = '/2024/29-09/dr-luis-garcia-01.jpg';
 $acerca_instrucctor = '
 
-Socio principal en el Estudio Muñiz, Olaya, Meléndez, Castro, Ono & Herrera Abogados.
+Socio Senior del Estudio Muñiz, Olaya, Meléndez, Castro, Ono & Herrera Abogados
 <br/>
-Abogado y magister en derecho del trabajo y seguridad social por la Pontificia Universidad Católica del Perú. Docente en pregrado y posgrado en ESAN, docente en la maestría en derecho del trabajo en la Universidad de San Martín de Porres y en la Maestría en Derecho Empresarial en la Universidad de Lima. 
+Abogado especialista en Derecho Tributario y Corporativo, egresado de la maestría en tributación y política fiscal en la Universidad de Lima, con especialización en derecho tributario internacional por la Universidad de Austral – Argentina y Post título en Regulación de Servicios Públicos Osinerg – Universidad del Pacífico. Ha sido catedrático en la Universidad Católica San Pablo, Arequipa, profesor de Post Título de la Pontificia Universidad Católica del Perú y de la Universidad ESAN. Miembro del Instituto Peruano de Derecho Tributario - IPDT.
 
 ';
 
-
 # Texto de WhatsApp
 # https://www.urlencoder.org/
-# Hola quiero inscribirme al seminario: Evita contingecias legales ante un despido
-$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20Evita%20contingecias%20legales%20ante%20un%20despido';
+# Hola quiero inscribirme al seminario: ccccc
+$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20%C2%BFC%C3%B3mo%20se%20desarrolla%20el%20procedimiento%20inspectivo%20sancionador%20de%20la%20Sunafil%3F';
 
 
 # Inversión
@@ -84,42 +83,49 @@ S/ 170.00 incluido IGV
 # Descripción
 $texto_interno = '
 <p class="course-details__overview__text" style="font-size:20px;" >
+    La SUNAT considera como “Sujetos Sin Capacidad Operativa - SSCO” a los contribuyentes que no cuentan con recursos económicos, logísticos, humanos y otros para realizar operaciones por las que emiten comprobantes de pagos. 
 
-Muchas compañías piensan dos veces antes de despedir a un trabajador, así se trate de un despido con causa justa. En este curso abordaremos los distintos tipos de despido, daremos pautas de cómo aplicar adecuadamente la legislación al momento de despedir y así evitar riesgos legales, desarrollando los principales criterios de la jurisprudencia laboral.
+<br/>
+Del mismo modo, ha detectado que muchas empresas incurren en evasión tributaria al declarar facturas de operaciones no reales con el propósito de justificar gastos, costos o crédito fiscal. 
+
+<br/>
+A través de este seminario te brindaremos los alcances legales para prevenir contingencias con el ente fiscalizador.
 
 </p>
 
-<br/>
-<p class="course-details__overview__text" style="font-size:20px;" >
-    <strong>Temas a tratar</strong>
-</p>
 
-<br/>
-<p class="course-details__overview__text" style="font-size:20px;" >
-    <strong>Los ingresos laborales </strong>
+<p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
+
+<strong>Temas a tratar:</strong>
 </p>
 <ul class="list-unstyled course-details__overview__lists">
     <li>
         <span class="icon-check"></span>
-        Tipos de despido
+        Sujetos sin capacidad operativa: ¿Quiénes son?
     </li>
     <li>
         <span class="icon-check"></span>
-        Pautas de cómo aplicar adecuadamente la legislación al momento de despedir
+        ¿Qué riesgos suponen para las empresas formales?
     </li>
     <li>
         <span class="icon-check"></span>
-        Cómo evitar riesgos legales ante un despido
+        Operaciones no reales: La acotación más común de la SUNAT.
     </li>
     <li>
         <span class="icon-check"></span>
-        Análisis de los principales criterios jurisprudenciales laboral
+        Casuística y criterios de fiscalización.
     </li>
     <li>
         <span class="icon-check"></span>
-        Entre otros temas relevantes.
+        Entre otros temas que guarden relación con las materias.
     </li>
 </ul>
+
+
+
+
+
+
 
 
 
@@ -170,6 +176,7 @@ Muchas compañías piensan dos veces antes de despedir a un trabajador, así se 
     </li>
     
 </ul>
+
 ';
 ?>
 
@@ -201,7 +208,7 @@ Muchas compañías piensan dos veces antes de despedir a un trabajador, así se 
                     <div class=" col-xl-12 " >
                         <div class="course-details__thumb">
                             <!-- IMAGEN BANNER -->
-                            <!-- <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width: 500px;border: 1px silver solid;" class=" img-fluid " /> -->
+                            <!-- <img src="<?= $Banner_interno ?>" alt="eduact" style="max-width11: 11400px;border: 1px silver solid;" class=" img-fluid " /> -->
                         </div>
                         <!-- details-thumb -->
                         <div class="course-details__meta">

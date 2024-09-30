@@ -42,12 +42,12 @@ main-header-two
 
 
 
-$Banner_interno = '/2024/29-09/seminario-laboral-02.jpg';
+$Banner_interno = '/2024/29-09/seminario-igual-dad-salarial.jpg';
 
 $Banner_superior = '/2024/29-09/banner-interno-01.jpg';
 
-$Titulo_curso_inferior = 'Evita contingecias legales ante un despido';
-$Titulo_curso_superior = 'Evita contingecias legales ante un despido';
+$Titulo_curso_inferior = 'Elabora e implementa la igualdad salarial en tu empresa';
+$Titulo_curso_superior = 'Elabora e implementa la igualdad salarial en tu empresa';
 
 
 # Expositor
@@ -63,11 +63,10 @@ Abogado y magister en derecho del trabajo y seguridad social por la Pontificia U
 
 ';
 
-
 # Texto de WhatsApp
 # https://www.urlencoder.org/
-# Hola quiero inscribirme al seminario: Evita contingecias legales ante un despido
-$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20Evita%20contingecias%20legales%20ante%20un%20despido';
+# Hola quiero inscribirme al seminario: Elabora e implementa la igualdad salarial en tu empresa
+$texto_whatsApp = 'https://wa.me/51941280252?text=Hola%20quiero%20inscribirme%20al%20seminario%3A%20Elabora%20e%20implementa%20la%20igualdad%20salarial%20en%20tu%20empresa';
 
 
 # Inversión
@@ -84,42 +83,49 @@ S/ 170.00 incluido IGV
 # Descripción
 $texto_interno = '
 <p class="course-details__overview__text" style="font-size:20px;" >
-
-Muchas compañías piensan dos veces antes de despedir a un trabajador, así se trate de un despido con causa justa. En este curso abordaremos los distintos tipos de despido, daremos pautas de cómo aplicar adecuadamente la legislación al momento de despedir y así evitar riesgos legales, desarrollando los principales criterios de la jurisprudencia laboral.
+    Actualmente la Sunafil se encuentra enviando cartas inductivas a todas las empresas con el propósito que cumplan con la elaboración e implementación de la política salarial, cuadro de categorías y funciones de los trabajadores, programas de capacitación y la banda salarial. 
+<br/>
+En tal sentido, a través de este seminario le brindaremos los alcances legales para contestar las cartas inductivas, elaborar e implementar el sistema de equidad salarial y evitar multas laborales.
 
 </p>
 
-<br/>
-<p class="course-details__overview__text" style="font-size:20px;" >
-    <strong>Temas a tratar</strong>
-</p>
 
-<br/>
-<p class="course-details__overview__text" style="font-size:20px;" >
-    <strong>Los ingresos laborales </strong>
+
+<p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
+
+<strong>Temas a tratar:</strong>
 </p>
 <ul class="list-unstyled course-details__overview__lists">
     <li>
         <span class="icon-check"></span>
-        Tipos de despido
+        Marco legal
     </li>
     <li>
         <span class="icon-check"></span>
-        Pautas de cómo aplicar adecuadamente la legislación al momento de despedir
+        Explicaremos cómo responder una carta inductiva de Sunafil
     </li>
     <li>
         <span class="icon-check"></span>
-        Cómo evitar riesgos legales ante un despido
+        Te enseñaremos cómo elaborar una política salarial
     </li>
     <li>
         <span class="icon-check"></span>
-        Análisis de los principales criterios jurisprudenciales laboral
+        Te indicaremos cómo cumplir con las demás obligaciones previstas en la Ley N° 30709, Ley que prohíbe la discriminación salarial entre varón y mujer
     </li>
     <li>
         <span class="icon-check"></span>
-        Entre otros temas relevantes.
+        Infracciones y multas laborales
     </li>
 </ul>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -170,6 +176,7 @@ Muchas compañías piensan dos veces antes de despedir a un trabajador, así se 
     </li>
     
 </ul>
+
 ';
 ?>
 

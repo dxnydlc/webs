@@ -58,7 +58,7 @@ main-header-two
                 <div class="row">
                     <div class="col-xl-12 ">
                         <div class="course-details__thumb">
-                            <img src="/2024/curso-banner-02.jpeg" alt="eduact" style="max-width: 500px;" />
+                            <img src="/2024/29-09/seminario-inspeccion-sunafil-01.jpg" alt="eduact" style="max-width: 500px;" />
                         </div><!-- details-thumb -->
                         <div class="course-details__meta">
                             <div class="course-details__meta__author">
