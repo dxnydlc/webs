@@ -106,10 +106,34 @@ class Home extends BaseController
     }
     // ........................................................
     // ........................................................
+    // Conceptos remunerativos y no remunerativos 
+    public function curso_11( $texto ): string
+    {
+        $data['APP_URL']    = getenv('app.baseURL');
+        $data['VERSION']  = VERSION;
+        $data['texto']  = $texto;
+        return view( 'curso/curso_11_remunerativo' , $data );
+    }
     // ........................................................
     // ........................................................
+    // Incremento patrimonial NO justificado
+    public function curso_12( $texto ): string
+    {
+        $data['APP_URL']    = getenv('app.baseURL');
+        $data['VERSION']  = VERSION;
+        $data['texto']  = $texto;
+        return view( 'curso/curso_12' , $data );
+    }
     // ........................................................
     // ........................................................
+    // Evita contingencias legales ante un despido
+    public function curso_13( $texto ): string
+    {
+        $data['APP_URL']    = getenv('app.baseURL');
+        $data['VERSION']  = VERSION;
+        $data['texto']  = $texto;
+        return view( 'curso/curso_13' , $data );
+    }
     // ........................................................
     // ........................................................
     // ........................................................

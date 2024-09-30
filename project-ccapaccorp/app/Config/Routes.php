@@ -53,6 +53,24 @@ $routes->get('/curso/09/(:any)', 'Home::curso_09/$1');
 $routes->get('/curso/10/(:any)', 'Home::curso_10/$1');
 
 
+// Conceptos remunerativos y no remunerativos 
+$routes->get('/curso/11/(:any)', 'Home::curso_11/$1');
+
+
+// Incremento patrimonial NO justificado
+$routes->get('/curso/12/(:any)', 'Home::curso_12/$1');
+
+
+// Evita contingencias legales ante un despido
+$routes->get('/curso/13/(:any)', 'Home::curso_13/$1');
+
+
+
+
+
+
+
+
 
 
 

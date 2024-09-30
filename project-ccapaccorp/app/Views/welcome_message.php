@@ -78,7 +78,7 @@ CcapaCcorp
 
                 <!-- slider-item-start -->
                 <!-- 1  -->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
@@ -106,7 +106,7 @@ CcapaCcorp
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- slider-item-end -->
 
 
@@ -115,7 +115,7 @@ CcapaCcorp
 
                 <!-- slider-item-start -->
                 <!-- 2 -->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
@@ -143,7 +143,7 @@ CcapaCcorp
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- slider-item-end -->
 
 
@@ -157,21 +157,11 @@ CcapaCcorp
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-7 ">
-                                    <div class="main-slider__content">
-                                        <h2 class="main-slider__title" style="text-transform: none;" >¿Sabes cómo elaborar e implementar la Igualdad Salarial en tu Empresa?</h2>
-                                        <p class="main-slider__text">Expositor: Dr. César Puntriano Rosas<br/>Jueves 22 de agosto de 7:00 - 10:00 p.m.</p>
-                                        <div class="main-slider__btn" >
-                                            <a href="<?= esc($APP_URL) ?>curso/09/sabes-como-elaborar-e-implementar-la-igualdad-salarial-en-tu-empresa" class="eduact-btn eduact-btn-second" >
-                                                <span class="eduact-btn__curve"></span>Ver información<i class="icon-arrow"></i> 
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 " style="position:relative;" >
+                                
+                                <div class="col-lg-12 " style="xxposition:relativexx;" >
                                     <div class="main-slider__layer">
                                         <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
-                                            <img src="/2024/IS_549x825.png" alt="eduact" class=" img-fluid img-resposive " style="" />
+                                            <img src="/2024/29-09/bolita-03-01.png" alt="eduact" class=" img-fluid img-resposive " style="" />
                                         </div>
                                     </div>
                                     <div class="main-slider__shape-three"></div>
@@ -188,7 +178,7 @@ CcapaCcorp
 
                 <!-- slider-item-start -->
                 <!-- ¿Cómo se desarrolla el procedimiento inspectivo sancionador de la Sunafil? -->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
@@ -216,7 +206,7 @@ CcapaCcorp
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- slider-item-end -->
 
 
@@ -229,7 +219,7 @@ CcapaCcorp
 
                 <!-- slider-item-start -->
                 <!-- Sujetos Sin Capacidad Operativa: jueves 22 de agosto, de 7:00 10:00 pm -->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
@@ -257,7 +247,7 @@ CcapaCcorp
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- slider-item-end -->
 
 
@@ -266,7 +256,7 @@ CcapaCcorp
 
 
                 <!-- slider-item-start -->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
@@ -295,7 +285,7 @@ CcapaCcorp
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- slider-item-end -->
 
 
@@ -311,6 +301,47 @@ CcapaCcorp
         <section class="service-three" style="">
             <div class="container">
                 <div class="row">
+                    <div class="col-lg-1"></div>
+                    <div class="col-lg-10">
+                        <p style="text-align: justify;" >
+                            <strong>CcapaCcorp</strong>, busca ser el aliado estratégico de sus clientes, ayudándolos a través de las
+                            capacitaciones a cumplir con su desempeño laboral organizacional y a lograr sus objetivos institucionales.
+                            <br/><br/>
+                            Para tal efecto, desarrollamos las capacitaciones teniendo en cuenta los lineamientos
+                            esenciales siguientes: temas coyunturales, necesidades profesionales-empresariales y el respaldo de la amplia trayectoria profesional de los expositores.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-1"></div>
+                    <div class="col-lg-5 ">
+                        <h4 style="text-align:center" >
+                        Nuestra<br/>MISIÓN
+                        </h4>
+                        <p style="text-align: justify;" >
+                        Brindar capacitaciones de calidad y acorde a las necesidades de los empresarios, profesionales, emprendedores y a toda persona que quiera potenciar sus conocimientos 
+                        </p>
+                    </div>
+                    <div class="col-lg-5 "></div>
+                    <div class="col-lg-1"></div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-1"></div>
+                    <div class="col-lg-5"></div>
+                    <div class="col-lg-5">
+                        <h4 style="text-align:center" >
+                        Nuestra<br/>VISIÓN
+                        </h4>
+                        <p style="text-align: justify;" >
+                        Ser reconocida como una institución líder en el Perú, que garantiza a sus clientes capacitaciones con estándares de calidad a cambio de una inversión accesible.
+                        </p>
+                    </div>
+                    <div class="col-lg-1"></div>
+                </div>
+
+                <!-- <div class="row">
                     <div class="col-lg-6">
                         <div class="section-title wow fadeInLeft" data-wow-delay="100ms">
                             <br/>
@@ -322,7 +353,7 @@ CcapaCcorp
                                 Centro de Capacitación & Competencias Corporativas
                             </h3>
                             
-                        </div><!-- section-title -->
+                        </div>
                     </div>
                     <div class="col-lg-6 wow fadeInRight" data-wow-delay="100ms">
                         <p class="service-three__section-text" style="text-align: justify;font-size: 20px;" >
@@ -331,7 +362,7 @@ CcapaCcorp
                         En ese sentido, los lineamientos para desarrollar nuestras capacitaciones están sostenidos en nuestro compromiso, responsabilidad y seriedad  de brindarle a nuestros clientes temas de coyuntura conforme al marco legal y por supuesto, respaldados por los amplios conocimientos y experiencia de nuestros expositores.
                         </p>
                     </div>
-                </div>
+                </div> -->
                 
             </div>
         </section>
@@ -349,109 +380,95 @@ CcapaCcorp
                 <div class="section-title wow fadeInUp text-center" data-wow-delay="100ms">
                     <h2 class="section-title__title">Próximos seminarios</h2>
                 </div>
-                <div class="row">
 
-
-                    <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
+                <div class="row" >
+                    
+                    <div class=" col-lg-6 col-xl-6 " >
                         <div class="course-three__item">
                             <div class="course-three__thumb">
-                                <img src="2024/curso-banner-02.jpeg" alt="eduact">
+                                <img src="/2024/29-09/seminario-laboral-01.jpg" alt="eduact">
                             </div>
                             <div class="course-three__content">
-                                <div class="course-three__time">Seminario on-line</div>
-                                
-                                <h3 class="course-three__title">
-                                    <a href="<?= esc($APP_URL) ?>curso/01/Sabes-como-afrontar-exitosamente-una-inspeccion-de-SUNAFIL" >¿Sabes cómo afrontar exitosamente una inspección de SUNAFIL?</a>
-                                </h3>
-
+                                <div class="course-three__time" >Laboral</div>
+                                <h4 class="course-three__title">
+                                    <a href="<?= esc($APP_URL) ?>curso/11/conceptos-remunerativos-y-No-remunerativos" >
+                                        Conceptos remunerativos y No remunerativos
+                                    </a>
+                                </h4>
                                 <div class="course-three__bottom">
                                     <div class="course-three__author">
-                                        <h5 class="course-three__author__name">Martes 16 de julio</h5>
+                                        <h5 class="course-three__author__name" >Jueves 24 de octubre</h5>
                                         <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
                                     </div>
                                 </div>
-                                
-                            </div><!-- /.course-content -->
-                        </div><!-- /.course-card-two -->
+                            </div>
+                        </div>
                     </div>
-
-
-                    <div class="col-xl-6 wow fadeInUp" data-wow-delay="300ms">
+                    <!-- ./col -->
+                    <div class=" col-lg-6 col-xl-6 " >
                         <div class="course-three__item">
                             <div class="course-three__thumb">
-                                <img src="/2024/banner-mini-08-agosto-01.png" alt="eduact" class=" img-responsive " >
-                            </div><!-- /.course-thumb -->
+                                <img src="/2024/29-09/seminario-tributario-01.jpg" alt="eduact">
+                            </div>
                             <div class="course-three__content">
-                                <div class="course-three__time">Seminario on-line</div>
+                                <div class="course-three__time" >Tributario</div>
                                 
                                 <h3 class="course-three__title">
-                                    <a href="<?= esc($APP_URL) ?>curso/03/Obligaciones-del-empleador-frente-al-hostigamiento-sexual-laboral" >Obligaciones del empleador frente al hostigamiento sexual laboral</a>
-                                </h3>
-                                <div class="course-three__bottom">
-                                    <div class="course-three__author">
-                                        <h5 class="course-three__author__name" >Jueves 27 de agosto</h5>
-                                        <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
-                                    </div>
-                                </div>
-                            </div><!-- /.course-content -->
-                        </div><!-- /.course-card-two -->
-                    </div>
-
-
-
-                    <div class="col-xl-6 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="course-three__item">
-                            <div class="course-three__thumb">
-                                <img src="/2024/baner-mini-27-agosto-01.png" alt="eduact" class=" img-responsive " >
-                            </div><!-- /.course-thumb -->
-                            <div class="course-three__content">
-                                <div class="course-three__time">Seminario on-line</div>
-                                
-                                <h3 class="course-three__title">
-                                    <a href="<?= esc($APP_URL) ?>curso/04/como-se-desarrolla-el-procedimiento-inspectivo-sancionador-de-la-Sunafil" >¿Cómo se desarrolla el procedimiento inspectivo sancionador de la Sunafil?</a>
-                                </h3>
-                                <div class="course-three__bottom">
-                                    <div class="course-three__author">
-                                        <h5 class="course-three__author__name" >Martes 27 de agosto</h5>
-                                        <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
-                                    </div>
-                                </div>
-                            </div><!-- /.course-content -->
-                        </div><!-- /.course-card-two -->
-                    </div>
-
-
-
-
-                    <div class="col-xl-6 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="course-three__item">
-                            <div class="course-three__thumb">
-                                <img src="/2024/banner-mini-curso-15.png" alt="eduact" class=" img-responsive " >
-                            </div><!-- /.course-thumb -->
-                            <div class="course-three__content">
-                                <div class="course-three__time">Seminario on-line</div>
-                                
-                                <h3 class="course-three__title">
-                                    <a href="<?= esc($APP_URL) ?>curso/05/sujetos-sin-capacidad-operativa-y-operaciones-no-reales" >
-                                    Sujetos sin capacidad operativa y operaciones no reales
+                                    <a href="<?= esc($APP_URL) ?>curso/12/incremento-patrimonial-NO-justificado" >
+                                        Incremento patrimonial NO justificado
                                     </a>
                                 </h3>
+
                                 <div class="course-three__bottom">
-                                    <!-- <div class="course-three__author">
-                                        <h5 class="course-three__author__name" >Martes 27 de agosto</h5>
+                                    <div class="course-three__author">
+                                        <h5 class="course-three__author__name">Miercoles 23 de octubre</h5>
                                         <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
-                                    </div> -->
+                                    </div>
                                 </div>
-                            </div><!-- /.course-content -->
-                        </div><!-- /.course-card-two -->
+                            </div>
+                        </div>
                     </div>
-
-
-
-
-                    
-
+                    <!-- ./col -->
                 </div>
+                <!-- ./row -->
+                <div class="row">
+                    <div class=" col-lg-3 col-xl-3 "></div>
+                    <!-- ./col -->
+                    <div class=" col-lg-6 col-xl-6 " >
+                        <div class="course-three__item">
+                            <div class="course-three__thumb">
+                                <img src="/2024/29-09/seminario-laboral-02.jpg" alt="eduact">
+                            </div>
+                            <div class="course-three__content">
+                                <div class="course-three__time" >Laboral</div>
+                                
+                                <h3 class="course-three__title">
+                                    <a href="<?= esc($APP_URL) ?>curso/13/Evita-contingecias-legales-ante-un-despido" >
+                                        Evita contingecias legales ante un despido
+                                    </a>
+                                </h3>
+
+                                <div class="course-three__bottom">
+                                    <div class="course-three__author">
+                                        <h5 class="course-three__author__name">Lunes 14 de octubre</h5>
+                                        <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ./col -->
+                    <div class=" col-lg-3 col-xl-3 "></div>
+                    <!-- ./col -->
+                </div>
+                <!-- ./row -->
+                <!-- ./row -->
+                <!-- ./row -->
+                <!-- ./row -->
+                <!-- ./row -->
+                <!-- ./row -->
+
+                
             </div>
         </section>
         <!-- Course End -->
@@ -462,61 +479,54 @@ CcapaCcorp
         
         <!-- Testimonial End -->
         <!-- Team Start -->
-        <section class="team-three" style="padding: 50px 0 85px;" >
+        <!-- <section class="team-three" style="padding: 50px 0 85px;" >
             <div class="container">
                 <div class="section-title text-center wow fadeInUp" data-wow-delay="100ms">
                     
                     <h2 class="section-title__title">Conoce a nuestros expositores</h2>
-                </div><!-- section-title -->
+                </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-three__item">
                             <div class="team-three__image">
                                 <img src="/2024/Expositor-01-416-551.png" alt="eduact">
-                            </div><!-- /.team-image -->
+                            </div>
                             
                             <div class="team-three__content" style="bottom: 75px;" >
                                 <h3 class="team-three__title">
                                     <a href="<?= esc($APP_URL) ?>expositor/01/cesar-puntriano-rosas">César Puntriano Rosas</a>
-                                </h3><!-- /.team-name -->
-                                <!-- /.team-designation -->
-                                <!-- /.team-social -->
-                            </div><!-- /.team-content -->
-                        </div><!-- /.team-three -->
+                                </h3>
+                            </div>
+                        </div>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-three__item">
                             <div class="team-three__image">
                                 <img src="/2024/no-user-02.png" alt="eduact">
-                            </div><!-- /.team-image -->
+                            </div>
                             
                             <div class="team-three__content" style="bottom: 75px;" >
                                 <h3 class="team-three__title">
                                     <a href="<?= esc($APP_URL) ?>expositor/03/rina-rimachi-castaneda">Rina Rimachi Castañeda</a>
-                                </h3><!-- /.team-name -->
-                                <!-- /.team-designation -->
-                                <!-- /.team-social -->
-                            </div><!-- /.team-content -->
-                        </div><!-- /.team-three -->
+                                </h3>
+                            </div>
+                        </div>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-three__item">
                             <div class="team-three__image">
                                 <img src="/2024/Jonathan-Criollo-Rodriguez-01.png" alt="eduact">
-                            </div><!-- /.team-image -->
-                            
+                            </div>                            
                             <div class="team-three__content" style="bottom: 75px;" >
                                 <h3 class="team-three__title">
                                     <a href="<?= esc($APP_URL) ?>expositor/02/jonathan-criollo-rodriguez">Jonathan Criollo Rodríguez</a>
-                                </h3><!-- /.team-name -->
-                                <!-- /.team-designation -->
-                                <!-- /.team-social -->
-                            </div><!-- /.team-content -->
-                        </div><!-- /.team-three -->
+                                </h3>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Team End -->
         <!-- Blog Start -->
         
