@@ -7,8 +7,8 @@
             
             <div class="col-xl-4 col-md-5 wow fadeInUp" data-wow-delay="100ms">
                 <div class="main-footer-two__about">
-                    <a href="index.html" class="main-footer-two__logo">
-                        <img src="/2024/logo-10.jpeg" alt="eduact" class=" img-fluid " >
+                    <a href="/" class="main-footer-two__logo">
+                        <img src="/2024/29-09/logo-bottom-02.png" alt="eduact" class=" img-fluid " style="max-width: 220px;" />
                     </a><!-- /.footer-logo -->
                     <ul class="main-footer-two__info-list">
                         <!--<li><span class="icon-Location"></span>6391 Elgin St. Celina, Delaware 10299</li>-->

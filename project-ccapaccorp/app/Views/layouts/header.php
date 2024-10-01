@@ -8,7 +8,7 @@
                 <div class="row">
                     <div class="col-lg-12 col-10 " >
                         <a href="/">
-                            <img src="<?= esc($APP_URL) ?>2024/logo-11.png" class=" img-fluid " alt="Eduact">
+                            <img src="<?= esc($APP_URL) ?>2024/29-09/logo-top-02.png" class=" img-fluid " alt="Eduact" style="max-width: 80%;" />
                         </a>
                     </div>
                 </div>

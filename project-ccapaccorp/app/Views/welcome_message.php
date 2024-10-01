@@ -68,13 +68,13 @@ CcapaCcorp
                 <img src="/2024/29-09/bolita-01.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                <img src="/2024/29-09/bolita-02-a.jpg" class="d-block w-100" alt="...">
+                <img src="/2024/29-09/bolita-02-b.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
                     <div class="row">
                         <div class="col-lg-2"></div>
                         <div class="col-lg-8">
-                            <img src="/2024/29-09/bolita-03-b.jpg" class="d-block w-100" alt="...">
+                            <img src="/2024/29-09/bolita-03-c.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="col-lg-2"></div>
                     </div>
@@ -389,7 +389,7 @@ CcapaCcorp
                         </div>
 
                         <p style="text-align: justify;font-size:18px;" >
-                        Brindar capacitaciones de calidad y acorde a las necesidades de los empresarios, profesionales, emprendedores y a toda persona que quiera potenciar sus conocimientos 
+                        Brindar capacitaciones de calidad y acorde a las necesidades de los empresarios, profesionales, emprendedores y a toda persona que quiera potenciar sus conocimientos.
                         </p>
                     </div>
                     <div class="col-lg-5 "></div>
