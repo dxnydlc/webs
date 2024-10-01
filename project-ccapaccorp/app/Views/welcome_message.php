@@ -368,7 +368,7 @@ CcapaCcorp
                 <div class="row">
                     <div class="col-lg-1"></div>
                     <div class="col-lg-10">
-                        <p style="text-align: justify;" >
+                        <p style="text-align: justify;font-size:18px;" >
                             <strong>CcapaCcorp</strong>, busca ser el aliado estratégico de sus clientes, ayudándolos a través de las
                             capacitaciones a cumplir con su desempeño laboral organizacional y a lograr sus objetivos institucionales.
                             <br/><br/>
