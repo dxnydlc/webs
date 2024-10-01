@@ -388,7 +388,7 @@ CcapaCcorp
                             <img src="/2024/29-09/mision-01.png" class=" img-fluid " />
                         </div>
 
-                        <p style="text-align: justify;" >
+                        <p style="text-align: justify;font-size:18px;" >
                         Brindar capacitaciones de calidad y acorde a las necesidades de los empresarios, profesionales, emprendedores y a toda persona que quiera potenciar sus conocimientos 
                         </p>
                     </div>
@@ -406,7 +406,7 @@ CcapaCcorp
                         <div style="width:160px;margin:0 auto;" >
                             <img src="/2024/29-09/vision-01.png" class=" img-fluid " />
                         </div>
-                        <p style="text-align: justify;" >
+                        <p style="text-align: justify;font-size:18px;" >
                         Ser reconocida como una institución líder en el Perú, que garantiza a sus clientes capacitaciones con estándares de calidad a cambio de una inversión accesible.
                         </p>
                     </div>
@@ -464,7 +464,7 @@ CcapaCcorp
                                 <div class="course-three__time" >Laboral</div>
                                 <h4 class="course-three__title">
                                     <a href="<?= esc($APP_URL) ?>curso/11/conceptos-remunerativos-y-No-remunerativos" >
-                                        Conceptos remunerativos y No remunerativos
+                                        Conceptos remunerativos y no remunerativos
                                     </a>
                                 </h4>
                                 <div class="course-three__bottom">

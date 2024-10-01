@@ -65,7 +65,7 @@ main-header-two
                         <img src="/2024/29-09/seminario-laboral-01.jpg" alt="eduact">
                     </div>
                     <div class="course-three__content">
-                        <div class="course-three__time" >Seminario on-line</div>
+                        <div class="course-three__time" >Laboral</div>
                         <h4 class="course-three__title">
                             <a href="<?= esc($APP_URL) ?>curso/11/conceptos-remunerativos-y-no-remunerativos" >
                                 Conceptos remunerativos y No remunerativos
@@ -189,7 +189,7 @@ main-header-two
             <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
                 <div class="course-three__item">
                     <div class="course-three__thumb">
-                        <img src="/2024/29-09/banner-interno-01.jpg" alt="eduact">
+                        <img src="/2024/29-09/seminario-inspeccion-sunafil-01.jpg" alt="eduact">
                     </div>
                     <div class="course-three__content">
                         <div class="course-three__time" >Laboral</div>

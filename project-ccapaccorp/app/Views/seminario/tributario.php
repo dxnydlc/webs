@@ -51,7 +51,7 @@ main-header-two
                         <img src="/2024/29-09/incremento-patrimonial-01.jpg" alt="eduact">
                     </div>
                     <div class="course-three__content">
-                        <div class="course-three__time">Seminario on-line</div>
+                        <div class="course-three__time">Tributario</div>
                         
                         <h3 class="course-three__title">
                             <a href="<?= esc($APP_URL) ?>curso/12/incremento-patrimonial-no-justificado" >
@@ -75,7 +75,7 @@ main-header-two
                         <img src="/2024/29-09/capacidad-operativa-01.jpg" alt="eduact">
                     </div>
                     <div class="course-three__content">
-                        <div class="course-three__time">Seminario on-line</div>
+                        <div class="course-three__time">Tributario</div>
                         
                         <h3 class="course-three__title">
                             <a href="<?= esc($APP_URL) ?>curso/17/sujetos-sin-capacidad-operativa-y-operaciones-no-reales" >
@@ -103,7 +103,7 @@ main-header-two
                         <img src="/2024/29-09/guia-rem-01.jpg" alt="eduact">
                     </div>
                     <div class="course-three__content">
-                        <div class="course-three__time">Seminario on-line</div>
+                        <div class="course-three__time">Tributario</div>
                         
                         <h3 class="course-three__title">
                             <a href="<?= esc($APP_URL) ?>curso/02/guias-de-Remision-Electronicas" >
