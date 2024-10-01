@@ -365,7 +365,7 @@ CcapaCcorp
         <!-- Service Start -->
         <section class="service-three" style="">
             <div class="container">
-                <div class="row">
+                <div class="row" style="margin-bottom:10px;" >
                     <div class="col-lg-1"></div>
                     <div class="col-lg-12">
                         <p style="text-align: justify;font-size:18px;" >
