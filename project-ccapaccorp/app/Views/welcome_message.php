@@ -72,11 +72,11 @@ CcapaCcorp
                 </div>
                 <div class="carousel-item">
                     <div class="row">
-                        <div class="col-lg-2"></div>
-                        <div class="col-lg-8">
+                        <!-- <div class="col-lg-2"></div> -->
+                        <div class="col-lg-12 ">
                             <img src="/2024/29-09/bolita-03-c.jpg" class="d-block w-100" alt="...">
                         </div>
-                        <div class="col-lg-2"></div>
+                        <!-- <div class="col-lg-2"></div> -->
                     </div>
                     
                 </div>
