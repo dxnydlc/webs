@@ -44,6 +44,9 @@
         .page-header__title{
             text-transform: uppercase !important;
         }
+        .course-details__title{
+            text-transform: uppercase;
+        }
      </style>
     <?= $this->renderSection('los_css') ?>
     <!-- ./LOS CSS -->
