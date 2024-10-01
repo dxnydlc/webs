@@ -40,6 +40,11 @@
     </script>
 
     <!-- LOS CSS -->
+     <style>
+        .page-header__title{
+            text-transform: uppercase !important;
+        }
+     </style>
     <?= $this->renderSection('los_css') ?>
     <!-- ./LOS CSS -->
 
@@ -156,6 +161,10 @@
     <script src="<?= esc($APP_URL) ?>assets/vendors/countdown/countdown.min.js"></script>
     <!-- template js -->
     <script src="<?= esc($APP_URL) ?>assets/js/eduact.js"></script>
+
+    <!-- LOS JS -->
+    <?= $this->renderSection('los_js') ?>
+    <!-- ./LOS JS -->
 </body>
 
 </html>

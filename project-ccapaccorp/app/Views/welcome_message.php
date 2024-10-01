@@ -53,8 +53,46 @@ CcapaCcorp
 
 
 <div class="stricky-header stricked-menu main-menu main-menu-with-bg">
-            <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
+    <div class="sticky-header__content"></div>
+    <!-- /.sticky-header__content -->
         </div><!-- /.stricky-header -->
+
+        <div id="carouselHome" class="carousel slide" style="margin-top: 80px;" >
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselHome" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselHome" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselHome" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                <img src="/2024/29-09/bolita-01.png" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                <img src="/2024/29-09/bolita-02-a.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-lg-2"></div>
+                        <div class="col-lg-8">
+                            <img src="/2024/29-09/bolita-03-b.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="col-lg-2"></div>
+                    </div>
+                    
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselHome" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselHome" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+
+        
+
         <!--Main Slider Start-->
         <section class="main-slider">
             <div class="main-slider__one eduact-owl__carousel owl-carousel" data-owl-options='{
@@ -149,10 +187,37 @@ CcapaCcorp
 
 
 
+                <!-- 1 -->
+                <!-- <div class="item">
+                    <div class="main-slider__item">
+                        <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
+                        <div class="container">
+                            <div class="row">
+                                
+                                <div class="col-lg-6 " style="xxposition:relativexx;" >
+                                    <div class="main-slider__layer">
+                                        <div class="main-slider__layer-thumb eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
+                                            <img src="/2024/29-09/bolita-01.png" alt="eduact" class=" img-fluid img-resposive " style="" />
+                                        </div>
+                                    </div>
+                                    <div class="main-slider__shape-three"></div>
+                                    <div class="main-slider__shape-four"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <!-- slider-item-end -->
+
+
+
+
+
+
 
                 <!-- slider-item-start -->
                 <!-- 3 -->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="main-slider__item">
                         <div class="main-slider__bg" style="background-image: url(/2024/fondo-banner-02.png);"></div>
                         <div class="container">
@@ -170,7 +235,7 @@ CcapaCcorp
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- slider-item-end -->
 
 
@@ -316,9 +381,13 @@ CcapaCcorp
                 <div class="row">
                     <div class="col-lg-1"></div>
                     <div class="col-lg-5 ">
-                        <h4 style="text-align:center" >
+                        <!-- <h4 style="text-align:center" >
                         Nuestra<br/>MISIÓN
-                        </h4>
+                        </h4> -->
+                        <div style="width:160px;margin:0 auto;" >
+                            <img src="/2024/29-09/mision-01.png" class=" img-fluid " />
+                        </div>
+
                         <p style="text-align: justify;" >
                         Brindar capacitaciones de calidad y acorde a las necesidades de los empresarios, profesionales, emprendedores y a toda persona que quiera potenciar sus conocimientos 
                         </p>
@@ -331,9 +400,12 @@ CcapaCcorp
                     <div class="col-lg-1"></div>
                     <div class="col-lg-5"></div>
                     <div class="col-lg-5">
-                        <h4 style="text-align:center" >
+                        <!-- <h4 style="text-align:center" >
                         Nuestra<br/>VISIÓN
-                        </h4>
+                        </h4> -->
+                        <div style="width:160px;margin:0 auto;" >
+                            <img src="/2024/29-09/vision-01.png" class=" img-fluid " />
+                        </div>
                         <p style="text-align: justify;" >
                         Ser reconocida como una institución líder en el Perú, que garantiza a sus clientes capacitaciones con estándares de calidad a cambio de una inversión accesible.
                         </p>
@@ -378,7 +450,7 @@ CcapaCcorp
         <section class="course-three" style="" >
             <div class="container">
                 <div class="section-title wow fadeInUp text-center" data-wow-delay="100ms">
-                    <h2 class="section-title__title">Próximos seminarios</h2>
+                    <h2 class="section-title__title">PRÓXIMOS SEMINARIOS</h2>
                 </div>
 
                 <div class="row" >
@@ -542,3 +614,59 @@ CcapaCcorp
 <?= $this->endSection() ?>
 <!-- ************************************************** -->
 
+
+
+
+<?= $this->section('los_js') ?>
+
+<script type="text/javascript">
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+//
+(function($){
+	$(document).ready(function()
+    {
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+        $('#carouselHome').carousel({
+            interval: 5000
+        }); 
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+        /* ------------------------------------------------------------- */
+    });
+
+})(jQuery);
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+</script>
+
+<?= $this->endSection() ?>

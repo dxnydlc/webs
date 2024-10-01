@@ -112,7 +112,7 @@ main-header-two
                         </h3>
                         <div class="course-three__bottom">
                             <div class="course-three__author">
-                                <h5 class="course-three__author__name">Jueves 19 de septiembre</h5>
+                                <h5 class="course-three__author__name">Martes 9 de julio</h5>
                                 <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
                             </div>
                         </div>

@@ -189,7 +189,7 @@ main-header-two
             <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
                 <div class="course-three__item">
                     <div class="course-three__thumb">
-                        <img src="/2024/29-09/seminario-inspeccion-sunafil-01.jpg" alt="eduact">
+                        <img src="/2024/29-09/banner-interno-01.jpg" alt="eduact">
                     </div>
                     <div class="course-three__content">
                         <div class="course-three__time" >Laboral</div>

@@ -44,7 +44,7 @@ main-header-two
 </div><!-- /.stricky-header -->
 
 <section class="page-header page-header--bg-two"  >
-    <div class="page-header__bg jarallax-img" style="background-image: url(/2024/banner-03.png);" ></div><!-- /.page-header-bg -->
+    <div class="page-header__bg jarallax-img" style="background-image: url(/2024/29-09/banner-interno-01.jpg);" ></div><!-- /.page-header-bg -->
     <div class="page-header__overlay" style="background-color:rgba(var(--eduact-black2-rgb), 0.5)" ></div><!-- /.page-header-overlay -->
     <div class="container text-center">
         <h2 class="page-header__title" style="text-transform: none;" >¿Sabes cómo afrontar exitosamente una inspección de SUNAFIL? </h2><!-- /.page-title -->

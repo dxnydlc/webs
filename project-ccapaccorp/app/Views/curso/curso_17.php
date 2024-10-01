@@ -172,7 +172,7 @@ A través de este seminario te brindaremos los alcances legales para prevenir co
         Acceso a la grabación del seminario.
     </li>
     <li><span class="icon-check"></span>
-    Durante el seminario tendrás la oportunidad de interactuar con uno de los mejores abogados laboralistas del Perú.
+    Durante el seminario tendrás la oportunidad de interactuar con uno de los mejores abogados tributaristas del Perú.
     </li>
     
 </ul>

@@ -44,7 +44,7 @@ main-header-two
 
 $Banner_interno = '/2024/IS_549x825.png';
 
-$Banner_superior = '/2024/banner-igualdad-salarial-02.jpeg';
+$Banner_superior = '/2024/29-09/banner-interno-01.jpg';
 
 $Titulo_curso_inferior = '¿Sabes cómo elaborar e implementar la Igualdad Salarial en tu Empresa?';
 $Titulo_curso_superior = '¿Sabes cómo elaborar e implementar la Igualdad Salarial en tu Empresa?';

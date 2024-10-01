@@ -42,7 +42,7 @@
             <!-- ./col -->
             <div class="col-xl-3 col-md-2 wow fadeInUp" data-wow-delay="400ms">
                 <div class="main-footer-two__navmenu main-footer-two__widget01">
-                    <p style="color: #666;font-size:22px;font-weight: bold;" >Capacitación In Company</p>
+                    <!-- <p style="color: #666;font-size:22px;font-weight: bold;" >Capacitación In Company</p>
                     <ul>
                         <li style="color: #666;font-size:22px;" >
                             <a href="/capacitacion-in-company/laboral">Laboral</a>
@@ -53,7 +53,7 @@
                         <li style="color: #666;font-size:22px;" >
                             <a href="/capacitacion-in-company/contable">Contable</a>
                         </li>
-                    </ul>
+                    </ul> -->
                     <!-- /.list-unstyled -->
                     <p style="color: #666;font-size:22px;font-weight: 400px;font-weight: bold;margin-top: 1rem;" >Seminarios</p>
                     <ul>
@@ -70,9 +70,20 @@
                     <!-- /.list-unstyled -->
                 </div>
                 <!-- /.footer-menu -->
+                
             </div>
             <!-- ./col -->
         </div>
         <!-- /.row -->
+
+        <div class="row">
+            <div class="col-lg-5 col-md-5 "></div>
+            <div class="col-lg-7 col-md-7 ">
+                <div style="width:180px;margin: 0 auto;" >
+                    <img src="/2024/29-09/redes-01.jpg" class=" img-fluid " alt="">
+                </div>
+            </div>
+        </div>
+
     </div><!-- /.container -->
 </footer><!-- /.main-footer-two -->
