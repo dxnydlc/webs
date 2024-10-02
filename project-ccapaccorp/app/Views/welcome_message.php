@@ -65,10 +65,19 @@ CcapaCcorp
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <img src="/2024/29-09/bolita-01.png" class="d-block w-100" alt="...">
+                    <img src="/2024/29-09/bolita-01.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                <img src="/2024/29-09/bolita-02-b.jpg" class="d-block w-100" alt="...">
+                    <div style="position:relative;min-height: 590px;" >
+                        <img src="/2024/29-09/bolita-02-b.jpg" class="d-block w-100" alt="...">
+                        <div class="row" style="margin-top:-60px;" >
+                            <div class="col-lg-5"></div>
+                            <div class="col-lg-2">
+                                <a href="/curso/18/derecho-laboral-empresarial-2024" class=" btn btn-secondary "   >Más información</a>
+                            </div>
+                            <div class="col-lg-5"></div>
+                        </div>
+                    </div>
                 </div>
                 <div class="carousel-item">
                     <div class="row">
@@ -392,13 +401,17 @@ CcapaCcorp
                         Brindar capacitaciones de calidad y acorde a las necesidades de los empresarios, profesionales, emprendedores y a toda persona que quiera potenciar sus conocimientos.
                         </p>
                     </div>
-                    <div class="col-lg-5 "></div>
                     <div class="col-lg-1"></div>
+                    <div class="col-lg-3 ">
+                        <img src="/2024/29-09/vision-a.png" class=" img-fluid " />
+                    </div>
                 </div>
 
-                <div class="row">
+                <div class="row" style="margin-top:20px;" >
                     <div class="col-lg-1"></div>
-                    <div class="col-lg-5"></div>
+                    <div class="col-lg-3">
+                        <img src="/2024/29-09/mision-a.png" class=" img-fluid " />
+                    </div>
                     <div class="col-lg-5">
                         <!-- <h4 style="text-align:center" >
                         Nuestra<br/>VISIÓN
