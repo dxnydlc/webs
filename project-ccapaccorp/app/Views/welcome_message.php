@@ -68,7 +68,7 @@ CcapaCcorp
                 <img src="/2024/29-09/bolita-01.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                <img src="/2024/29-09/bolita-02-b.jpg" class="d-block w-100" alt="...">
+                <img src="/2024/29-09/bolita-02-c.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
                     <div class="row">
