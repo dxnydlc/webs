@@ -81,6 +81,10 @@ $routes->get('/curso/16/(:any)', 'Home::curso_16/$1');
 $routes->get('/curso/17/(:any)', 'Home::curso_17/$1');
 
 
+// Derecho laboral empresarial 2024
+$routes->get('/curso/18/(:any)', 'Home::curso_18/$1');
+
+
 
 
 
