@@ -59,7 +59,7 @@
     <div class="custom-cursor__cursor-two"></div>
 
     <div class="preloader">
-        <div class="preloader__image" style="background-image: url(<?= esc($APP_URL) ?>2024/logo-06.png);"></div>
+        <div class="preloader__image" style="background-image: url(<?= esc($APP_URL) ?>2024/29-09/logo-cargando-a.png);"></div>
     </div>
     <!-- /.preloader -->
     <div class="page-wrapper">

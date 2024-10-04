@@ -69,8 +69,8 @@ CcapaCcorp
                 </div>
                 <div class="carousel-item">
                     <div style="position:relative;min-height: 700px;" >
-                        <img src="/2024/29-09/bolita-02-c.jpg" class="d-block w-100" alt="...">
-                        <div class="row" style="margin-top:-60px;" >
+                        <img src="/2024/29-09/bolita-02-d.png" class="d-block w-100" alt="...">
+                        <div class="row" style="margin-top:-120px;" >
                             <div class="col-lg-5"></div>
                             <div class="col-lg-2">
                                 <a href="/curso/18/derecho-laboral-empresarial-2024" class=" btn btn-secondary "   >Más información</a>

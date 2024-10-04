@@ -68,7 +68,7 @@ main-header-two
                         <div class="course-three__time" >Laboral</div>
                         <h4 class="course-three__title">
                             <a href="<?= esc($APP_URL) ?>curso/11/conceptos-remunerativos-y-no-remunerativos" >
-                                Conceptos remunerativos y No remunerativos
+                                Conceptos remunerativos y no remunerativos
                             </a>
                         </h4>
                         <div class="course-three__bottom">
