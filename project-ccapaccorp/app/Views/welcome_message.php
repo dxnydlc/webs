@@ -70,7 +70,7 @@ CcapaCcorp
                 <div class="carousel-item">
                     <div style="position:relative;min-height: 800px;" >
                         <img src="/2024/29-09/bolita-02-d.png" class="d-block w-100" alt="...">
-                        <div class="row" style="margin-top:-120px;" >
+                        <div class="row" style="margin-top:-170px;" >
                             <div class="col-lg-5"></div>
                             <div class="col-lg-2">
                                 <a href="/curso/18/derecho-laboral-empresarial-2024" class=" btn btn-secondary "   >Más información</a>
@@ -83,7 +83,7 @@ CcapaCcorp
                     <div class="row">
                         <div class="col-lg-12 " style="position:relative;min-height: 800px;" >
                             <img src="/2024/29-09/bolita-03-c.jpg" class="d-block w-100" alt="...">
-                            <div class="row" style="margin-top:-120px;" >
+                            <div class="row" style="margin-top:-140px;" >
                                 <div class="col-lg-5"></div>
                                 <div class="col-lg-2">
                                     <a href="https://wa.me/51941280252?text=Hola%20quiero%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%20la%20suscripci%C3%B3n%20anual" target="_blank" class=" btn btn-secondary "   >Más información</a>
@@ -406,7 +406,7 @@ CcapaCcorp
                         Brindar capacitaciones de calidad y acorde a las necesidades de los empresarios, profesionales, emprendedores y a toda persona que quiera potenciar sus conocimientos.
                         </p>
                     </div>
-                    <div class="col-lg-1"></div>
+                    <div class="col-lg-2"></div>
                     <div class="col-lg-3 ">
                         <img src="/2024/29-09/vision-b.png" class=" img-fluid " />
                     </div>
