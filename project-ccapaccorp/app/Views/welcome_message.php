@@ -512,7 +512,7 @@ CcapaCcorp
 
                                 <div class="course-three__bottom">
                                     <div class="course-three__author">
-                                        <h5 class="course-three__author__name">Miercoles 23 de octubre</h5>
+                                        <h5 class="course-three__author__name">Lunes 28 de octubre</h5>
                                         <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
                                     </div>
                                 </div>
