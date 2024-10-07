@@ -417,6 +417,7 @@ CcapaCcorp
                     <div class="col-lg-3">
                         <img src="/2024/29-09/mision-b.png" class=" img-fluid " />
                     </div>
+                    <div class="col-lg-1"></div>
                     <div class="col-lg-5">
                         <!-- <h4 style="text-align:center" >
                         Nuestra<br/>VISIÓN
