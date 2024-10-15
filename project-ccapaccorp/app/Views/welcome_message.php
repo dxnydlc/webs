@@ -51,10 +51,10 @@ CcapaCcorp
     }
     @media only screen and (max-width: 600px) {
         .rowBoton1{
-            margin-top: -50px;
+            margin-top: -72px;
         }
         .rowBoton2{
-            margin-top: -30px;
+            margin-top: -65px;
         }
         .wrapperBanner01{
             min-height: 155px;

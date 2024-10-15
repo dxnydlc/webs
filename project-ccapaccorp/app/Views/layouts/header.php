@@ -68,7 +68,8 @@
             </div><!-- /.main-menu__nav -->
             <div class="main-menu__right">
                 <a href="#" class="main-menu__toggler mobile-nav__toggler">
-                    <i class="fa fa-bars"></i>
+                    <!-- <i class="fa fa-bars"></i> -->
+                    <img src="/2024/29-09/menu01.png" class=" img-fluid " />
                 </a><!-- /.mobile menu btn -->
             </div><!-- /.main-menu__right -->
             <!-- /.main-menu__right -->
