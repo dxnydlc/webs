@@ -39,6 +39,20 @@ CcapaCcorp
             max-width : 100% !important;
         }
     }
+    .rowBoton1{
+        margin-top:-170px;
+    }
+    .rowBoton2{
+        margin-top:-140px;
+    }
+    @media only screen and (max-width: 600px) {
+        .rowBoton1{
+            margin-top: -50px;
+        }
+        .rowBoton2{
+            margin-top: -30px;
+        }
+    }
 </style>
 
 <?= $this->endSection() ?>
@@ -64,28 +78,31 @@ CcapaCcorp
                 <button type="button" data-bs-target="#carouselHome" data-bs-slide-to="2" aria-label="Slide 3"></button>
             </div>
             <div class="carousel-inner">
+                <!-- 01 -->
                 <div class="carousel-item active">
                     <img src="/2024/29-09/bolita-01.png" class="d-block w-100" alt="...">
                 </div>
+                <!-- 02 -->
                 <div class="carousel-item">
                     <div style="position:relative;min-height: 800px;" >
                         <img src="/2024/29-09/bolita-02-d.png" class="d-block w-100" alt="...">
-                        <div class="row" style="margin-top:-170px;" >
-                            <div class="col-lg-5"></div>
-                            <div class="col-lg-2">
+                        <div class="row rowBoton1 " >
+                            <div class="col-lg-5 col-3 " ></div>
+                            <div class="col-lg-2 col-6 " >
                                 <a href="/curso/18/derecho-laboral-empresarial-2024" class=" btn btn-secondary "   >Más información</a>
                             </div>
                             <div class="col-lg-5"></div>
                         </div>
                     </div>
                 </div>
+                <!-- 03 -->
                 <div class="carousel-item">
                     <div class="row">
                         <div class="col-lg-12 " style="position:relative;min-height: 800px;" >
                             <img src="/2024/29-09/bolita-03-c.jpg" class="d-block w-100" alt="...">
-                            <div class="row" style="margin-top:-140px;" >
-                                <div class="col-lg-5"></div>
-                                <div class="col-lg-2">
+                            <div class="row rowBoton2 "  >
+                                <div class="col-lg-5 col-3 "></div>
+                                <div class="col-lg-2 col-6 ">
                                     <a href="https://wa.me/51941280252?text=Hola%20quiero%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%20la%20suscripci%C3%B3n%20anual" target="_blank" class=" btn btn-secondary "   >Más información</a>
                                 </div>
                                 <div class="col-lg-5"></div>
