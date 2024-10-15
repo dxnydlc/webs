@@ -45,12 +45,19 @@ CcapaCcorp
     .rowBoton2{
         margin-top:-140px;
     }
+    .wrapperBanner01{
+        position:relative;
+        min-height: 800px;
+    }
     @media only screen and (max-width: 600px) {
         .rowBoton1{
             margin-top: -50px;
         }
         .rowBoton2{
             margin-top: -30px;
+        }
+        .wrapperBanner01{
+            min-height: 155px;
         }
     }
 </style>
@@ -84,7 +91,7 @@ CcapaCcorp
                 </div>
                 <!-- 02 -->
                 <div class="carousel-item">
-                    <div style="position:relative;min-height: 800px;" >
+                    <div style="" class=" wrapperBanner01 " >
                         <img src="/2024/29-09/bolita-02-d.png" class="d-block w-100" alt="...">
                         <div class="row rowBoton1 " >
                             <div class="col-lg-5 col-3 " ></div>
@@ -98,7 +105,7 @@ CcapaCcorp
                 <!-- 03 -->
                 <div class="carousel-item">
                     <div class="row">
-                        <div class="col-lg-12 " style="position:relative;min-height: 800px;" >
+                        <div class="col-lg-12 wrapperBanner01 " >
                             <img src="/2024/29-09/bolita-03-c.jpg" class="d-block w-100" alt="...">
                             <div class="row rowBoton2 "  >
                                 <div class="col-lg-5 col-3 "></div>
