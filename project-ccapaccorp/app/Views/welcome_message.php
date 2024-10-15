@@ -57,7 +57,7 @@ CcapaCcorp
             margin-top: -65px;
         }
         .wrapperBanner01{
-            min-height: 155px;
+            min-height: 180px;
         }
     }
 </style>
