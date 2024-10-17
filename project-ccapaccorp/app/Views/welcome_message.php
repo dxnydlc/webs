@@ -49,15 +49,32 @@ CcapaCcorp
         position:relative;
         min-height: 800px;
     }
+    .wrapperBanner02{
+        position:relative;
+        min-height: 800px;
+    }
     @media only screen and (max-width: 600px) {
         .rowBoton1{
-            margin-top: -72px;
+            margin-top: -50px;
         }
         .rowBoton2{
-            margin-top: -65px;
+            margin-top: -52px;
         }
         .wrapperBanner01{
             min-height: 180px;
+        }
+        .wrapperBanner02{
+            min-height: 180px;
+        }
+        .btnInfoC{
+            background-color: #f77f00 !important;
+            border : 1px #fcbf49 solid !important;
+            padding: 2px !important;
+        }
+        .btnBanner1{
+            display: block;
+            float: right;
+            margin-right: 2px;
         }
     }
 </style>
@@ -94,9 +111,9 @@ CcapaCcorp
                     <div style="" class=" wrapperBanner01 " >
                         <img src="/2024/29-09/bolita-02-d.png" class="d-block w-100" alt="...">
                         <div class="row rowBoton1 " >
-                            <div class="col-lg-5 col-3 " ></div>
-                            <div class="col-lg-2 col-6 " >
-                                <a href="/curso/18/derecho-laboral-empresarial-2024" class=" btn btn-secondary "   >Más información</a>
+                            <div class="col-lg-5 col-5 " ></div>
+                            <div class="col-lg-2 col-7 " >
+                                <a href="/curso/18/derecho-laboral-empresarial-2024" class=" btnBanner1 btnInfoC btn btn-secondary "   >Más información</a>
                             </div>
                             <div class="col-lg-5"></div>
                         </div>
@@ -105,12 +122,12 @@ CcapaCcorp
                 <!-- 03 -->
                 <div class="carousel-item">
                     <div class="row">
-                        <div class="col-lg-12 wrapperBanner01 " >
+                        <div class="col-lg-12 wrapperBanner02 " >
                             <img src="/2024/29-09/bolita-03-c.jpg" class="d-block w-100" alt="...">
                             <div class="row rowBoton2 "  >
-                                <div class="col-lg-5 col-3 "></div>
-                                <div class="col-lg-2 col-6 ">
-                                    <a href="https://wa.me/51941280252?text=Hola%20quiero%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%20la%20suscripci%C3%B3n%20anual" target="_blank" class=" btn btn-secondary "   >Más información</a>
+                                <div class="col-lg-5 col-5 "></div>
+                                <div class="col-lg-2 col-7 ">
+                                    <a href="https://wa.me/51941280252?text=Hola%20quiero%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%20la%20suscripci%C3%B3n%20anual" target="_blank" class=" btnBanner1 btnInfoC btn btn-secondary "   >Más información</a>
                                 </div>
                                 <div class="col-lg-5"></div>
                             </div>
