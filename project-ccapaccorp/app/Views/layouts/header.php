@@ -65,8 +65,9 @@
                     <!-- ................................................. -->
                     
                 </ul>
-            </div><!-- /.main-menu__nav -->
-            <div class="main-menu__right">
+            </div>
+            <!-- /.main-menu__nav -->
+            <div class="main-menu__right" style="min-width: 35px;" >
                 <a href="#" class="main-menu__toggler mobile-nav__toggler">
                     <!-- <i class="fa fa-bars"></i> -->
                     <img src="/2024/29-09/menu01.png" class=" img-fluid " style="width:30px;" />
