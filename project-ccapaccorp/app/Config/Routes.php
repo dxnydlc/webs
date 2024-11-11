@@ -85,8 +85,12 @@ $routes->get('/curso/17/(:any)', 'Home::curso_17/$1');
 $routes->get('/curso/18/(:any)', 'Home::curso_18/$1');
 
 
+// CONTABILIDAD PARA NO CONTADORES
+$routes->get('/curso/19/(:any)', 'Home::curso_varios/$1/19');
 
 
+// CIERRE TRIBUTARIO
+$routes->get('/curso/20/(:any)', 'Home::curso_varios/$1/20');
 
 
 

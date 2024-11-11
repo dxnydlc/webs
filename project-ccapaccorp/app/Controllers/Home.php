@@ -186,6 +186,26 @@ class Home extends BaseController
     }
     // ........................................................
     // ........................................................
+    // Derecho laboral empresarial 2024
+    public function curso_varios( $texto , $indice ): string
+    {
+        $data['APP_URL']    = getenv('app.baseURL');
+        $data['VERSION']  = VERSION;
+        $data['texto']  = $texto;
+        switch ($indice) {
+            case 19:
+                // CONTABILIDAD PARA NO CONTADORES
+                return view( 'curso/curso_19' , $data );
+            break;
+            case 20:
+                // CIERRE TRIBUTARIO
+                return view( 'curso/curso_20' , $data );
+            break;
+            default:
+                # code...
+            break;
+        }
+    }
     // ........................................................
     // ........................................................
     // ........................................................
