@@ -201,6 +201,10 @@ class Home extends BaseController
                 // CIERRE TRIBUTARIO
                 return view( 'curso/curso_20' , $data );
             break;
+            case 21:
+                // ¿Sabes cómo recuperar exitosamente los subsidios laborales ante EsSalud?
+                return view( 'curso/curso_21' , $data );
+            break;
             default:
                 # code...
             break;

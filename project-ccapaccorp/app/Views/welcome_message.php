@@ -513,6 +513,53 @@ CcapaCcorp
                     <h2 class="section-title__title">PRÓXIMOS SEMINARIOS</h2>
                 </div>
 
+                <div class="row">
+                    <div class=" col-lg-6 col-xl-6 " >
+                        <div class="course-three__item">
+                            <div class="course-three__thumb">
+                                <img src="/2024/11-11/curso_21-ESSALUD.jpg" alt="eduact">
+                            </div>
+                            <div class="course-three__content">
+                                <div class="course-three__time" >Laboral</div>
+                                <h4 class="course-three__title">
+                                    <a href="<?= esc($APP_URL) ?>curso/21/Sabes-como-recuperar-exitosamente-los-subsidios-laborales-ante-EsSalud" >
+                                    ¿Sabes cómo recuperar exitosamente los subsidios laborales ante EsSalud?
+                                    </a>
+                                </h4>
+                                <div class="course-three__bottom">
+                                    <div class="course-three__author">
+                                        <h5 class="course-three__author__name" >Martes 10 de Diciembre</h5>
+                                        <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ./col -->
+                    <div class=" col-lg-6 col-xl-6 " >
+                        <div class="course-three__item">
+                            <div class="course-three__thumb">
+                                <img src="/2024/11-11/curso-Conta-01.jpg" alt="eduact">
+                            </div>
+                            <div class="course-three__content">
+                                <div class="course-three__time" >Laboral</div>
+                                <h4 class="course-three__title">
+                                    <a href="<?= esc($APP_URL) ?>curso/19/CONTABILIDAD-PARA-NO-CONTADORES" >
+                                    Contabilidad para no contadores
+                                    </a>
+                                </h4>
+                                <div class="course-three__bottom">
+                                    <div class="course-three__author">
+                                        <h5 class="course-three__author__name" >Martes 03 y jueves 05 de diciembre</h5>
+                                        <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ./col -->
+                </div>
+
                 <div class="row" >
                     
                     <div class=" col-lg-6 col-xl-6 " >

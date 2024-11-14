@@ -92,6 +92,8 @@ $routes->get('/curso/19/(:any)', 'Home::curso_varios/$1/19');
 // CIERRE TRIBUTARIO
 $routes->get('/curso/20/(:any)', 'Home::curso_varios/$1/20');
 
+// ¿Sabes cómo recuperar exitosamente los subsidios laborales ante EsSalud?
+$routes->get('/curso/21/(:any)', 'Home::curso_varios/$1/21');
 
 
 
