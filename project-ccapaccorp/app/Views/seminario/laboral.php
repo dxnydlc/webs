@@ -80,11 +80,6 @@ main-header-two
                 </div>
             </div>
             <!-- ./col -->
-        </div>
-        <!-- ./row -->
-
-        <div class="row" style="margin-top: 50px;" >
-
             <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
                 <div class="course-three__item">
                     <div class="course-three__thumb">
@@ -107,6 +102,9 @@ main-header-two
                 </div>
             </div>
             <!-- ./col -->
+
+
+            
             <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
                 <div class="course-three__item">
                     <div class="course-three__thumb">
@@ -131,11 +129,6 @@ main-header-two
                 </div>
             </div>
             <!-- ./col -->
-        </div>
-
-        <!-- ./row -->
-
-        <div class="row">
             <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
                 <div class="course-three__item">
                     <div class="course-three__thumb">
@@ -160,6 +153,8 @@ main-header-two
                 </div>
             </div>
             <!-- ./col -->
+
+            
             <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
                 <div class="course-three__item">
                     <div class="course-three__thumb">
@@ -184,10 +179,7 @@ main-header-two
                 </div>
             </div>
             <!-- ./col -->
-        </div>
-        <!-- ./row -->
 
-        <div class="row">
             <div class="col-xl-6 wow fadeInUp" data-wow-delay="200ms">
                 <div class="course-three__item">
                     <div class="course-three__thumb">
