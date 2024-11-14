@@ -542,7 +542,7 @@ CcapaCcorp
                                 <img src="/2024/11-11/curso-Conta-01.jpg" alt="eduact">
                             </div>
                             <div class="course-three__content">
-                                <div class="course-three__time" >Laboral</div>
+                                <div class="course-three__time" >Contable</div>
                                 <h4 class="course-three__title">
                                     <a href="<?= esc($APP_URL) ?>curso/19/CONTABILIDAD-PARA-NO-CONTADORES" >
                                     Contabilidad para no contadores
@@ -560,86 +560,7 @@ CcapaCcorp
                     <!-- ./col -->
                 </div>
 
-                <div class="row" >
-                    
-                    <div class=" col-lg-6 col-xl-6 " >
-                        <div class="course-three__item">
-                            <div class="course-three__thumb">
-                                <img src="/2024/29-09/seminario-laboral-01.jpg" alt="eduact">
-                            </div>
-                            <div class="course-three__content">
-                                <div class="course-three__time" >Laboral</div>
-                                <h4 class="course-three__title">
-                                    <a href="<?= esc($APP_URL) ?>curso/11/conceptos-remunerativos-y-No-remunerativos" >
-                                        Conceptos remunerativos y no remunerativos
-                                    </a>
-                                </h4>
-                                <div class="course-three__bottom">
-                                    <div class="course-three__author">
-                                        <h5 class="course-three__author__name" >Jueves 24 de octubre</h5>
-                                        <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- ./col -->
-                    <div class=" col-lg-6 col-xl-6 " >
-                        <div class="course-three__item">
-                            <div class="course-three__thumb">
-                                <img src="/2024/29-09/seminario-tributario-01.jpg" alt="eduact">
-                            </div>
-                            <div class="course-three__content">
-                                <div class="course-three__time" >Tributario</div>
-                                
-                                <h3 class="course-three__title">
-                                    <a href="<?= esc($APP_URL) ?>curso/12/incremento-patrimonial-NO-justificado" >
-                                        Incremento patrimonial NO justificado
-                                    </a>
-                                </h3>
-
-                                <div class="course-three__bottom">
-                                    <div class="course-three__author">
-                                        <h5 class="course-three__author__name">Lunes 28 de octubre</h5>
-                                        <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- ./col -->
-                </div>
                 <!-- ./row -->
-                <div class="row">
-                    <div class=" col-lg-3 col-xl-3 "></div>
-                    <!-- ./col -->
-                    <div class=" col-lg-6 col-xl-6 " >
-                        <div class="course-three__item">
-                            <div class="course-three__thumb">
-                                <img src="/2024/29-09/seminario-laboral-02.jpg" alt="eduact">
-                            </div>
-                            <div class="course-three__content">
-                                <div class="course-three__time" >Laboral</div>
-                                
-                                <h3 class="course-three__title">
-                                    <a href="<?= esc($APP_URL) ?>curso/13/Evita-contingecias-legales-ante-un-despido" >
-                                        Evita contingecias legales ante un despido
-                                    </a>
-                                </h3>
-
-                                <div class="course-three__bottom">
-                                    <div class="course-three__author">
-                                        <h5 class="course-three__author__name">Lunes 14 de octubre</h5>
-                                        <p class="course-three__author__designation" style="text-transform: none;" >De 7:00 p.m. a 10:00 p.m.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- ./col -->
-                    <div class=" col-lg-3 col-xl-3 "></div>
-                    <!-- ./col -->
-                </div>
                 <!-- ./row -->
                 <!-- ./row -->
                 <!-- ./row -->
