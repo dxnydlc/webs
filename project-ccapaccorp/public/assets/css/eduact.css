@@ -9965,10 +9965,11 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 
 .course-details__overview__text {
-  font-weight: 600;
+  /* font-weight: 600; */
   line-height: 32px;
   letter-spacing: 0.32px;
   margin: 0 0 19px;
+  color: var(--eduact-black);
 }
 
 .course-details__overview__lists {

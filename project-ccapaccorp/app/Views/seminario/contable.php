@@ -48,7 +48,7 @@ main-header-two
                         <img src="/2024/11-11/curso-Conta-01.jpg" alt="eduact">
                     </div>
                     <div class="course-three__content">
-                        <div class="course-three__time" >Laboral</div>
+                        <div class="course-three__time" >Contable</div>
                         <h4 class="course-three__title">
                             <a href="<?= esc($APP_URL) ?>curso/19/CONTABILIDAD-PARA-NO-CONTADORES" >
                             Contabilidad para no contadores

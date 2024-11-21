@@ -119,7 +119,7 @@ Temas a tratar:
 </ul>
 
 
-
+<p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
 <br/><br/>
 <strong>Sesión 2:</strong>
 </p>
@@ -147,10 +147,11 @@ Temas a tratar:
 </ul>
 
 
-
+<p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
 <br/><br/>
 <strong>Beneficios que te deja este seminario:</strong>
 </p>
+
 <ul class="list-unstyled course-details__overview__lists">
     <li>
         <span class="icon-check"></span>
@@ -171,10 +172,11 @@ Temas a tratar:
 </ul>
 
 
-
+<p class="course-details__overview__text" style="font-size:20px;margin-bottom: 3px;" >
 <br/><br/>
 <strong>Incluye:</strong>
 </p>
+
 <ul class="list-unstyled course-details__overview__lists">
     <li>
         <span class="icon-check"></span>
